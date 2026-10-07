@@ -1,0 +1,4 @@
+Create a 16:9 1280x720 editorial thumbnail, matching the attached canonical stickman reference: round white head, charcoal hoodie, rust-orange collar. Warm paper #F7F4EE, charcoal ink, rust #C8623C watercolor. Character on right sinks into a soft couch that forms a closed loop; a small open doorway glows beyond one achievable step. Clear, tense silhouette, simple composition, 45% blank space on left for separately typeset headline. No text, logos, numbers, or extra characters. Bottom remains clean.
+
+Planned separate overlay: SUCCESS / OR COMFORT?
+Status: prompt only; not generated.

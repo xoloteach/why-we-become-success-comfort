@@ -1,0 +1,6 @@
+.env*
+*.log
+*.pid
+__pycache__/
+final*.mp4
+voiceover*.wav
