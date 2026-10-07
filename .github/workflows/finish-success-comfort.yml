@@ -1,0 +1,65 @@
+name: Finish Success Comfort MP4
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: read
+jobs:
+  finish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: 36fe5a5b794b3a11bbf5439f57a923ab16fa3136
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install only needed Python wheels
+        run: |
+          command -v ffmpeg
+          command -v ffprobe
+          pip install --only-binary=:all: numpy pillow opencv-contrib-python-headless
+      - name: Reconstruct selected artwork
+        run: python upscale_art.py
+      - name: Finish missing section
+        run: |
+          mkdir -p parts final
+          python - <<'PYC'
+          import json,subprocess
+          frames=round(json.load(open('timeline.json'))['total']*30)
+          subprocess.run(['python','v2/render_motion.py',str((frames//4)/30),str((frames*2//4)/30),'parts/part-1.mp4'],check=True)
+          PYC
+      - uses: actions/download-artifact@v4
+        with:
+          github-token: ${{ github.token }}
+          run-id: 37673137566
+          pattern: motion-part-*
+          path: parts
+          merge-multiple: true
+      - name: Assemble complete MP4
+        run: |
+          printf "file '%s'\n" "$PWD/parts/part-0.mp4" "$PWD/parts/part-1.mp4" "$PWD/parts/part-2.mp4" "$PWD/parts/part-3.mp4" > parts/concat.txt
+          ffmpeg -y -loglevel error -f concat -safe 0 -i parts/concat.txt -c copy parts/picture.mp4
+          ffmpeg -y -loglevel error -i parts/picture.mp4 -i assets/mix.flac -map 0:v:0 -map 1:a:0 -c:v copy -c:a aac -b:a 192k -movflags +faststart -shortest final/file.mp4
+          ffprobe -v error -show_streams -show_format -of json final/file.mp4 > final/technical-probe.json
+          python - <<'PYC'
+          import json,hashlib
+          p=json.load(open('final/technical-probe.json'));v=next(x for x in p['streams'] if x['codec_type']=='video');a=next(x for x in p['streams'] if x['codec_type']=='audio');t=json.load(open('timeline.json'))['total'];d=float(p['format']['duration'])
+          assert v['width']==1920 and v['height']==1080 and v['r_frame_rate']=='30/1'
+          assert abs(d-t)<.5
+          json.dump({'head_sha':'36fe5a5b794b3a11bbf5439f57a923ab16fa3136','duration':d,'width':v['width'],'height':v['height'],'fps':v['r_frame_rate'],'audio_codec':a['codec_name'],'sha256':hashlib.sha256(open('final/file.mp4','rb').read()).hexdigest(),'provenance':'Three completed cloud sections restored; section 1 completed from the same pinned source; single-pass audio mux.'},open('final/render-result.json','w'),indent=2)
+          PYC
+          cp deliverables/thumbnail.png final/thumbnail.png
+          cp v2/seo.md final/seo.md
+          cp prep/script.txt final/transcript.txt
+          cp v2/panel_sync_review.md final/panel-sync-review.md
+          cp v2/alignment_report.json final/alignment-report.json
+          cp v2/scene_plan.json final/scene-plan.json
+          cp v2/captions.ass final/captions.ass
+          ffmpeg -hide_banner -i final/file.mp4 -af loudnorm=I=-16:TP=-1:LRA=11:print_format=json -f null - 2> final/loudness-analysis.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: final-master
+          path: final/*
+          retention-days: 14
