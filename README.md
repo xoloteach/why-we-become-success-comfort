@@ -1,16 +1,16 @@
 # Why You Want Success But Keep Choosing Comfort
 
-Private, image-ready preproduction checkpoint for Why We Become.
+Private production checkpoint for Why We Become.
 
-## Current status
-The complete initial prompt bundle is ready: 18 contact sheets / 162 planned cells plus one dedicated thumbnail. No automatic image generation occurs in this Notion workflow; the user will generate and upload the images. No narration was synthesized in this preparation pass. No timed scene map, motion renderer, master or release exists.
+## Actual current status
+The user uploaded two versions of each image. All 36 sheet variants and both thumbnails were compared in rendered overviews. Eighteen sheets were selected, with three per-cell substitutions; 162 real native crops were extracted and one pseudo-writing cell intentionally withheld. The chosen thumbnail was manually typeset and inspected at full and mobile size.
 
-The current complete source package is saved in the private Notion episode page as success-comfort-image-ready.zip, with image-prompts.md and script.txt also attached separately. The ZIP contains the preserved script, copy-ready prompts, prompt inventory, semantic chapter draft, planned 162-panel inventory, SEO draft, production notes, checkpoint and reproducible build_bundle.py. Notion is the source of truth for the script and complete prep package.
+The complete current source package is saved to the existing private Notion project as success-comfort-artwork-checkpoint.zip, with the original input ZIP and thumbnail attached. It includes actual assets, extraction script, native crops, draft masks, preserved script, semantic planning and honest QA reports. The repository stores the current selection/status checkpoint; full binary asset persistence is in Notion pending restored computer network access.
 
-## Planning assumptions
-1,975 script words. At 140 words/minute the estimated runtime is about 14.1 minutes; 18 sheets are provisional. Recalculate ceil(final_processed_audio_seconds / 60 * 1.25). Earlier 17-sheet planning used 150 words/minute; neither estimate is audio duration.
+## Blocker
+Computer internet access is disabled. The attempted public-source request failed with DNS lookup error [Errno -2] Name or service not known. Deepgram narration and verified alignment cannot run on this computer yet. No episode renderer, full master, release or active background export exists.
 
 ## Resume
-Upload sheet-01.png through sheet-18.png and thumbnail.png with canonical character reference maintained. Inspect actual artwork, extract real grid cells, process narration, align verified spoken cues, subdivide chapter groups into purposeful motion scenes, build semantic graphics and subtitles, inspect captioned frames/motion clips, render and technically verify the full master, then create a new versioned release.
+Restore external network access, synthesize the preserved script using the verified Deepgram Flux Cole /v2/speak route with protected credentials, finish all audio processing before word alignment, reconstruct soft crops, inspect every native/dark mask layout, implement narration-timed semantic graphics, inspect captioned motion samples, render the complete 1920x1080/30fps master, technically verify and publish a new versioned release. Keep the canonical subscribe end card. Never publish guessed SEO chapter times or fake QA passes.
 
-Do not invent image assets, timestamps, QA passes, empirical graphs or completed audio. Preserve the existing canonical subscribe end card. The repository remains private. No private instruction exports, credentials, signed URLs or logs are included in this commit.
+No credentials, .env values or private instruction exports are included in this commit. The repository remains private.
