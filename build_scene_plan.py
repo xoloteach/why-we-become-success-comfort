@@ -138,8 +138,16 @@ header='''[Script Info]\nScriptType: v4.00+\nPlayResX: 1920\nPlayResY: 1080\nWra
 events=[];caption_count=0
 for l in lineinfo:
  ids=list(range(l['word_start'],l['word_end']))
- for off in range(0,len(ids),7):
-  chunk=ids[off:off+7];caption_count+=1
+ groups=[];current=[]
+ from PIL import ImageFont
+ font=ImageFont.truetype(str(R/'fonts/Montserrat-ExtraBold.ttf'),58)
+ for j in ids:
+  proposed=current+[j]
+  if current and (len(proposed)>7 or font.getlength(' '.join(expected[k] for k in proposed))>1510):groups.append(current);current=[]
+  current.append(j)
+ if current:groups.append(current)
+ for chunk in groups:
+  caption_count+=1
   for active in chunk:
    a=start[active];b=end[active]
    if b-a<.025:continue
