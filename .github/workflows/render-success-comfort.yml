@@ -1,0 +1,84 @@
+name: Render Success Comfort Master
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    strategy:
+      fail-fast: false
+      matrix:
+        part: [0, 1, 2, 3]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install renderer dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          pip install numpy pillow opencv-contrib-python-headless
+      - name: Reconstruct selected artwork
+        run: python upscale_art.py
+      - name: Render timed motion part
+        env:
+          PART: ${{ matrix.part }}
+        run: |
+          mkdir -p output
+          python - <<'PY'
+          import json,os,subprocess
+          part=int(os.environ['PART']);total=json.load(open('timeline.json'))['total'];frames=round(total*30)
+          first=frames*part//4;last=frames*(part+1)//4
+          subprocess.run(['python','v2/render_motion.py',str(first/30),str(last/30),f'output/part-{part}.mp4'],check=True)
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: motion-part-${{ matrix.part }}
+          path: output/part-*.mp4
+          retention-days: 14
+  assemble:
+    needs: render
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install media tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: motion-part-*
+          path: parts
+          merge-multiple: true
+      - name: Assemble and verify master
+        run: |
+          mkdir -p final
+          printf "file '%s'\n" "$PWD/parts/part-0.mp4" "$PWD/parts/part-1.mp4" "$PWD/parts/part-2.mp4" "$PWD/parts/part-3.mp4" > parts/concat.txt
+          ffmpeg -y -loglevel error -f concat -safe 0 -i parts/concat.txt -c copy parts/picture.mp4
+          ffmpeg -y -loglevel error -i parts/picture.mp4 -i assets/mix.flac -map 0:v:0 -map 1:a:0 -c:v copy -c:a aac -b:a 192k -movflags +faststart -shortest final/file.mp4
+          ffprobe -v error -show_streams -show_format -of json final/file.mp4 > final/technical-probe.json
+          python3 - <<'PY'
+          import json,hashlib,os
+          p=json.load(open('final/technical-probe.json'));v=next(x for x in p['streams'] if x['codec_type']=='video');a=next(x for x in p['streams'] if x['codec_type']=='audio');t=json.load(open('timeline.json'))['total'];d=float(p['format']['duration'])
+          assert v['width']==1920 and v['height']==1080 and v['r_frame_rate']=='30/1'
+          assert abs(d-t)<.5
+          result={'duration':d,'width':v['width'],'height':v['height'],'fps':v['r_frame_rate'],'audio_codec':a['codec_name'],'head_sha':os.environ['GITHUB_SHA'],'run_id':os.environ['GITHUB_RUN_ID'],'sha256':hashlib.sha256(open('final/file.mp4','rb').read()).hexdigest()}
+          json.dump(result,open('final/render-result.json','w'),indent=2)
+          PY
+          cp deliverables/thumbnail.png final/thumbnail.png
+          cp v2/seo.md final/seo.md
+          cp prep/script.txt final/transcript.txt
+          cp v2/panel_sync_review.md final/panel-sync-review.md
+          cp v2/alignment_report.json final/alignment-report.json
+          cp v2/scene_plan.json final/scene-plan.json
+          cp v2/captions.ass final/captions.ass
+          ffmpeg -hide_banner -i final/file.mp4 -af loudnorm=I=-16:TP=-1:LRA=11:print_format=json -f null - 2> final/loudness-analysis.txt
+      - uses: actions/upload-artifact@v4
+        with:
+          name: final-master
+          path: final/*
+          retention-days: 14

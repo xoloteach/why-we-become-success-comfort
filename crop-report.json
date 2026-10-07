@@ -1,0 +1,5348 @@
+[
+  {
+    "panel_id": "S01-P01",
+    "source_asset": 35,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_5.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      452,
+      247
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      6,
+      67,
+      445,
+      227
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "09908c26790712cf6cbfb73e4ec13be87304d74ac9f68d996af9a62b48c71dc7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S01-P02",
+    "source_asset": 35,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_5.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      466,
+      7,
+      909,
+      247
+    ],
+    "native_dimensions": [
+      443,
+      240
+    ],
+    "bbox": [
+      2,
+      41,
+      229,
+      227
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "09908c26790712cf6cbfb73e4ec13be87304d74ac9f68d996af9a62b48c71dc7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S01-P03",
+    "source_asset": 35,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_5.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      923,
+      7,
+      1369,
+      247
+    ],
+    "native_dimensions": [
+      446,
+      240
+    ],
+    "bbox": [
+      249,
+      4,
+      428,
+      230
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "09908c26790712cf6cbfb73e4ec13be87304d74ac9f68d996af9a62b48c71dc7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S01-P04",
+    "source_asset": 35,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_5.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      261,
+      452,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      245
+    ],
+    "bbox": [
+      19,
+      14,
+      227,
+      233
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "09908c26790712cf6cbfb73e4ec13be87304d74ac9f68d996af9a62b48c71dc7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S01-P05",
+    "source_asset": 35,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_5.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      466,
+      261,
+      909,
+      506
+    ],
+    "native_dimensions": [
+      443,
+      245
+    ],
+    "bbox": [
+      32,
+      84,
+      443,
+      230
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "09908c26790712cf6cbfb73e4ec13be87304d74ac9f68d996af9a62b48c71dc7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S01-P06",
+    "source_asset": 35,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_5.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      923,
+      261,
+      1369,
+      506
+    ],
+    "native_dimensions": [
+      446,
+      245
+    ],
+    "bbox": [
+      22,
+      47,
+      245,
+      238
+    ],
+    "estimated_paper": [
+      253.0,
+      252.0,
+      239.0
+    ],
+    "source_sha256": "09908c26790712cf6cbfb73e4ec13be87304d74ac9f68d996af9a62b48c71dc7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S01-P07",
+    "source_asset": 35,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_5.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      520,
+      452,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      236,
+      29,
+      434,
+      222
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "09908c26790712cf6cbfb73e4ec13be87304d74ac9f68d996af9a62b48c71dc7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S01-P08",
+    "source_asset": 35,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_5.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      466,
+      520,
+      909,
+      761
+    ],
+    "native_dimensions": [
+      443,
+      241
+    ],
+    "bbox": [
+      42,
+      39,
+      205,
+      222
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "09908c26790712cf6cbfb73e4ec13be87304d74ac9f68d996af9a62b48c71dc7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S01-P09",
+    "source_asset": 35,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_5.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      923,
+      520,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      446,
+      241
+    ],
+    "bbox": [
+      132,
+      49,
+      444,
+      230
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "09908c26790712cf6cbfb73e4ec13be87304d74ac9f68d996af9a62b48c71dc7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S02-P01",
+    "source_asset": 24,
+    "source_original_name": "Stickman_grid_showing_procrastin\u2026_20261007234350_2.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      451,
+      247
+    ],
+    "native_dimensions": [
+      444,
+      240
+    ],
+    "bbox": [
+      187,
+      48,
+      437,
+      238
+    ],
+    "estimated_paper": [
+      251.0,
+      249.0,
+      237.0
+    ],
+    "source_sha256": "bc89a2dbb748a97790a5d47a7eeea3d2829bd2b46764bb4a443ebe7e796e1b47",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S02-P02",
+    "source_asset": 24,
+    "source_original_name": "Stickman_grid_showing_procrastin\u2026_20261007234350_2.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      465,
+      7,
+      910,
+      247
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      20,
+      44,
+      398,
+      240
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "bc89a2dbb748a97790a5d47a7eeea3d2829bd2b46764bb4a443ebe7e796e1b47",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S02-P03",
+    "source_asset": 24,
+    "source_original_name": "Stickman_grid_showing_procrastin\u2026_20261007234350_2.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      924,
+      7,
+      1369,
+      247
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      51,
+      45,
+      445,
+      240
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "bc89a2dbb748a97790a5d47a7eeea3d2829bd2b46764bb4a443ebe7e796e1b47",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S02-P04",
+    "source_asset": 24,
+    "source_original_name": "Stickman_grid_showing_procrastin\u2026_20261007234350_2.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      261,
+      451,
+      506
+    ],
+    "native_dimensions": [
+      444,
+      245
+    ],
+    "bbox": [
+      20,
+      46,
+      401,
+      242
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "bc89a2dbb748a97790a5d47a7eeea3d2829bd2b46764bb4a443ebe7e796e1b47",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S02-P05",
+    "source_asset": 24,
+    "source_original_name": "Stickman_grid_showing_procrastin\u2026_20261007234350_2.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      465,
+      261,
+      910,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      245
+    ],
+    "bbox": [
+      114,
+      9,
+      443,
+      245
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "bc89a2dbb748a97790a5d47a7eeea3d2829bd2b46764bb4a443ebe7e796e1b47",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S02-P06",
+    "source_asset": 24,
+    "source_original_name": "Stickman_grid_showing_procrastin\u2026_20261007234350_2.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      924,
+      261,
+      1369,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      245
+    ],
+    "bbox": [
+      11,
+      53,
+      415,
+      245
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "bc89a2dbb748a97790a5d47a7eeea3d2829bd2b46764bb4a443ebe7e796e1b47",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S02-P07",
+    "source_asset": 24,
+    "source_original_name": "Stickman_grid_showing_procrastin\u2026_20261007234350_2.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      520,
+      451,
+      761
+    ],
+    "native_dimensions": [
+      444,
+      241
+    ],
+    "bbox": [
+      121,
+      35,
+      435,
+      241
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "bc89a2dbb748a97790a5d47a7eeea3d2829bd2b46764bb4a443ebe7e796e1b47",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S02-P08",
+    "source_asset": 24,
+    "source_original_name": "Stickman_grid_showing_procrastin\u2026_20261007234350_2.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      465,
+      520,
+      910,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      56,
+      3,
+      357,
+      241
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "bc89a2dbb748a97790a5d47a7eeea3d2829bd2b46764bb4a443ebe7e796e1b47",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S02-P09",
+    "source_asset": 24,
+    "source_original_name": "Stickman_grid_showing_procrastin\u2026_20261007234350_2.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      924,
+      520,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      82,
+      0,
+      445,
+      241
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "bc89a2dbb748a97790a5d47a7eeea3d2829bd2b46764bb4a443ebe7e796e1b47",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S03-P01",
+    "source_asset": 34,
+    "source_original_name": "Stickman_contact_sheet_of_tasks_20261007234350.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      451,
+      246
+    ],
+    "native_dimensions": [
+      444,
+      239
+    ],
+    "bbox": [
+      205,
+      47,
+      444,
+      238
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "7f96a6489184b765f6d05b1daa0605b6d3523c344313a719e4be00f34aa634f7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S03-P02",
+    "source_asset": 34,
+    "source_original_name": "Stickman_contact_sheet_of_tasks_20261007234350.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      465,
+      7,
+      910,
+      246
+    ],
+    "native_dimensions": [
+      445,
+      239
+    ],
+    "bbox": [
+      6,
+      40,
+      234,
+      237
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "7f96a6489184b765f6d05b1daa0605b6d3523c344313a719e4be00f34aa634f7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S03-P03",
+    "source_asset": 34,
+    "source_original_name": "Stickman_contact_sheet_of_tasks_20261007234350.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      924,
+      7,
+      1369,
+      246
+    ],
+    "native_dimensions": [
+      445,
+      239
+    ],
+    "bbox": [
+      13,
+      57,
+      441,
+      226
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "7f96a6489184b765f6d05b1daa0605b6d3523c344313a719e4be00f34aa634f7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S03-P04",
+    "source_asset": 34,
+    "source_original_name": "Stickman_contact_sheet_of_tasks_20261007234350.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      260,
+      451,
+      506
+    ],
+    "native_dimensions": [
+      444,
+      246
+    ],
+    "bbox": [
+      7,
+      58,
+      430,
+      242
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "7f96a6489184b765f6d05b1daa0605b6d3523c344313a719e4be00f34aa634f7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S03-P05",
+    "source_asset": 34,
+    "source_original_name": "Stickman_contact_sheet_of_tasks_20261007234350.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      465,
+      260,
+      910,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      246
+    ],
+    "bbox": [
+      13,
+      51,
+      442,
+      240
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "7f96a6489184b765f6d05b1daa0605b6d3523c344313a719e4be00f34aa634f7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S03-P06",
+    "source_asset": 34,
+    "source_original_name": "Stickman_contact_sheet_of_tasks_20261007234350.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      924,
+      260,
+      1369,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      246
+    ],
+    "bbox": [
+      11,
+      52,
+      435,
+      239
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "7f96a6489184b765f6d05b1daa0605b6d3523c344313a719e4be00f34aa634f7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S03-P07",
+    "source_asset": 34,
+    "source_original_name": "Stickman_contact_sheet_of_tasks_20261007234350.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      520,
+      451,
+      761
+    ],
+    "native_dimensions": [
+      444,
+      241
+    ],
+    "bbox": [
+      13,
+      42,
+      440,
+      236
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "7f96a6489184b765f6d05b1daa0605b6d3523c344313a719e4be00f34aa634f7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S03-P08",
+    "source_asset": 34,
+    "source_original_name": "Stickman_contact_sheet_of_tasks_20261007234350.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      465,
+      520,
+      910,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      8,
+      6,
+      432,
+      241
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "7f96a6489184b765f6d05b1daa0605b6d3523c344313a719e4be00f34aa634f7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S03-P09",
+    "source_asset": 34,
+    "source_original_name": "Stickman_contact_sheet_of_tasks_20261007234350.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      924,
+      520,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      96,
+      49,
+      285,
+      233
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "7f96a6489184b765f6d05b1daa0605b6d3523c344313a719e4be00f34aa634f7",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S04-P01",
+    "source_asset": 4,
+    "source_original_name": "Stickman_completing_busywork_grid_20261007234350.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      450,
+      247
+    ],
+    "native_dimensions": [
+      443,
+      240
+    ],
+    "bbox": [
+      162,
+      34,
+      443,
+      236
+    ],
+    "estimated_paper": [
+      252.0,
+      249.0,
+      237.0
+    ],
+    "source_sha256": "3d2f90111fe5986465a480db93f5babe5b04e075f926863cdf1bc4e8feda2161",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S04-P02",
+    "source_asset": 4,
+    "source_original_name": "Stickman_completing_busywork_grid_20261007234350.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      464,
+      7,
+      909,
+      247
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      0,
+      10,
+      445,
+      235
+    ],
+    "estimated_paper": [
+      252.0,
+      249.0,
+      237.0
+    ],
+    "source_sha256": "3d2f90111fe5986465a480db93f5babe5b04e075f926863cdf1bc4e8feda2161",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S04-P03",
+    "source_asset": 4,
+    "source_original_name": "Stickman_completing_busywork_grid_20261007234350.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      923,
+      7,
+      1369,
+      247
+    ],
+    "native_dimensions": [
+      446,
+      240
+    ],
+    "bbox": [
+      251,
+      56,
+      432,
+      228
+    ],
+    "estimated_paper": [
+      253.0,
+      249.0,
+      237.0
+    ],
+    "source_sha256": "3d2f90111fe5986465a480db93f5babe5b04e075f926863cdf1bc4e8feda2161",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S04-P04",
+    "source_asset": 4,
+    "source_original_name": "Stickman_completing_busywork_grid_20261007234350.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      261,
+      450,
+      504
+    ],
+    "native_dimensions": [
+      443,
+      243
+    ],
+    "bbox": [
+      0,
+      32,
+      443,
+      240
+    ],
+    "estimated_paper": [
+      252.0,
+      249.0,
+      236.0
+    ],
+    "source_sha256": "3d2f90111fe5986465a480db93f5babe5b04e075f926863cdf1bc4e8feda2161",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S04-P05",
+    "source_asset": 4,
+    "source_original_name": "Stickman_completing_busywork_grid_20261007234350.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      464,
+      261,
+      909,
+      504
+    ],
+    "native_dimensions": [
+      445,
+      243
+    ],
+    "bbox": [
+      173,
+      42,
+      445,
+      238
+    ],
+    "estimated_paper": [
+      252.0,
+      249.0,
+      235.0
+    ],
+    "source_sha256": "3d2f90111fe5986465a480db93f5babe5b04e075f926863cdf1bc4e8feda2161",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S04-P06",
+    "source_asset": 4,
+    "source_original_name": "Stickman_completing_busywork_grid_20261007234350.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      923,
+      261,
+      1369,
+      504
+    ],
+    "native_dimensions": [
+      446,
+      243
+    ],
+    "bbox": [
+      0,
+      30,
+      446,
+      238
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "3d2f90111fe5986465a480db93f5babe5b04e075f926863cdf1bc4e8feda2161",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S04-P07",
+    "source_asset": 4,
+    "source_original_name": "Stickman_completing_busywork_grid_20261007234350.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      518,
+      450,
+      761
+    ],
+    "native_dimensions": [
+      443,
+      243
+    ],
+    "bbox": [
+      165,
+      54,
+      443,
+      228
+    ],
+    "estimated_paper": [
+      253.0,
+      249.0,
+      237.0
+    ],
+    "source_sha256": "3d2f90111fe5986465a480db93f5babe5b04e075f926863cdf1bc4e8feda2161",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S04-P08",
+    "source_asset": 4,
+    "source_original_name": "Stickman_completing_busywork_grid_20261007234350.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      464,
+      518,
+      909,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      243
+    ],
+    "bbox": [
+      0,
+      35,
+      445,
+      216
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "3d2f90111fe5986465a480db93f5babe5b04e075f926863cdf1bc4e8feda2161",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S04-P09",
+    "source_asset": 4,
+    "source_original_name": "Stickman_completing_busywork_grid_20261007234350.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      923,
+      518,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      446,
+      243
+    ],
+    "bbox": [
+      173,
+      35,
+      444,
+      192
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "3d2f90111fe5986465a480db93f5babe5b04e075f926863cdf1bc4e8feda2161",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S05-P01",
+    "source_asset": 16,
+    "source_original_name": "Stickman_contact_sheet_grid_20261007234350.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      451,
+      247
+    ],
+    "native_dimensions": [
+      444,
+      240
+    ],
+    "bbox": [
+      190,
+      41,
+      437,
+      234
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "361f64ae19df370dd8064c8d21bf048c6c14b8bd82d2e286ad9729e446ddb13f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S05-P02",
+    "source_asset": 16,
+    "source_original_name": "Stickman_contact_sheet_grid_20261007234350.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      465,
+      7,
+      910,
+      247
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      48,
+      33,
+      190,
+      240
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "361f64ae19df370dd8064c8d21bf048c6c14b8bd82d2e286ad9729e446ddb13f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S05-P03",
+    "source_asset": 16,
+    "source_original_name": "Stickman_contact_sheet_grid_20261007234350.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      924,
+      7,
+      1369,
+      247
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      206,
+      25,
+      390,
+      240
+    ],
+    "estimated_paper": [
+      254.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "361f64ae19df370dd8064c8d21bf048c6c14b8bd82d2e286ad9729e446ddb13f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S05-P04",
+    "source_asset": 16,
+    "source_original_name": "Stickman_contact_sheet_grid_20261007234350.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      261,
+      451,
+      506
+    ],
+    "native_dimensions": [
+      444,
+      245
+    ],
+    "bbox": [
+      46,
+      44,
+      395,
+      243
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "361f64ae19df370dd8064c8d21bf048c6c14b8bd82d2e286ad9729e446ddb13f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S05-P05",
+    "source_asset": 16,
+    "source_original_name": "Stickman_contact_sheet_grid_20261007234350.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      465,
+      261,
+      910,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      245
+    ],
+    "bbox": [
+      210,
+      39,
+      410,
+      236
+    ],
+    "estimated_paper": [
+      254.0,
+      252.0,
+      238.0
+    ],
+    "source_sha256": "361f64ae19df370dd8064c8d21bf048c6c14b8bd82d2e286ad9729e446ddb13f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S05-P06",
+    "source_asset": 16,
+    "source_original_name": "Stickman_contact_sheet_grid_20261007234350.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      924,
+      261,
+      1369,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      245
+    ],
+    "bbox": [
+      42,
+      35,
+      304,
+      234
+    ],
+    "estimated_paper": [
+      254.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "361f64ae19df370dd8064c8d21bf048c6c14b8bd82d2e286ad9729e446ddb13f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S05-P07",
+    "source_asset": 16,
+    "source_original_name": "Stickman_contact_sheet_grid_20261007234350.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      520,
+      451,
+      761
+    ],
+    "native_dimensions": [
+      444,
+      241
+    ],
+    "bbox": [
+      237,
+      25,
+      406,
+      237
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "361f64ae19df370dd8064c8d21bf048c6c14b8bd82d2e286ad9729e446ddb13f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S05-P08",
+    "source_asset": 16,
+    "source_original_name": "Stickman_contact_sheet_grid_20261007234350.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      465,
+      520,
+      910,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      32,
+      39,
+      322,
+      239
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "361f64ae19df370dd8064c8d21bf048c6c14b8bd82d2e286ad9729e446ddb13f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S05-P09",
+    "source_asset": 16,
+    "source_original_name": "Stickman_contact_sheet_grid_20261007234350.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      924,
+      520,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      168,
+      0,
+      445,
+      241
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "361f64ae19df370dd8064c8d21bf048c6c14b8bd82d2e286ad9729e446ddb13f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S06-P01",
+    "source_asset": 30,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_6.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      451,
+      246
+    ],
+    "native_dimensions": [
+      444,
+      239
+    ],
+    "bbox": [
+      207,
+      45,
+      444,
+      235
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "954a3501ccf35e2e33ac72215bf093a08cca07f2dd313e0dd071054147c263cc",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S06-P02",
+    "source_asset": 30,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_6.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      465,
+      7,
+      910,
+      246
+    ],
+    "native_dimensions": [
+      445,
+      239
+    ],
+    "bbox": [
+      4,
+      45,
+      296,
+      239
+    ],
+    "estimated_paper": [
+      254.0,
+      252.0,
+      239.0
+    ],
+    "source_sha256": "954a3501ccf35e2e33ac72215bf093a08cca07f2dd313e0dd071054147c263cc",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S06-P03",
+    "source_asset": 30,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_6.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      924,
+      7,
+      1369,
+      246
+    ],
+    "native_dimensions": [
+      445,
+      239
+    ],
+    "bbox": [
+      173,
+      42,
+      415,
+      238
+    ],
+    "estimated_paper": [
+      254.0,
+      252.0,
+      239.0
+    ],
+    "source_sha256": "954a3501ccf35e2e33ac72215bf093a08cca07f2dd313e0dd071054147c263cc",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S06-P04",
+    "source_asset": 30,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_6.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      260,
+      451,
+      506
+    ],
+    "native_dimensions": [
+      444,
+      246
+    ],
+    "bbox": [
+      12,
+      44,
+      271,
+      244
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "954a3501ccf35e2e33ac72215bf093a08cca07f2dd313e0dd071054147c263cc",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S06-P05",
+    "source_asset": 30,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_6.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      465,
+      260,
+      910,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      246
+    ],
+    "bbox": [
+      290,
+      49,
+      445,
+      243
+    ],
+    "estimated_paper": [
+      254.0,
+      252.0,
+      239.0
+    ],
+    "source_sha256": "954a3501ccf35e2e33ac72215bf093a08cca07f2dd313e0dd071054147c263cc",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S06-P06",
+    "source_asset": 30,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_6.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      924,
+      260,
+      1369,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      246
+    ],
+    "bbox": [
+      13,
+      50,
+      288,
+      240
+    ],
+    "estimated_paper": [
+      254.0,
+      252.0,
+      239.0
+    ],
+    "source_sha256": "954a3501ccf35e2e33ac72215bf093a08cca07f2dd313e0dd071054147c263cc",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S06-P07",
+    "source_asset": 30,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_6.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      520,
+      451,
+      761
+    ],
+    "native_dimensions": [
+      444,
+      241
+    ],
+    "bbox": [
+      255,
+      38,
+      435,
+      236
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "954a3501ccf35e2e33ac72215bf093a08cca07f2dd313e0dd071054147c263cc",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S06-P08",
+    "source_asset": 30,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_6.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      465,
+      520,
+      910,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      8,
+      32,
+      268,
+      241
+    ],
+    "estimated_paper": [
+      254.0,
+      252.0,
+      239.0
+    ],
+    "source_sha256": "954a3501ccf35e2e33ac72215bf093a08cca07f2dd313e0dd071054147c263cc",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S06-P09",
+    "source_asset": 30,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_6.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      924,
+      520,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      135,
+      42,
+      405,
+      241
+    ],
+    "estimated_paper": [
+      254.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "954a3501ccf35e2e33ac72215bf093a08cca07f2dd313e0dd071054147c263cc",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S07-P01",
+    "source_asset": 26,
+    "source_original_name": "Stickman_grid_contact_sheet_actions_20261007234350.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      452,
+      247
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      174,
+      36,
+      417,
+      228
+    ],
+    "estimated_paper": [
+      252.0,
+      249.0,
+      237.0
+    ],
+    "source_sha256": "c8c233ae56bb9b1ba64a46c92ef326bfc28ef0206e0ad7dd6b3f7f912dfb5e72",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S07-P02",
+    "source_asset": 26,
+    "source_original_name": "Stickman_grid_contact_sheet_actions_20261007234350.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      466,
+      7,
+      910,
+      247
+    ],
+    "native_dimensions": [
+      444,
+      240
+    ],
+    "bbox": [
+      32,
+      43,
+      323,
+      224
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "c8c233ae56bb9b1ba64a46c92ef326bfc28ef0206e0ad7dd6b3f7f912dfb5e72",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S07-P03",
+    "source_asset": 26,
+    "source_original_name": "Stickman_grid_contact_sheet_actions_20261007234350.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      924,
+      7,
+      1369,
+      247
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      189,
+      61,
+      435,
+      227
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "c8c233ae56bb9b1ba64a46c92ef326bfc28ef0206e0ad7dd6b3f7f912dfb5e72",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S07-P04",
+    "source_asset": 26,
+    "source_original_name": "Stickman_grid_contact_sheet_actions_20261007234350.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      261,
+      452,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      245
+    ],
+    "bbox": [
+      29,
+      48,
+      422,
+      226
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "c8c233ae56bb9b1ba64a46c92ef326bfc28ef0206e0ad7dd6b3f7f912dfb5e72",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S07-P05",
+    "source_asset": 26,
+    "source_original_name": "Stickman_grid_contact_sheet_actions_20261007234350.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      466,
+      261,
+      910,
+      506
+    ],
+    "native_dimensions": [
+      444,
+      245
+    ],
+    "bbox": [
+      147,
+      27,
+      426,
+      233
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "c8c233ae56bb9b1ba64a46c92ef326bfc28ef0206e0ad7dd6b3f7f912dfb5e72",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S07-P06",
+    "source_asset": 26,
+    "source_original_name": "Stickman_grid_contact_sheet_actions_20261007234350.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      924,
+      261,
+      1369,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      245
+    ],
+    "bbox": [
+      28,
+      43,
+      284,
+      229
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "c8c233ae56bb9b1ba64a46c92ef326bfc28ef0206e0ad7dd6b3f7f912dfb5e72",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S07-P07",
+    "source_asset": 26,
+    "source_original_name": "Stickman_grid_contact_sheet_actions_20261007234350.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      520,
+      452,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      187,
+      26,
+      420,
+      224
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "c8c233ae56bb9b1ba64a46c92ef326bfc28ef0206e0ad7dd6b3f7f912dfb5e72",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S07-P08",
+    "source_asset": 26,
+    "source_original_name": "Stickman_grid_contact_sheet_actions_20261007234350.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      466,
+      520,
+      910,
+      761
+    ],
+    "native_dimensions": [
+      444,
+      241
+    ],
+    "bbox": [
+      22,
+      13,
+      308,
+      228
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "c8c233ae56bb9b1ba64a46c92ef326bfc28ef0206e0ad7dd6b3f7f912dfb5e72",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S07-P09",
+    "source_asset": 26,
+    "source_original_name": "Stickman_grid_contact_sheet_actions_20261007234350.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      924,
+      520,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      133,
+      45,
+      385,
+      218
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "c8c233ae56bb9b1ba64a46c92ef326bfc28ef0206e0ad7dd6b3f7f912dfb5e72",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S08-P01",
+    "source_asset": 8,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      450,
+      247
+    ],
+    "native_dimensions": [
+      443,
+      240
+    ],
+    "bbox": [
+      0,
+      2,
+      443,
+      223
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "2008536ea59cafd817ae20fa7c2e6962cfb61f12084706e0d03adcdae09eac93",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S08-P02",
+    "source_asset": 29,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_2.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      463,
+      7,
+      909,
+      246
+    ],
+    "native_dimensions": [
+      446,
+      239
+    ],
+    "bbox": [
+      20,
+      47,
+      260,
+      229
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "94e502071d12a7a10305def3b9f7c4a102b119273f67f8068998e186682c14db",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S08-P03",
+    "source_asset": 29,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_2.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      923,
+      7,
+      1369,
+      246
+    ],
+    "native_dimensions": [
+      446,
+      239
+    ],
+    "bbox": [
+      148,
+      64,
+      402,
+      216
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "94e502071d12a7a10305def3b9f7c4a102b119273f67f8068998e186682c14db",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S08-P04",
+    "source_asset": 29,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_2.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      260,
+      449,
+      504
+    ],
+    "native_dimensions": [
+      442,
+      244
+    ],
+    "bbox": [
+      58,
+      47,
+      242,
+      239
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "94e502071d12a7a10305def3b9f7c4a102b119273f67f8068998e186682c14db",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S08-P05",
+    "source_asset": 29,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_2.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      463,
+      260,
+      909,
+      504
+    ],
+    "native_dimensions": [
+      446,
+      244
+    ],
+    "bbox": [
+      204,
+      10,
+      439,
+      244
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "94e502071d12a7a10305def3b9f7c4a102b119273f67f8068998e186682c14db",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S08-P06",
+    "source_asset": 29,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_2.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      923,
+      260,
+      1369,
+      504
+    ],
+    "native_dimensions": [
+      446,
+      244
+    ],
+    "bbox": [
+      25,
+      22,
+      242,
+      240
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "94e502071d12a7a10305def3b9f7c4a102b119273f67f8068998e186682c14db",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S08-P07",
+    "source_asset": 29,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_2.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      518,
+      449,
+      761
+    ],
+    "native_dimensions": [
+      442,
+      243
+    ],
+    "bbox": [
+      239,
+      16,
+      417,
+      233
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "94e502071d12a7a10305def3b9f7c4a102b119273f67f8068998e186682c14db",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S08-P08",
+    "source_asset": 29,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_2.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      463,
+      518,
+      909,
+      761
+    ],
+    "native_dimensions": [
+      446,
+      243
+    ],
+    "bbox": [
+      0,
+      38,
+      313,
+      222
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "94e502071d12a7a10305def3b9f7c4a102b119273f67f8068998e186682c14db",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S08-P09",
+    "source_asset": 29,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_2.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      923,
+      518,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      446,
+      243
+    ],
+    "bbox": [
+      0,
+      10,
+      446,
+      243
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "94e502071d12a7a10305def3b9f7c4a102b119273f67f8068998e186682c14db",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S09-P01",
+    "source_asset": 32,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_3.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      451,
+      246
+    ],
+    "native_dimensions": [
+      444,
+      239
+    ],
+    "bbox": [
+      7,
+      25,
+      442,
+      230
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "02826606939d471643a3c4068c14da4ecd4247483b268afc8122554877b9ef7b",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S09-P02",
+    "source_asset": 32,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_3.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      465,
+      7,
+      910,
+      246
+    ],
+    "native_dimensions": [
+      445,
+      239
+    ],
+    "bbox": [
+      33,
+      29,
+      288,
+      228
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "02826606939d471643a3c4068c14da4ecd4247483b268afc8122554877b9ef7b",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S09-P03",
+    "source_asset": 32,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_3.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      924,
+      7,
+      1369,
+      246
+    ],
+    "native_dimensions": [
+      445,
+      239
+    ],
+    "bbox": [
+      174,
+      21,
+      440,
+      222
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "02826606939d471643a3c4068c14da4ecd4247483b268afc8122554877b9ef7b",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S09-P04",
+    "source_asset": 32,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_3.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      260,
+      451,
+      505
+    ],
+    "native_dimensions": [
+      444,
+      245
+    ],
+    "bbox": [
+      28,
+      22,
+      252,
+      228
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "02826606939d471643a3c4068c14da4ecd4247483b268afc8122554877b9ef7b",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S09-P05",
+    "source_asset": 32,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_3.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      465,
+      260,
+      910,
+      505
+    ],
+    "native_dimensions": [
+      445,
+      245
+    ],
+    "bbox": [
+      193,
+      27,
+      401,
+      239
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "02826606939d471643a3c4068c14da4ecd4247483b268afc8122554877b9ef7b",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S09-P06",
+    "source_asset": 32,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_3.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      924,
+      260,
+      1369,
+      505
+    ],
+    "native_dimensions": [
+      445,
+      245
+    ],
+    "bbox": [
+      11,
+      36,
+      430,
+      240
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "02826606939d471643a3c4068c14da4ecd4247483b268afc8122554877b9ef7b",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S09-P07",
+    "source_asset": 32,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_3.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      519,
+      451,
+      761
+    ],
+    "native_dimensions": [
+      444,
+      242
+    ],
+    "bbox": [
+      14,
+      32,
+      439,
+      231
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "02826606939d471643a3c4068c14da4ecd4247483b268afc8122554877b9ef7b",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S09-P08",
+    "source_asset": 32,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_3.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      465,
+      519,
+      910,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      242
+    ],
+    "bbox": [
+      11,
+      33,
+      434,
+      225
+    ],
+    "estimated_paper": [
+      254.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "02826606939d471643a3c4068c14da4ecd4247483b268afc8122554877b9ef7b",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S09-P09",
+    "source_asset": 32,
+    "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_3.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      924,
+      519,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      242
+    ],
+    "bbox": [
+      10,
+      34,
+      439,
+      223
+    ],
+    "estimated_paper": [
+      254.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "02826606939d471643a3c4068c14da4ecd4247483b268afc8122554877b9ef7b",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S10-P01",
+    "source_asset": 36,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_7.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      452,
+      248
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      159,
+      49,
+      425,
+      229
+    ],
+    "estimated_paper": [
+      252.0,
+      249.0,
+      237.0
+    ],
+    "source_sha256": "d10c4445d8e4039a54b36f2156d592085d75fe1cddd685cc8c86c439571f0321",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S10-P02",
+    "source_asset": 36,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_7.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      466,
+      7,
+      910,
+      248
+    ],
+    "native_dimensions": [
+      444,
+      241
+    ],
+    "bbox": [
+      26,
+      17,
+      203,
+      237
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "d10c4445d8e4039a54b36f2156d592085d75fe1cddd685cc8c86c439571f0321",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S10-P03",
+    "source_asset": 36,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_7.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      924,
+      7,
+      1369,
+      248
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      199,
+      80,
+      427,
+      231
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "d10c4445d8e4039a54b36f2156d592085d75fe1cddd685cc8c86c439571f0321",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S10-P04",
+    "source_asset": 36,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_7.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      262,
+      452,
+      507
+    ],
+    "native_dimensions": [
+      445,
+      245
+    ],
+    "bbox": [
+      23,
+      40,
+      244,
+      238
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      236.0
+    ],
+    "source_sha256": "d10c4445d8e4039a54b36f2156d592085d75fe1cddd685cc8c86c439571f0321",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S10-P05",
+    "source_asset": 36,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_7.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      466,
+      262,
+      910,
+      507
+    ],
+    "native_dimensions": [
+      444,
+      245
+    ],
+    "bbox": [
+      255,
+      48,
+      414,
+      225
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "d10c4445d8e4039a54b36f2156d592085d75fe1cddd685cc8c86c439571f0321",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S10-P06",
+    "source_asset": 36,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_7.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      924,
+      262,
+      1369,
+      507
+    ],
+    "native_dimensions": [
+      445,
+      245
+    ],
+    "bbox": [
+      4,
+      51,
+      298,
+      235
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "d10c4445d8e4039a54b36f2156d592085d75fe1cddd685cc8c86c439571f0321",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S10-P07",
+    "source_asset": 36,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_7.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      521,
+      452,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      177,
+      35,
+      419,
+      232
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "d10c4445d8e4039a54b36f2156d592085d75fe1cddd685cc8c86c439571f0321",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S10-P08",
+    "source_asset": 36,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_7.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      466,
+      521,
+      910,
+      761
+    ],
+    "native_dimensions": [
+      444,
+      240
+    ],
+    "bbox": [
+      22,
+      34,
+      223,
+      233
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "d10c4445d8e4039a54b36f2156d592085d75fe1cddd685cc8c86c439571f0321",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S10-P09",
+    "source_asset": 36,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_7.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      924,
+      521,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      197,
+      10,
+      417,
+      233
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "d10c4445d8e4039a54b36f2156d592085d75fe1cddd685cc8c86c439571f0321",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S11-P01",
+    "source_asset": 33,
+    "source_original_name": "Stickman_character_grid_contact_\u2026_20261007234350.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      451,
+      247
+    ],
+    "native_dimensions": [
+      444,
+      240
+    ],
+    "bbox": [
+      190,
+      0,
+      423,
+      222
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "cd61042c2a91c0ac186d2a7adecd1b6a959b2aff1f8c5ff28e12043b9258d3cb",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S11-P02",
+    "source_asset": 33,
+    "source_original_name": "Stickman_character_grid_contact_\u2026_20261007234350.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      465,
+      7,
+      910,
+      247
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      48,
+      64,
+      347,
+      230
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "cd61042c2a91c0ac186d2a7adecd1b6a959b2aff1f8c5ff28e12043b9258d3cb",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S11-P03",
+    "source_asset": 33,
+    "source_original_name": "Stickman_character_grid_contact_\u2026_20261007234350.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      924,
+      7,
+      1369,
+      247
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      100,
+      7,
+      429,
+      235
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "cd61042c2a91c0ac186d2a7adecd1b6a959b2aff1f8c5ff28e12043b9258d3cb",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S11-P04",
+    "source_asset": 33,
+    "source_original_name": "Stickman_character_grid_contact_\u2026_20261007234350.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      261,
+      451,
+      507
+    ],
+    "native_dimensions": [
+      444,
+      246
+    ],
+    "bbox": [
+      60,
+      44,
+      238,
+      233
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "cd61042c2a91c0ac186d2a7adecd1b6a959b2aff1f8c5ff28e12043b9258d3cb",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S11-P05",
+    "source_asset": 33,
+    "source_original_name": "Stickman_character_grid_contact_\u2026_20261007234350.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      465,
+      261,
+      910,
+      507
+    ],
+    "native_dimensions": [
+      445,
+      246
+    ],
+    "bbox": [
+      242,
+      47,
+      419,
+      238
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "cd61042c2a91c0ac186d2a7adecd1b6a959b2aff1f8c5ff28e12043b9258d3cb",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S11-P06",
+    "source_asset": 3,
+    "source_original_name": "Character_completing_various_lif\u2026_20261007234350.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      924,
+      261,
+      1369,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      245
+    ],
+    "bbox": [
+      5,
+      15,
+      441,
+      245
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "5fc1bb81df0c82980686a88faebfaca0cfb6245f53bbc70f15eb128fdaaa1b67",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S11-P07",
+    "source_asset": 33,
+    "source_original_name": "Stickman_character_grid_contact_\u2026_20261007234350.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      521,
+      451,
+      761
+    ],
+    "native_dimensions": [
+      444,
+      240
+    ],
+    "bbox": [
+      243,
+      23,
+      414,
+      235
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "cd61042c2a91c0ac186d2a7adecd1b6a959b2aff1f8c5ff28e12043b9258d3cb",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S11-P08",
+    "source_asset": 33,
+    "source_original_name": "Stickman_character_grid_contact_\u2026_20261007234350.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      465,
+      521,
+      910,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      54,
+      4,
+      307,
+      231
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "cd61042c2a91c0ac186d2a7adecd1b6a959b2aff1f8c5ff28e12043b9258d3cb",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S11-P09",
+    "source_asset": 33,
+    "source_original_name": "Stickman_character_grid_contact_\u2026_20261007234350.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      924,
+      521,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      228,
+      39,
+      424,
+      223
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "cd61042c2a91c0ac186d2a7adecd1b6a959b2aff1f8c5ff28e12043b9258d3cb",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S12-P01",
+    "source_asset": 12,
+    "source_original_name": "Stickman_navigating_work_and_ref\u2026_20261007234350.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      451,
+      246
+    ],
+    "native_dimensions": [
+      444,
+      239
+    ],
+    "bbox": [
+      231,
+      47,
+      444,
+      228
+    ],
+    "estimated_paper": [
+      251.0,
+      249.0,
+      236.0
+    ],
+    "source_sha256": "e97bd6b6a37ee0f86e08d15418e71cb31681404e8b96c8c40d3ca16a7f85226f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S12-P02",
+    "source_asset": 12,
+    "source_original_name": "Stickman_navigating_work_and_ref\u2026_20261007234350.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      465,
+      7,
+      910,
+      246
+    ],
+    "native_dimensions": [
+      445,
+      239
+    ],
+    "bbox": [
+      27,
+      53,
+      237,
+      227
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "e97bd6b6a37ee0f86e08d15418e71cb31681404e8b96c8c40d3ca16a7f85226f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S12-P03",
+    "source_asset": 12,
+    "source_original_name": "Stickman_navigating_work_and_ref\u2026_20261007234350.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      924,
+      7,
+      1369,
+      246
+    ],
+    "native_dimensions": [
+      445,
+      239
+    ],
+    "bbox": [
+      174,
+      45,
+      420,
+      226
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "e97bd6b6a37ee0f86e08d15418e71cb31681404e8b96c8c40d3ca16a7f85226f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S12-P04",
+    "source_asset": 12,
+    "source_original_name": "Stickman_navigating_work_and_ref\u2026_20261007234350.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      260,
+      451,
+      506
+    ],
+    "native_dimensions": [
+      444,
+      246
+    ],
+    "bbox": [
+      88,
+      36,
+      304,
+      246
+    ],
+    "estimated_paper": [
+      252.0,
+      249.0,
+      237.0
+    ],
+    "source_sha256": "e97bd6b6a37ee0f86e08d15418e71cb31681404e8b96c8c40d3ca16a7f85226f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S12-P05",
+    "source_asset": 12,
+    "source_original_name": "Stickman_navigating_work_and_ref\u2026_20261007234350.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      465,
+      260,
+      910,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      246
+    ],
+    "bbox": [
+      181,
+      45,
+      445,
+      236
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "e97bd6b6a37ee0f86e08d15418e71cb31681404e8b96c8c40d3ca16a7f85226f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S12-P06",
+    "source_asset": 12,
+    "source_original_name": "Stickman_navigating_work_and_ref\u2026_20261007234350.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      924,
+      260,
+      1369,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      246
+    ],
+    "bbox": [
+      65,
+      5,
+      298,
+      246
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "e97bd6b6a37ee0f86e08d15418e71cb31681404e8b96c8c40d3ca16a7f85226f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S12-P07",
+    "source_asset": 12,
+    "source_original_name": "Stickman_navigating_work_and_ref\u2026_20261007234350.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      520,
+      451,
+      761
+    ],
+    "native_dimensions": [
+      444,
+      241
+    ],
+    "bbox": [
+      198,
+      36,
+      444,
+      224
+    ],
+    "estimated_paper": [
+      251.0,
+      249.0,
+      237.0
+    ],
+    "source_sha256": "e97bd6b6a37ee0f86e08d15418e71cb31681404e8b96c8c40d3ca16a7f85226f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S12-P08",
+    "source_asset": 12,
+    "source_original_name": "Stickman_navigating_work_and_ref\u2026_20261007234350.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      465,
+      520,
+      910,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      2,
+      39,
+      216,
+      226
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "e97bd6b6a37ee0f86e08d15418e71cb31681404e8b96c8c40d3ca16a7f85226f",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S12-P09",
+    "source_asset": 22,
+    "source_original_name": "Stickman_character_navigating_da\u2026_20261007234350.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      930,
+      527,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      439,
+      234
+    ],
+    "bbox": [
+      0,
+      0,
+      434,
+      234
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "15c039934796c70ddbb97c46cc903ecf0f3e810c8e7d4ab38ee41a55515068a6",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S13-P01",
+    "source_asset": 18,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_3.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      452,
+      248
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      132,
+      25,
+      427,
+      236
+    ],
+    "estimated_paper": [
+      252.0,
+      248.0,
+      236.0
+    ],
+    "source_sha256": "94e561bc15228a95fdb5ee6a6881555bd2294320d208bd8424934829f5f3d0df",
+    "use_status": "intentionally_omitted",
+    "omission_reason": "AI-generated pseudo-writing on checklist; no replacement generation needed; neighboring action panels cover this beat.",
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S13-P02",
+    "source_asset": 18,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_3.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      466,
+      7,
+      909,
+      248
+    ],
+    "native_dimensions": [
+      443,
+      241
+    ],
+    "bbox": [
+      25,
+      46,
+      362,
+      229
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "94e561bc15228a95fdb5ee6a6881555bd2294320d208bd8424934829f5f3d0df",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S13-P03",
+    "source_asset": 18,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_3.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      923,
+      7,
+      1369,
+      248
+    ],
+    "native_dimensions": [
+      446,
+      241
+    ],
+    "bbox": [
+      189,
+      31,
+      420,
+      237
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "94e561bc15228a95fdb5ee6a6881555bd2294320d208bd8424934829f5f3d0df",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S13-P04",
+    "source_asset": 18,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_3.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      262,
+      452,
+      505
+    ],
+    "native_dimensions": [
+      445,
+      243
+    ],
+    "bbox": [
+      34,
+      33,
+      257,
+      224
+    ],
+    "estimated_paper": [
+      252.0,
+      249.0,
+      236.0
+    ],
+    "source_sha256": "94e561bc15228a95fdb5ee6a6881555bd2294320d208bd8424934829f5f3d0df",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S13-P05",
+    "source_asset": 18,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_3.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      466,
+      262,
+      909,
+      505
+    ],
+    "native_dimensions": [
+      443,
+      243
+    ],
+    "bbox": [
+      210,
+      26,
+      403,
+      232
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "94e561bc15228a95fdb5ee6a6881555bd2294320d208bd8424934829f5f3d0df",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S13-P06",
+    "source_asset": 18,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_3.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      923,
+      262,
+      1369,
+      505
+    ],
+    "native_dimensions": [
+      446,
+      243
+    ],
+    "bbox": [
+      42,
+      31,
+      272,
+      233
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "94e561bc15228a95fdb5ee6a6881555bd2294320d208bd8424934829f5f3d0df",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S13-P07",
+    "source_asset": 18,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_3.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      519,
+      452,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      242
+    ],
+    "bbox": [
+      193,
+      25,
+      417,
+      204
+    ],
+    "estimated_paper": [
+      252.0,
+      249.0,
+      236.0
+    ],
+    "source_sha256": "94e561bc15228a95fdb5ee6a6881555bd2294320d208bd8424934829f5f3d0df",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S13-P08",
+    "source_asset": 18,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_3.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      466,
+      519,
+      909,
+      761
+    ],
+    "native_dimensions": [
+      443,
+      242
+    ],
+    "bbox": [
+      40,
+      29,
+      259,
+      208
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "94e561bc15228a95fdb5ee6a6881555bd2294320d208bd8424934829f5f3d0df",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S13-P09",
+    "source_asset": 18,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_3.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      923,
+      519,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      446,
+      242
+    ],
+    "bbox": [
+      186,
+      26,
+      428,
+      223
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "94e561bc15228a95fdb5ee6a6881555bd2294320d208bd8424934829f5f3d0df",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S14-P01",
+    "source_asset": 19,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_3.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      451,
+      247
+    ],
+    "native_dimensions": [
+      444,
+      240
+    ],
+    "bbox": [
+      57,
+      15,
+      433,
+      231
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "5f8b2f87b1c53610dea94b1fe177ccccbdfb4736ae47de1fd91330768b6ed4be",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S14-P02",
+    "source_asset": 19,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_3.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      465,
+      7,
+      910,
+      247
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      16,
+      63,
+      415,
+      238
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "5f8b2f87b1c53610dea94b1fe177ccccbdfb4736ae47de1fd91330768b6ed4be",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S14-P03",
+    "source_asset": 19,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_3.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      924,
+      7,
+      1369,
+      247
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      30,
+      79,
+      431,
+      235
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "5f8b2f87b1c53610dea94b1fe177ccccbdfb4736ae47de1fd91330768b6ed4be",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S14-P04",
+    "source_asset": 19,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_3.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      261,
+      451,
+      506
+    ],
+    "native_dimensions": [
+      444,
+      245
+    ],
+    "bbox": [
+      2,
+      53,
+      409,
+      245
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "5f8b2f87b1c53610dea94b1fe177ccccbdfb4736ae47de1fd91330768b6ed4be",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S14-P05",
+    "source_asset": 19,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_3.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      465,
+      261,
+      910,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      245
+    ],
+    "bbox": [
+      38,
+      47,
+      438,
+      240
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "5f8b2f87b1c53610dea94b1fe177ccccbdfb4736ae47de1fd91330768b6ed4be",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S14-P06",
+    "source_asset": 19,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_3.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      924,
+      261,
+      1369,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      245
+    ],
+    "bbox": [
+      15,
+      11,
+      411,
+      245
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "5f8b2f87b1c53610dea94b1fe177ccccbdfb4736ae47de1fd91330768b6ed4be",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S14-P07",
+    "source_asset": 19,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_3.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      520,
+      451,
+      761
+    ],
+    "native_dimensions": [
+      444,
+      241
+    ],
+    "bbox": [
+      54,
+      71,
+      428,
+      233
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "5f8b2f87b1c53610dea94b1fe177ccccbdfb4736ae47de1fd91330768b6ed4be",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S14-P08",
+    "source_asset": 19,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_3.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      465,
+      520,
+      910,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      4,
+      5,
+      416,
+      230
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "5f8b2f87b1c53610dea94b1fe177ccccbdfb4736ae47de1fd91330768b6ed4be",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S14-P09",
+    "source_asset": 19,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_3.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      924,
+      520,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      32,
+      35,
+      426,
+      234
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "5f8b2f87b1c53610dea94b1fe177ccccbdfb4736ae47de1fd91330768b6ed4be",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S15-P01",
+    "source_asset": 28,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_5.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      451,
+      247
+    ],
+    "native_dimensions": [
+      444,
+      240
+    ],
+    "bbox": [
+      0,
+      38,
+      444,
+      234
+    ],
+    "estimated_paper": [
+      252.0,
+      249.0,
+      237.0
+    ],
+    "source_sha256": "e82eb6f56a451765ed9d73ca11a4961524bd9c83b91138f2274733169afc4688",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S15-P02",
+    "source_asset": 28,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_5.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      465,
+      7,
+      909,
+      247
+    ],
+    "native_dimensions": [
+      444,
+      240
+    ],
+    "bbox": [
+      0,
+      52,
+      444,
+      240
+    ],
+    "estimated_paper": [
+      252.0,
+      249.0,
+      237.0
+    ],
+    "source_sha256": "e82eb6f56a451765ed9d73ca11a4961524bd9c83b91138f2274733169afc4688",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S15-P03",
+    "source_asset": 28,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_5.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      923,
+      7,
+      1369,
+      247
+    ],
+    "native_dimensions": [
+      446,
+      240
+    ],
+    "bbox": [
+      51,
+      43,
+      443,
+      232
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "e82eb6f56a451765ed9d73ca11a4961524bd9c83b91138f2274733169afc4688",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S15-P04",
+    "source_asset": 28,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_5.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      261,
+      451,
+      506
+    ],
+    "native_dimensions": [
+      444,
+      245
+    ],
+    "bbox": [
+      20,
+      9,
+      435,
+      222
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "e82eb6f56a451765ed9d73ca11a4961524bd9c83b91138f2274733169afc4688",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S15-P05",
+    "source_asset": 28,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_5.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      465,
+      261,
+      909,
+      506
+    ],
+    "native_dimensions": [
+      444,
+      245
+    ],
+    "bbox": [
+      3,
+      0,
+      444,
+      245
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "e82eb6f56a451765ed9d73ca11a4961524bd9c83b91138f2274733169afc4688",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S15-P06",
+    "source_asset": 28,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_5.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      923,
+      261,
+      1369,
+      506
+    ],
+    "native_dimensions": [
+      446,
+      245
+    ],
+    "bbox": [
+      0,
+      0,
+      434,
+      239
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "e82eb6f56a451765ed9d73ca11a4961524bd9c83b91138f2274733169afc4688",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S15-P07",
+    "source_asset": 28,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_5.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      520,
+      451,
+      761
+    ],
+    "native_dimensions": [
+      444,
+      241
+    ],
+    "bbox": [
+      13,
+      31,
+      427,
+      241
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "e82eb6f56a451765ed9d73ca11a4961524bd9c83b91138f2274733169afc4688",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S15-P08",
+    "source_asset": 28,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_5.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      465,
+      520,
+      909,
+      761
+    ],
+    "native_dimensions": [
+      444,
+      241
+    ],
+    "bbox": [
+      0,
+      5,
+      334,
+      225
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "e82eb6f56a451765ed9d73ca11a4961524bd9c83b91138f2274733169afc4688",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S15-P09",
+    "source_asset": 28,
+    "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_5.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      923,
+      520,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      446,
+      241
+    ],
+    "bbox": [
+      14,
+      0,
+      446,
+      219
+    ],
+    "estimated_paper": [
+      253.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "e82eb6f56a451765ed9d73ca11a4961524bd9c83b91138f2274733169afc4688",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S16-P01",
+    "source_asset": 27,
+    "source_original_name": "Stickman_contact_sheet_grid_crea\u2026_20261007234350.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      451,
+      247
+    ],
+    "native_dimensions": [
+      444,
+      240
+    ],
+    "bbox": [
+      142,
+      5,
+      444,
+      240
+    ],
+    "estimated_paper": [
+      251.0,
+      248.0,
+      235.0
+    ],
+    "source_sha256": "beb9d69a8fd1759ac221d4bebb2ad640b706b58304b0060b1de53476a8ec5cf2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S16-P02",
+    "source_asset": 27,
+    "source_original_name": "Stickman_contact_sheet_grid_crea\u2026_20261007234350.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      465,
+      7,
+      910,
+      247
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      0,
+      0,
+      370,
+      240
+    ],
+    "estimated_paper": [
+      251.0,
+      249.0,
+      237.0
+    ],
+    "source_sha256": "beb9d69a8fd1759ac221d4bebb2ad640b706b58304b0060b1de53476a8ec5cf2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S16-P03",
+    "source_asset": 27,
+    "source_original_name": "Stickman_contact_sheet_grid_crea\u2026_20261007234350.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      924,
+      7,
+      1369,
+      247
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      174,
+      36,
+      445,
+      235
+    ],
+    "estimated_paper": [
+      252.0,
+      249.0,
+      237.0
+    ],
+    "source_sha256": "beb9d69a8fd1759ac221d4bebb2ad640b706b58304b0060b1de53476a8ec5cf2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S16-P04",
+    "source_asset": 27,
+    "source_original_name": "Stickman_contact_sheet_grid_crea\u2026_20261007234350.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      261,
+      451,
+      506
+    ],
+    "native_dimensions": [
+      444,
+      245
+    ],
+    "bbox": [
+      36,
+      30,
+      304,
+      245
+    ],
+    "estimated_paper": [
+      252.0,
+      249.0,
+      237.0
+    ],
+    "source_sha256": "beb9d69a8fd1759ac221d4bebb2ad640b706b58304b0060b1de53476a8ec5cf2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S16-P05",
+    "source_asset": 27,
+    "source_original_name": "Stickman_contact_sheet_grid_crea\u2026_20261007234350.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      465,
+      261,
+      910,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      245
+    ],
+    "bbox": [
+      175,
+      39,
+      445,
+      238
+    ],
+    "estimated_paper": [
+      252.0,
+      249.0,
+      237.0
+    ],
+    "source_sha256": "beb9d69a8fd1759ac221d4bebb2ad640b706b58304b0060b1de53476a8ec5cf2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S16-P06",
+    "source_asset": 27,
+    "source_original_name": "Stickman_contact_sheet_grid_crea\u2026_20261007234350.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      924,
+      261,
+      1369,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      245
+    ],
+    "bbox": [
+      11,
+      0,
+      349,
+      242
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "beb9d69a8fd1759ac221d4bebb2ad640b706b58304b0060b1de53476a8ec5cf2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S16-P07",
+    "source_asset": 27,
+    "source_original_name": "Stickman_contact_sheet_grid_crea\u2026_20261007234350.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      520,
+      451,
+      761
+    ],
+    "native_dimensions": [
+      444,
+      241
+    ],
+    "bbox": [
+      169,
+      40,
+      426,
+      238
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "beb9d69a8fd1759ac221d4bebb2ad640b706b58304b0060b1de53476a8ec5cf2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S16-P08",
+    "source_asset": 27,
+    "source_original_name": "Stickman_contact_sheet_grid_crea\u2026_20261007234350.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      465,
+      520,
+      910,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      23,
+      35,
+      269,
+      234
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "beb9d69a8fd1759ac221d4bebb2ad640b706b58304b0060b1de53476a8ec5cf2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S16-P09",
+    "source_asset": 27,
+    "source_original_name": "Stickman_contact_sheet_grid_crea\u2026_20261007234350.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      924,
+      520,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      21,
+      32,
+      425,
+      241
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "beb9d69a8fd1759ac221d4bebb2ad640b706b58304b0060b1de53476a8ec5cf2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S17-P01",
+    "source_asset": 31,
+    "source_original_name": "Stickman_character_contact_sheet\u2026_20261007234350.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      451,
+      247
+    ],
+    "native_dimensions": [
+      444,
+      240
+    ],
+    "bbox": [
+      260,
+      42,
+      433,
+      231
+    ],
+    "estimated_paper": [
+      252.0,
+      249.0,
+      237.0
+    ],
+    "source_sha256": "86ba68d26cf2fbf8032a5280c89449aaa7b0ab9b7ee0a06b31d4dab0ff6ecff2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S17-P02",
+    "source_asset": 31,
+    "source_original_name": "Stickman_character_contact_sheet\u2026_20261007234350.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      465,
+      7,
+      910,
+      247
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      13,
+      40,
+      442,
+      227
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "86ba68d26cf2fbf8032a5280c89449aaa7b0ab9b7ee0a06b31d4dab0ff6ecff2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S17-P03",
+    "source_asset": 31,
+    "source_original_name": "Stickman_character_contact_sheet\u2026_20261007234350.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      924,
+      7,
+      1369,
+      247
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      244,
+      9,
+      440,
+      229
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "86ba68d26cf2fbf8032a5280c89449aaa7b0ab9b7ee0a06b31d4dab0ff6ecff2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S17-P04",
+    "source_asset": 31,
+    "source_original_name": "Stickman_character_contact_sheet\u2026_20261007234350.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      261,
+      451,
+      507
+    ],
+    "native_dimensions": [
+      444,
+      246
+    ],
+    "bbox": [
+      0,
+      27,
+      279,
+      230
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      238.0
+    ],
+    "source_sha256": "86ba68d26cf2fbf8032a5280c89449aaa7b0ab9b7ee0a06b31d4dab0ff6ecff2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S17-P05",
+    "source_asset": 31,
+    "source_original_name": "Stickman_character_contact_sheet\u2026_20261007234350.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      465,
+      261,
+      910,
+      507
+    ],
+    "native_dimensions": [
+      445,
+      246
+    ],
+    "bbox": [
+      234,
+      10,
+      445,
+      238
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "86ba68d26cf2fbf8032a5280c89449aaa7b0ab9b7ee0a06b31d4dab0ff6ecff2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S17-P06",
+    "source_asset": 31,
+    "source_original_name": "Stickman_character_contact_sheet\u2026_20261007234350.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      924,
+      261,
+      1369,
+      507
+    ],
+    "native_dimensions": [
+      445,
+      246
+    ],
+    "bbox": [
+      5,
+      18,
+      279,
+      237
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "86ba68d26cf2fbf8032a5280c89449aaa7b0ab9b7ee0a06b31d4dab0ff6ecff2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S17-P07",
+    "source_asset": 31,
+    "source_original_name": "Stickman_character_contact_sheet\u2026_20261007234350.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      521,
+      451,
+      761
+    ],
+    "native_dimensions": [
+      444,
+      240
+    ],
+    "bbox": [
+      129,
+      31,
+      444,
+      221
+    ],
+    "estimated_paper": [
+      252.0,
+      250.0,
+      237.0
+    ],
+    "source_sha256": "86ba68d26cf2fbf8032a5280c89449aaa7b0ab9b7ee0a06b31d4dab0ff6ecff2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S17-P08",
+    "source_asset": 31,
+    "source_original_name": "Stickman_character_contact_sheet\u2026_20261007234350.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      465,
+      521,
+      910,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      7,
+      30,
+      269,
+      219
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "86ba68d26cf2fbf8032a5280c89449aaa7b0ab9b7ee0a06b31d4dab0ff6ecff2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S17-P09",
+    "source_asset": 31,
+    "source_original_name": "Stickman_character_contact_sheet\u2026_20261007234350.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      924,
+      521,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      240
+    ],
+    "bbox": [
+      253,
+      11,
+      431,
+      228
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "86ba68d26cf2fbf8032a5280c89449aaa7b0ab9b7ee0a06b31d4dab0ff6ecff2",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S18-P01",
+    "source_asset": 20,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_4.jpg",
+    "row": 1,
+    "column": 1,
+    "crop_box": [
+      7,
+      7,
+      452,
+      246
+    ],
+    "native_dimensions": [
+      445,
+      239
+    ],
+    "bbox": [
+      116,
+      33,
+      433,
+      238
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "17f001c5878ab40ded653c286a21a7b4d11df5f8532bcc0f914b50667df06bdd",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S18-P02",
+    "source_asset": 20,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_4.jpg",
+    "row": 1,
+    "column": 2,
+    "crop_box": [
+      466,
+      7,
+      908,
+      246
+    ],
+    "native_dimensions": [
+      442,
+      239
+    ],
+    "bbox": [
+      60,
+      40,
+      218,
+      234
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "17f001c5878ab40ded653c286a21a7b4d11df5f8532bcc0f914b50667df06bdd",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S18-P03",
+    "source_asset": 20,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_4.jpg",
+    "row": 1,
+    "column": 3,
+    "crop_box": [
+      922,
+      7,
+      1369,
+      246
+    ],
+    "native_dimensions": [
+      447,
+      239
+    ],
+    "bbox": [
+      166,
+      30,
+      437,
+      236
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "17f001c5878ab40ded653c286a21a7b4d11df5f8532bcc0f914b50667df06bdd",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S18-P04",
+    "source_asset": 20,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_4.jpg",
+    "row": 2,
+    "column": 1,
+    "crop_box": [
+      7,
+      260,
+      452,
+      506
+    ],
+    "native_dimensions": [
+      445,
+      246
+    ],
+    "bbox": [
+      45,
+      49,
+      421,
+      230
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "17f001c5878ab40ded653c286a21a7b4d11df5f8532bcc0f914b50667df06bdd",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S18-P05",
+    "source_asset": 20,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_4.jpg",
+    "row": 2,
+    "column": 2,
+    "crop_box": [
+      466,
+      260,
+      908,
+      506
+    ],
+    "native_dimensions": [
+      442,
+      246
+    ],
+    "bbox": [
+      232,
+      45,
+      426,
+      232
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "17f001c5878ab40ded653c286a21a7b4d11df5f8532bcc0f914b50667df06bdd",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S18-P06",
+    "source_asset": 20,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_4.jpg",
+    "row": 2,
+    "column": 3,
+    "crop_box": [
+      922,
+      260,
+      1369,
+      506
+    ],
+    "native_dimensions": [
+      447,
+      246
+    ],
+    "bbox": [
+      55,
+      48,
+      229,
+      246
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "17f001c5878ab40ded653c286a21a7b4d11df5f8532bcc0f914b50667df06bdd",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S18-P07",
+    "source_asset": 20,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_4.jpg",
+    "row": 3,
+    "column": 1,
+    "crop_box": [
+      7,
+      520,
+      452,
+      761
+    ],
+    "native_dimensions": [
+      445,
+      241
+    ],
+    "bbox": [
+      152,
+      37,
+      445,
+      241
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "17f001c5878ab40ded653c286a21a7b4d11df5f8532bcc0f914b50667df06bdd",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S18-P08",
+    "source_asset": 20,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_4.jpg",
+    "row": 3,
+    "column": 2,
+    "crop_box": [
+      466,
+      520,
+      908,
+      761
+    ],
+    "native_dimensions": [
+      442,
+      241
+    ],
+    "bbox": [
+      0,
+      55,
+      304,
+      226
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      239.0
+    ],
+    "source_sha256": "17f001c5878ab40ded653c286a21a7b4d11df5f8532bcc0f914b50667df06bdd",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  },
+  {
+    "panel_id": "S18-P09",
+    "source_asset": 20,
+    "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_4.jpg",
+    "row": 3,
+    "column": 3,
+    "crop_box": [
+      922,
+      520,
+      1369,
+      761
+    ],
+    "native_dimensions": [
+      447,
+      241
+    ],
+    "bbox": [
+      0,
+      48,
+      447,
+      241
+    ],
+    "estimated_paper": [
+      253.0,
+      251.0,
+      238.0
+    ],
+    "source_sha256": "17f001c5878ab40ded653c286a21a7b4d11df5f8532bcc0f914b50667df06bdd",
+    "use_status": "available_not_yet_rendered",
+    "omission_reason": null,
+    "upscale_status": "native_only_neural_reconstruction_pending_network",
+    "mask_status": "draft_needs_full_size_dark_and_motion_QA"
+  }
+]

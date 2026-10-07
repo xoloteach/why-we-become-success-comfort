@@ -1,0 +1,3080 @@
+{
+  "01-1": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      792,
+      323,
+      1780,
+      909
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S01-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "01-2": {
+    "native": [
+      443,
+      240
+    ],
+    "upscaled": [
+      1772,
+      960
+    ],
+    "bbox": [
+      8,
+      164,
+      916,
+      905
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S01-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "01-3": {
+    "native": [
+      446,
+      240
+    ],
+    "upscaled": [
+      1784,
+      960
+    ],
+    "bbox": [
+      996,
+      15,
+      1715,
+      918
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S01-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "01-4": {
+    "native": [
+      445,
+      245
+    ],
+    "upscaled": [
+      1780,
+      980
+    ],
+    "bbox": [
+      75,
+      56,
+      906,
+      928
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S01-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "01-5": {
+    "native": [
+      443,
+      245
+    ],
+    "upscaled": [
+      1772,
+      980
+    ],
+    "bbox": [
+      866,
+      337,
+      1772,
+      919
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S01-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "01-6": {
+    "native": [
+      446,
+      245
+    ],
+    "upscaled": [
+      1784,
+      980
+    ],
+    "bbox": [
+      88,
+      187,
+      980,
+      953
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S01-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "01-7": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      944,
+      118,
+      1736,
+      889
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S01-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "01-8": {
+    "native": [
+      443,
+      241
+    ],
+    "upscaled": [
+      1772,
+      964
+    ],
+    "bbox": [
+      169,
+      157,
+      819,
+      889
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S01-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "01-9": {
+    "native": [
+      446,
+      241
+    ],
+    "upscaled": [
+      1784,
+      964
+    ],
+    "bbox": [
+      528,
+      196,
+      1776,
+      917
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S01-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "02-1": {
+    "native": [
+      444,
+      240
+    ],
+    "upscaled": [
+      1776,
+      960
+    ],
+    "bbox": [
+      749,
+      192,
+      1749,
+      953
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S02-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "02-2": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      79,
+      176,
+      1589,
+      956
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S02-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "02-3": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      204,
+      181,
+      1780,
+      960
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S02-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "02-4": {
+    "native": [
+      444,
+      245
+    ],
+    "upscaled": [
+      1776,
+      980
+    ],
+    "bbox": [
+      80,
+      183,
+      1601,
+      967
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S02-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "02-5": {
+    "native": [
+      445,
+      245
+    ],
+    "upscaled": [
+      1780,
+      980
+    ],
+    "bbox": [
+      458,
+      37,
+      1774,
+      980
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S02-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "02-6": {
+    "native": [
+      445,
+      245
+    ],
+    "upscaled": [
+      1780,
+      980
+    ],
+    "bbox": [
+      46,
+      213,
+      1660,
+      980
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S02-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "02-7": {
+    "native": [
+      444,
+      241
+    ],
+    "upscaled": [
+      1776,
+      964
+    ],
+    "bbox": [
+      486,
+      141,
+      1744,
+      964
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S02-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "02-8": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      220,
+      12,
+      1427,
+      964
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S02-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "02-9": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      326,
+      3,
+      1780,
+      964
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S02-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "03-1": {
+    "native": [
+      444,
+      239
+    ],
+    "upscaled": [
+      1776,
+      956
+    ],
+    "bbox": [
+      835,
+      187,
+      1776,
+      947
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S03-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "03-2": {
+    "native": [
+      445,
+      239
+    ],
+    "upscaled": [
+      1780,
+      956
+    ],
+    "bbox": [
+      23,
+      159,
+      935,
+      948
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S03-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "03-3": {
+    "native": [
+      445,
+      239
+    ],
+    "upscaled": [
+      1780,
+      956
+    ],
+    "bbox": [
+      52,
+      229,
+      1766,
+      904
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S03-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "03-4": {
+    "native": [
+      444,
+      246
+    ],
+    "upscaled": [
+      1776,
+      984
+    ],
+    "bbox": [
+      28,
+      233,
+      1723,
+      967
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S03-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "03-5": {
+    "native": [
+      445,
+      246
+    ],
+    "upscaled": [
+      1780,
+      984
+    ],
+    "bbox": [
+      54,
+      204,
+      1767,
+      957
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S03-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "03-6": {
+    "native": [
+      445,
+      246
+    ],
+    "upscaled": [
+      1780,
+      984
+    ],
+    "bbox": [
+      42,
+      207,
+      1740,
+      954
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S03-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "03-7": {
+    "native": [
+      444,
+      241
+    ],
+    "upscaled": [
+      1776,
+      964
+    ],
+    "bbox": [
+      50,
+      168,
+      1759,
+      937
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S03-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "03-8": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      32,
+      24,
+      1730,
+      964
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S03-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "03-9": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      386,
+      195,
+      1141,
+      933
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S03-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "04-1": {
+    "native": [
+      443,
+      240
+    ],
+    "upscaled": [
+      1772,
+      960
+    ],
+    "bbox": [
+      648,
+      138,
+      1772,
+      944
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S04-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "04-2": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      0,
+      39,
+      1780,
+      938
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S04-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "04-3": {
+    "native": [
+      446,
+      240
+    ],
+    "upscaled": [
+      1784,
+      960
+    ],
+    "bbox": [
+      1003,
+      223,
+      1728,
+      913
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S04-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "04-4": {
+    "native": [
+      443,
+      243
+    ],
+    "upscaled": [
+      1772,
+      972
+    ],
+    "bbox": [
+      0,
+      127,
+      1772,
+      959
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S04-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "04-5": {
+    "native": [
+      445,
+      243
+    ],
+    "upscaled": [
+      1780,
+      972
+    ],
+    "bbox": [
+      690,
+      169,
+      1780,
+      953
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S04-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "04-6": {
+    "native": [
+      446,
+      243
+    ],
+    "upscaled": [
+      1784,
+      972
+    ],
+    "bbox": [
+      0,
+      119,
+      1784,
+      951
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S04-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "04-7": {
+    "native": [
+      443,
+      243
+    ],
+    "upscaled": [
+      1772,
+      972
+    ],
+    "bbox": [
+      659,
+      216,
+      1772,
+      911
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S04-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "04-8": {
+    "native": [
+      445,
+      243
+    ],
+    "upscaled": [
+      1780,
+      972
+    ],
+    "bbox": [
+      0,
+      141,
+      1780,
+      861
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S04-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "04-9": {
+    "native": [
+      446,
+      243
+    ],
+    "upscaled": [
+      1784,
+      972
+    ],
+    "bbox": [
+      692,
+      141,
+      1776,
+      765
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S04-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "05-1": {
+    "native": [
+      444,
+      240
+    ],
+    "upscaled": [
+      1776,
+      960
+    ],
+    "bbox": [
+      764,
+      166,
+      1748,
+      926
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S05-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "05-2": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      194,
+      131,
+      762,
+      960
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S05-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "05-3": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      826,
+      101,
+      1559,
+      960
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S05-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "05-4": {
+    "native": [
+      444,
+      245
+    ],
+    "upscaled": [
+      1776,
+      980
+    ],
+    "bbox": [
+      187,
+      175,
+      1579,
+      968
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S05-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "05-5": {
+    "native": [
+      445,
+      245
+    ],
+    "upscaled": [
+      1780,
+      980
+    ],
+    "bbox": [
+      838,
+      156,
+      1641,
+      945
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S05-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "05-6": {
+    "native": [
+      445,
+      245
+    ],
+    "upscaled": [
+      1780,
+      980
+    ],
+    "bbox": [
+      170,
+      140,
+      1215,
+      934
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S05-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "05-7": {
+    "native": [
+      444,
+      241
+    ],
+    "upscaled": [
+      1776,
+      964
+    ],
+    "bbox": [
+      950,
+      101,
+      1622,
+      949
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S05-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "05-8": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      127,
+      155,
+      1288,
+      955
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S05-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "05-9": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      674,
+      0,
+      1780,
+      964
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S05-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "06-1": {
+    "native": [
+      444,
+      239
+    ],
+    "upscaled": [
+      1776,
+      956
+    ],
+    "bbox": [
+      930,
+      182,
+      1776,
+      927
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S06-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "06-2": {
+    "native": [
+      445,
+      239
+    ],
+    "upscaled": [
+      1780,
+      956
+    ],
+    "bbox": [
+      17,
+      179,
+      1163,
+      952
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S06-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "06-3": {
+    "native": [
+      445,
+      239
+    ],
+    "upscaled": [
+      1780,
+      956
+    ],
+    "bbox": [
+      697,
+      169,
+      1656,
+      949
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S06-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "06-4": {
+    "native": [
+      444,
+      246
+    ],
+    "upscaled": [
+      1776,
+      984
+    ],
+    "bbox": [
+      63,
+      176,
+      1080,
+      975
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S06-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "06-5": {
+    "native": [
+      445,
+      246
+    ],
+    "upscaled": [
+      1780,
+      984
+    ],
+    "bbox": [
+      1166,
+      196,
+      1780,
+      964
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S06-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "06-6": {
+    "native": [
+      445,
+      246
+    ],
+    "upscaled": [
+      1780,
+      984
+    ],
+    "bbox": [
+      54,
+      199,
+      1148,
+      958
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S06-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "06-7": {
+    "native": [
+      444,
+      241
+    ],
+    "upscaled": [
+      1776,
+      964
+    ],
+    "bbox": [
+      1022,
+      152,
+      1740,
+      930
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S06-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "06-8": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      32,
+      127,
+      1071,
+      964
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S06-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "06-9": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      540,
+      170,
+      1620,
+      964
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S06-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "07-1": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      698,
+      143,
+      1668,
+      910
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S07-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "07-2": {
+    "native": [
+      444,
+      240
+    ],
+    "upscaled": [
+      1776,
+      960
+    ],
+    "bbox": [
+      129,
+      172,
+      1291,
+      897
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S07-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "07-3": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      756,
+      245,
+      1740,
+      907
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S07-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "07-4": {
+    "native": [
+      445,
+      245
+    ],
+    "upscaled": [
+      1780,
+      980
+    ],
+    "bbox": [
+      116,
+      191,
+      1687,
+      904
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S07-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "07-5": {
+    "native": [
+      444,
+      245
+    ],
+    "upscaled": [
+      1776,
+      980
+    ],
+    "bbox": [
+      588,
+      108,
+      1702,
+      930
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S07-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "07-6": {
+    "native": [
+      445,
+      245
+    ],
+    "upscaled": [
+      1780,
+      980
+    ],
+    "bbox": [
+      112,
+      174,
+      1136,
+      917
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S07-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "07-7": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      748,
+      103,
+      1680,
+      896
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S07-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "07-8": {
+    "native": [
+      444,
+      241
+    ],
+    "upscaled": [
+      1776,
+      964
+    ],
+    "bbox": [
+      88,
+      62,
+      1232,
+      913
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S07-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "07-9": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      532,
+      181,
+      1541,
+      871
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S07-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "08-1": {
+    "native": [
+      443,
+      240
+    ],
+    "upscaled": [
+      1772,
+      960
+    ],
+    "bbox": [
+      0,
+      8,
+      1772,
+      884
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S08-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "08-2": {
+    "native": [
+      446,
+      239
+    ],
+    "upscaled": [
+      1784,
+      956
+    ],
+    "bbox": [
+      80,
+      188,
+      1042,
+      916
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S08-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "08-3": {
+    "native": [
+      446,
+      239
+    ],
+    "upscaled": [
+      1784,
+      956
+    ],
+    "bbox": [
+      592,
+      257,
+      1610,
+      863
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S08-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "08-4": {
+    "native": [
+      442,
+      244
+    ],
+    "upscaled": [
+      1768,
+      976
+    ],
+    "bbox": [
+      232,
+      187,
+      967,
+      956
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S08-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "08-5": {
+    "native": [
+      446,
+      244
+    ],
+    "upscaled": [
+      1784,
+      976
+    ],
+    "bbox": [
+      817,
+      41,
+      1755,
+      976
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S08-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "08-6": {
+    "native": [
+      446,
+      244
+    ],
+    "upscaled": [
+      1784,
+      976
+    ],
+    "bbox": [
+      108,
+      87,
+      969,
+      956
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S08-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "08-7": {
+    "native": [
+      442,
+      243
+    ],
+    "upscaled": [
+      1768,
+      972
+    ],
+    "bbox": [
+      958,
+      63,
+      1669,
+      931
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S08-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "08-8": {
+    "native": [
+      446,
+      243
+    ],
+    "upscaled": [
+      1784,
+      972
+    ],
+    "bbox": [
+      0,
+      151,
+      1252,
+      888
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S08-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "08-9": {
+    "native": [
+      446,
+      243
+    ],
+    "upscaled": [
+      1784,
+      972
+    ],
+    "bbox": [
+      0,
+      38,
+      1784,
+      972
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S08-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "09-1": {
+    "native": [
+      444,
+      239
+    ],
+    "upscaled": [
+      1776,
+      956
+    ],
+    "bbox": [
+      28,
+      100,
+      1768,
+      918
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S09-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "09-2": {
+    "native": [
+      445,
+      239
+    ],
+    "upscaled": [
+      1780,
+      956
+    ],
+    "bbox": [
+      131,
+      117,
+      1150,
+      912
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S09-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "09-3": {
+    "native": [
+      445,
+      239
+    ],
+    "upscaled": [
+      1780,
+      956
+    ],
+    "bbox": [
+      696,
+      84,
+      1759,
+      887
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S09-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "09-4": {
+    "native": [
+      444,
+      245
+    ],
+    "upscaled": [
+      1776,
+      980
+    ],
+    "bbox": [
+      110,
+      89,
+      1008,
+      913
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S09-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "09-5": {
+    "native": [
+      445,
+      245
+    ],
+    "upscaled": [
+      1780,
+      980
+    ],
+    "bbox": [
+      774,
+      108,
+      1605,
+      957
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S09-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "09-6": {
+    "native": [
+      445,
+      245
+    ],
+    "upscaled": [
+      1780,
+      980
+    ],
+    "bbox": [
+      42,
+      145,
+      1722,
+      959
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S09-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "09-7": {
+    "native": [
+      444,
+      242
+    ],
+    "upscaled": [
+      1776,
+      968
+    ],
+    "bbox": [
+      54,
+      128,
+      1756,
+      924
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S09-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "09-8": {
+    "native": [
+      445,
+      242
+    ],
+    "upscaled": [
+      1780,
+      968
+    ],
+    "bbox": [
+      41,
+      131,
+      1740,
+      902
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S09-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "09-9": {
+    "native": [
+      445,
+      242
+    ],
+    "upscaled": [
+      1780,
+      968
+    ],
+    "bbox": [
+      40,
+      135,
+      1755,
+      892
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S09-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "10-1": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      636,
+      198,
+      1699,
+      917
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S10-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "10-2": {
+    "native": [
+      444,
+      241
+    ],
+    "upscaled": [
+      1776,
+      964
+    ],
+    "bbox": [
+      104,
+      69,
+      811,
+      947
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S10-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "10-3": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      796,
+      320,
+      1709,
+      921
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S10-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "10-4": {
+    "native": [
+      445,
+      245
+    ],
+    "upscaled": [
+      1780,
+      980
+    ],
+    "bbox": [
+      92,
+      160,
+      976,
+      951
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S10-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "10-5": {
+    "native": [
+      444,
+      245
+    ],
+    "upscaled": [
+      1776,
+      980
+    ],
+    "bbox": [
+      1038,
+      193,
+      1655,
+      901
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S10-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "10-6": {
+    "native": [
+      445,
+      245
+    ],
+    "upscaled": [
+      1780,
+      980
+    ],
+    "bbox": [
+      17,
+      204,
+      1049,
+      938
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S10-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "10-7": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      708,
+      140,
+      1677,
+      928
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S10-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "10-8": {
+    "native": [
+      444,
+      240
+    ],
+    "upscaled": [
+      1776,
+      960
+    ],
+    "bbox": [
+      88,
+      135,
+      894,
+      931
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S10-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "10-9": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      787,
+      40,
+      1669,
+      933
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S10-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "11-1": {
+    "native": [
+      444,
+      240
+    ],
+    "upscaled": [
+      1776,
+      960
+    ],
+    "bbox": [
+      799,
+      0,
+      1692,
+      887
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S11-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "11-2": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      193,
+      257,
+      1388,
+      918
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S11-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "11-3": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      400,
+      26,
+      1717,
+      939
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S11-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "11-4": {
+    "native": [
+      444,
+      246
+    ],
+    "upscaled": [
+      1776,
+      984
+    ],
+    "bbox": [
+      240,
+      178,
+      952,
+      933
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S11-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "11-5": {
+    "native": [
+      445,
+      246
+    ],
+    "upscaled": [
+      1780,
+      984
+    ],
+    "bbox": [
+      970,
+      190,
+      1673,
+      948
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S11-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "11-6": {
+    "native": [
+      445,
+      245
+    ],
+    "upscaled": [
+      1780,
+      980
+    ],
+    "bbox": [
+      20,
+      62,
+      1763,
+      977
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S11-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "11-7": {
+    "native": [
+      444,
+      240
+    ],
+    "upscaled": [
+      1776,
+      960
+    ],
+    "bbox": [
+      973,
+      92,
+      1657,
+      939
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S11-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "11-8": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      215,
+      17,
+      1226,
+      925
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S11-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "11-9": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      910,
+      157,
+      1696,
+      890
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S11-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "12-1": {
+    "native": [
+      444,
+      239
+    ],
+    "upscaled": [
+      1776,
+      956
+    ],
+    "bbox": [
+      924,
+      189,
+      1776,
+      910
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S12-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "12-2": {
+    "native": [
+      445,
+      239
+    ],
+    "upscaled": [
+      1780,
+      956
+    ],
+    "bbox": [
+      108,
+      212,
+      946,
+      907
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S12-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "12-3": {
+    "native": [
+      445,
+      239
+    ],
+    "upscaled": [
+      1780,
+      956
+    ],
+    "bbox": [
+      698,
+      180,
+      1678,
+      903
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S12-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "12-4": {
+    "native": [
+      444,
+      246
+    ],
+    "upscaled": [
+      1776,
+      984
+    ],
+    "bbox": [
+      353,
+      144,
+      1217,
+      984
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S12-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "12-5": {
+    "native": [
+      445,
+      246
+    ],
+    "upscaled": [
+      1780,
+      984
+    ],
+    "bbox": [
+      727,
+      181,
+      1780,
+      943
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S12-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "12-6": {
+    "native": [
+      445,
+      246
+    ],
+    "upscaled": [
+      1780,
+      984
+    ],
+    "bbox": [
+      260,
+      20,
+      1192,
+      984
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S12-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "12-7": {
+    "native": [
+      444,
+      241
+    ],
+    "upscaled": [
+      1776,
+      964
+    ],
+    "bbox": [
+      792,
+      146,
+      1776,
+      897
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S12-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "12-8": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      11,
+      155,
+      865,
+      904
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S12-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "12-9": {
+    "native": [
+      439,
+      234
+    ],
+    "upscaled": [
+      1756,
+      936
+    ],
+    "bbox": [
+      0,
+      0,
+      1736,
+      936
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S12-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "13-1": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      827,
+      100,
+      1708,
+      945
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S13-P01",
+    "use_status": "intentionally_omitted"
+  },
+  "13-2": {
+    "native": [
+      443,
+      241
+    ],
+    "upscaled": [
+      1772,
+      964
+    ],
+    "bbox": [
+      101,
+      184,
+      1449,
+      917
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S13-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "13-3": {
+    "native": [
+      446,
+      241
+    ],
+    "upscaled": [
+      1784,
+      964
+    ],
+    "bbox": [
+      756,
+      126,
+      1664,
+      947
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S13-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "13-4": {
+    "native": [
+      445,
+      243
+    ],
+    "upscaled": [
+      1780,
+      972
+    ],
+    "bbox": [
+      134,
+      133,
+      1026,
+      894
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S13-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "13-5": {
+    "native": [
+      443,
+      243
+    ],
+    "upscaled": [
+      1772,
+      972
+    ],
+    "bbox": [
+      839,
+      106,
+      1611,
+      929
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S13-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "13-6": {
+    "native": [
+      446,
+      243
+    ],
+    "upscaled": [
+      1784,
+      972
+    ],
+    "bbox": [
+      168,
+      123,
+      1088,
+      931
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S13-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "13-7": {
+    "native": [
+      445,
+      242
+    ],
+    "upscaled": [
+      1780,
+      968
+    ],
+    "bbox": [
+      776,
+      100,
+      1669,
+      813
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S13-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "13-8": {
+    "native": [
+      443,
+      242
+    ],
+    "upscaled": [
+      1772,
+      968
+    ],
+    "bbox": [
+      162,
+      118,
+      1034,
+      833
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S13-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "13-9": {
+    "native": [
+      446,
+      242
+    ],
+    "upscaled": [
+      1784,
+      968
+    ],
+    "bbox": [
+      745,
+      103,
+      1712,
+      893
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S13-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "14-1": {
+    "native": [
+      444,
+      240
+    ],
+    "upscaled": [
+      1776,
+      960
+    ],
+    "bbox": [
+      233,
+      61,
+      1733,
+      925
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S14-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "14-2": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      62,
+      252,
+      1659,
+      952
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S14-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "14-3": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      124,
+      315,
+      1722,
+      941
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S14-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "14-4": {
+    "native": [
+      444,
+      245
+    ],
+    "upscaled": [
+      1776,
+      980
+    ],
+    "bbox": [
+      10,
+      213,
+      1636,
+      980
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S14-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "14-5": {
+    "native": [
+      445,
+      245
+    ],
+    "upscaled": [
+      1780,
+      980
+    ],
+    "bbox": [
+      152,
+      189,
+      1753,
+      959
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S14-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "14-6": {
+    "native": [
+      445,
+      245
+    ],
+    "upscaled": [
+      1780,
+      980
+    ],
+    "bbox": [
+      62,
+      45,
+      1635,
+      976
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S14-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "14-7": {
+    "native": [
+      444,
+      241
+    ],
+    "upscaled": [
+      1776,
+      964
+    ],
+    "bbox": [
+      221,
+      283,
+      1714,
+      932
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S14-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "14-8": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      12,
+      20,
+      1663,
+      920
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S14-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "14-9": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      132,
+      142,
+      1703,
+      936
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S14-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "15-1": {
+    "native": [
+      444,
+      240
+    ],
+    "upscaled": [
+      1776,
+      960
+    ],
+    "bbox": [
+      44,
+      174,
+      1776,
+      932
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S15-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "15-2": {
+    "native": [
+      444,
+      240
+    ],
+    "upscaled": [
+      1776,
+      960
+    ],
+    "bbox": [
+      0,
+      245,
+      1776,
+      960
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S15-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "15-3": {
+    "native": [
+      446,
+      240
+    ],
+    "upscaled": [
+      1784,
+      960
+    ],
+    "bbox": [
+      208,
+      172,
+      1775,
+      929
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S15-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "15-4": {
+    "native": [
+      444,
+      245
+    ],
+    "upscaled": [
+      1776,
+      980
+    ],
+    "bbox": [
+      82,
+      36,
+      1740,
+      889
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S15-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "15-5": {
+    "native": [
+      444,
+      245
+    ],
+    "upscaled": [
+      1776,
+      980
+    ],
+    "bbox": [
+      112,
+      4,
+      1776,
+      980
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S15-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "15-6": {
+    "native": [
+      446,
+      245
+    ],
+    "upscaled": [
+      1784,
+      980
+    ],
+    "bbox": [
+      0,
+      0,
+      1728,
+      956
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S15-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "15-7": {
+    "native": [
+      444,
+      241
+    ],
+    "upscaled": [
+      1776,
+      964
+    ],
+    "bbox": [
+      64,
+      125,
+      1694,
+      859
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S15-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "15-8": {
+    "native": [
+      444,
+      241
+    ],
+    "upscaled": [
+      1776,
+      964
+    ],
+    "bbox": [
+      0,
+      20,
+      1335,
+      896
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S15-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "15-9": {
+    "native": [
+      446,
+      241
+    ],
+    "upscaled": [
+      1784,
+      964
+    ],
+    "bbox": [
+      56,
+      24,
+      1784,
+      877
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S15-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "16-1": {
+    "native": [
+      444,
+      240
+    ],
+    "upscaled": [
+      1776,
+      960
+    ],
+    "bbox": [
+      570,
+      18,
+      1776,
+      960
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S16-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "16-2": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      0,
+      0,
+      1466,
+      960
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S16-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "16-3": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      696,
+      143,
+      1780,
+      939
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S16-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "16-4": {
+    "native": [
+      444,
+      245
+    ],
+    "upscaled": [
+      1776,
+      980
+    ],
+    "bbox": [
+      143,
+      119,
+      1215,
+      980
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S16-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "16-5": {
+    "native": [
+      445,
+      245
+    ],
+    "upscaled": [
+      1780,
+      980
+    ],
+    "bbox": [
+      700,
+      157,
+      1780,
+      949
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S16-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "16-6": {
+    "native": [
+      445,
+      245
+    ],
+    "upscaled": [
+      1780,
+      980
+    ],
+    "bbox": [
+      44,
+      0,
+      1392,
+      968
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S16-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "16-7": {
+    "native": [
+      444,
+      241
+    ],
+    "upscaled": [
+      1776,
+      964
+    ],
+    "bbox": [
+      696,
+      160,
+      1699,
+      944
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S16-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "16-8": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      96,
+      139,
+      1074,
+      936
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S16-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "16-9": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      83,
+      130,
+      1702,
+      964
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S16-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "17-1": {
+    "native": [
+      444,
+      240
+    ],
+    "upscaled": [
+      1776,
+      960
+    ],
+    "bbox": [
+      1042,
+      167,
+      1732,
+      919
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S17-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "17-2": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      54,
+      162,
+      1769,
+      903
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S17-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "17-3": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      977,
+      36,
+      1762,
+      916
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S17-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "17-4": {
+    "native": [
+      444,
+      246
+    ],
+    "upscaled": [
+      1776,
+      984
+    ],
+    "bbox": [
+      0,
+      108,
+      1116,
+      920
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S17-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "17-5": {
+    "native": [
+      445,
+      246
+    ],
+    "upscaled": [
+      1780,
+      984
+    ],
+    "bbox": [
+      934,
+      39,
+      1776,
+      950
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S17-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "17-6": {
+    "native": [
+      445,
+      246
+    ],
+    "upscaled": [
+      1780,
+      984
+    ],
+    "bbox": [
+      19,
+      72,
+      1115,
+      949
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S17-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "17-7": {
+    "native": [
+      444,
+      240
+    ],
+    "upscaled": [
+      1776,
+      960
+    ],
+    "bbox": [
+      515,
+      125,
+      1776,
+      885
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S17-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "17-8": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      27,
+      122,
+      1078,
+      875
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S17-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "17-9": {
+    "native": [
+      445,
+      240
+    ],
+    "upscaled": [
+      1780,
+      960
+    ],
+    "bbox": [
+      1012,
+      45,
+      1723,
+      910
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S17-P09",
+    "use_status": "available_not_yet_rendered"
+  },
+  "18-1": {
+    "native": [
+      445,
+      239
+    ],
+    "upscaled": [
+      1780,
+      956
+    ],
+    "bbox": [
+      914,
+      130,
+      1731,
+      935
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S18-P01",
+    "use_status": "available_not_yet_rendered"
+  },
+  "18-2": {
+    "native": [
+      442,
+      239
+    ],
+    "upscaled": [
+      1768,
+      956
+    ],
+    "bbox": [
+      240,
+      159,
+      871,
+      935
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S18-P02",
+    "use_status": "available_not_yet_rendered"
+  },
+  "18-3": {
+    "native": [
+      447,
+      239
+    ],
+    "upscaled": [
+      1788,
+      956
+    ],
+    "bbox": [
+      667,
+      119,
+      1605,
+      943
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S18-P03",
+    "use_status": "available_not_yet_rendered"
+  },
+  "18-4": {
+    "native": [
+      445,
+      246
+    ],
+    "upscaled": [
+      1780,
+      984
+    ],
+    "bbox": [
+      180,
+      199,
+      1547,
+      918
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S18-P04",
+    "use_status": "available_not_yet_rendered"
+  },
+  "18-5": {
+    "native": [
+      442,
+      246
+    ],
+    "upscaled": [
+      1768,
+      984
+    ],
+    "bbox": [
+      928,
+      181,
+      1704,
+      928
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S18-P05",
+    "use_status": "available_not_yet_rendered"
+  },
+  "18-6": {
+    "native": [
+      447,
+      246
+    ],
+    "upscaled": [
+      1788,
+      984
+    ],
+    "bbox": [
+      221,
+      191,
+      914,
+      980
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S18-P06",
+    "use_status": "available_not_yet_rendered"
+  },
+  "18-7": {
+    "native": [
+      445,
+      241
+    ],
+    "upscaled": [
+      1780,
+      964
+    ],
+    "bbox": [
+      636,
+      150,
+      1780,
+      964
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S18-P07",
+    "use_status": "available_not_yet_rendered"
+  },
+  "18-8": {
+    "native": [
+      442,
+      241
+    ],
+    "upscaled": [
+      1768,
+      964
+    ],
+    "bbox": [
+      4,
+      219,
+      1215,
+      905
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S18-P08",
+    "use_status": "available_not_yet_rendered"
+  },
+  "18-9": {
+    "native": [
+      447,
+      241
+    ],
+    "upscaled": [
+      1788,
+      964
+    ],
+    "bbox": [
+      0,
+      191,
+      1788,
+      964
+    ],
+    "method": "FSRCNN 4x with 22% Lanczos blend and restrained sharpening",
+    "source_panel": "S18-P09",
+    "use_status": "available_not_yet_rendered"
+  }
+}

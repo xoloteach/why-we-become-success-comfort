@@ -1,0 +1,425 @@
+{
+  "sheets": [
+    {
+      "sheet_id": 1,
+      "candidates": [
+        15,
+        35
+      ],
+      "selected_asset": 35,
+      "reason": "Stronger detail in preparation tools and book; canonical character retained.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        459,
+        916,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        254,
+        513,
+        768
+      ],
+      "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_5.jpg"
+    },
+    {
+      "sheet_id": 2,
+      "candidates": [
+        23,
+        24
+      ],
+      "selected_asset": 24,
+      "reason": "Clearer sofa, project and night-to-day storytelling; less enclosing outer border.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        458,
+        917,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        254,
+        513,
+        768
+      ],
+      "source_original_name": "Stickman_grid_showing_procrastin\u2026_20261007234350_2.jpg"
+    },
+    {
+      "sheet_id": 3,
+      "candidates": [
+        17,
+        34
+      ],
+      "selected_asset": 34,
+      "reason": "More deliberate cushion enclosure and cleaner project and doorway compositions.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        458,
+        917,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        253,
+        513,
+        768
+      ],
+      "source_original_name": "Stickman_contact_sheet_of_tasks_20261007234350.jpg"
+    },
+    {
+      "sheet_id": 4,
+      "candidates": [
+        1,
+        4
+      ],
+      "selected_asset": 4,
+      "reason": "More expressive research overload and busywork; improved action readability.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        457,
+        916,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        254,
+        511,
+        768
+      ],
+      "source_original_name": "Stickman_completing_busywork_grid_20261007234350.jpg"
+    },
+    {
+      "sheet_id": 5,
+      "candidates": [
+        14,
+        16
+      ],
+      "selected_asset": 16,
+      "reason": "Bolder character scale in phone, practice, parcel and savings contrasts.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        458,
+        917,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        254,
+        513,
+        768
+      ],
+      "source_original_name": "Stickman_contact_sheet_grid_20261007234350.jpg"
+    },
+    {
+      "sheet_id": 6,
+      "candidates": [
+        13,
+        30
+      ],
+      "selected_asset": 30,
+      "reason": "Clearer present/future choice, open doorway, signpost and bridge metaphors.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        458,
+        917,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        253,
+        513,
+        768
+      ],
+      "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_6.jpg"
+    },
+    {
+      "sheet_id": 7,
+      "candidates": [
+        11,
+        26
+      ],
+      "selected_asset": 26,
+      "reason": "Clearer walking loop, repeated footprint path and desk avoidance action.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        459,
+        917,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        254,
+        513,
+        768
+      ],
+      "source_original_name": "Stickman_grid_contact_sheet_actions_20261007234350.jpg"
+    },
+    {
+      "sheet_id": 8,
+      "candidates": [
+        8,
+        29
+      ],
+      "selected_asset": 29,
+      "reason": "Stronger fear, burden, reflection and distraction-room metaphors.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        456,
+        916,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        253,
+        511,
+        768
+      ],
+      "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_2.jpg"
+    },
+    {
+      "sheet_id": 9,
+      "candidates": [
+        5,
+        32
+      ],
+      "selected_asset": 32,
+      "reason": "Closer expressive views of confusion and practice; clearer unattended progress.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        458,
+        917,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        253,
+        512,
+        768
+      ],
+      "source_original_name": "Stickman_contact_sheet_creation_\u2026_20261007234350_3.jpg"
+    },
+    {
+      "sheet_id": 10,
+      "candidates": [
+        7,
+        36
+      ],
+      "selected_asset": 36,
+      "reason": "Prepared clothing, drawer and bedtime project are more distinctive.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        459,
+        917,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        255,
+        514,
+        768
+      ],
+      "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_7.jpg"
+    },
+    {
+      "sheet_id": 11,
+      "candidates": [
+        3,
+        33
+      ],
+      "selected_asset": 33,
+      "reason": "Clearer empty shop, failure, unrealized sculpture and protective enclosure.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        458,
+        917,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        254,
+        514,
+        768
+      ],
+      "source_original_name": "Stickman_character_grid_contact_\u2026_20261007234350.jpg"
+    },
+    {
+      "sheet_id": 12,
+      "candidates": [
+        12,
+        22
+      ],
+      "selected_asset": 12,
+      "reason": "Cohesive relief-to-guilt sequence with clear sunrise and future-self cues.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        458,
+        917,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        253,
+        513,
+        768
+      ],
+      "source_original_name": "Stickman_navigating_work_and_ref\u2026_20261007234350.jpg"
+    },
+    {
+      "sheet_id": 13,
+      "candidates": [
+        9,
+        18
+      ],
+      "selected_asset": 18,
+      "reason": "Larger readable character and short-work timer; first checklist cell withheld for pseudo-text.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        459,
+        916,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        255,
+        512,
+        768
+      ],
+      "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_3.jpg"
+    },
+    {
+      "sheet_id": 14,
+      "candidates": [
+        2,
+        19
+      ],
+      "selected_asset": 19,
+      "reason": "Cleaner completed-action objects and tool readiness; graphics will clarify conceptual evidence.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        458,
+        917,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        254,
+        513,
+        768
+      ],
+      "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_3.jpg"
+    },
+    {
+      "sheet_id": 15,
+      "candidates": [
+        21,
+        28
+      ],
+      "selected_asset": 28,
+      "reason": "Better separation of healthy rest, game, work-return and repeated-choice metaphors.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        458,
+        916,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        254,
+        513,
+        768
+      ],
+      "source_original_name": "Stickman_contact_sheet_grid_layout_20261007234350_5.jpg"
+    },
+    {
+      "sheet_id": 16,
+      "candidates": [
+        27,
+        38
+      ],
+      "selected_asset": 27,
+      "reason": "Clearer difficult path, study, saving, practice and conversation actions.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        458,
+        917,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        254,
+        513,
+        768
+      ],
+      "source_original_name": "Stickman_contact_sheet_grid_crea\u2026_20261007234350.jpg"
+    },
+    {
+      "sheet_id": 17,
+      "candidates": [
+        6,
+        31
+      ],
+      "selected_asset": 31,
+      "reason": "Stronger work/comfort contrast and intentional restorative corner.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        458,
+        917,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        254,
+        514,
+        768
+      ],
+      "source_original_name": "Stickman_character_contact_sheet\u2026_20261007234350.jpg"
+    },
+    {
+      "sheet_id": 18,
+      "candidates": [
+        10,
+        20
+      ],
+      "selected_asset": 20,
+      "reason": "Stronger inking in skill, project, conversation, repetition and one-stone action.",
+      "selection_method": "editorial comparison of both supplied variants",
+      "boundary_x": [
+        0,
+        459,
+        915,
+        1376
+      ],
+      "boundary_y": [
+        0,
+        253,
+        513,
+        768
+      ],
+      "source_original_name": "Stickman_grid_contact_sheet_crea\u2026_20261007234350_4.jpg"
+    }
+  ],
+  "thumbnail_candidates": [
+    25,
+    37
+  ],
+  "selected_thumbnail": 37,
+  "thumbnail_reason": "Stronger facial emotion and sharper right-side focal silhouette while retaining clean left headline space.",
+  "unused_variants": "Retained in original input ZIP; intentionally unused alternates, not duplicate production panels."
+}

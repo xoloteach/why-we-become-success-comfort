@@ -1,0 +1,100 @@
+{
+  "expected_words": 1975,
+  "observed_words": 1967,
+  "exact_normalized_matches": 1960,
+  "coverage": 0.9924050632911392,
+  "interpolated_words": [
+    {
+      "index": 17,
+      "word": "want",
+      "start": 6.56,
+      "end": 6.67999985
+    },
+    {
+      "index": 18,
+      "word": "to",
+      "start": 6.67999985,
+      "end": 6.7999997
+    },
+    {
+      "index": 26,
+      "word": "want",
+      "start": 8.72,
+      "end": 8.84
+    },
+    {
+      "index": 27,
+      "word": "to",
+      "start": 8.84,
+      "end": 8.96
+    },
+    {
+      "index": 33,
+      "word": "want",
+      "start": 10.4,
+      "end": 10.4799995
+    },
+    {
+      "index": 34,
+      "word": "to",
+      "start": 10.4799995,
+      "end": 10.559999
+    },
+    {
+      "index": 40,
+      "word": "want",
+      "start": 12.08,
+      "end": 12.2
+    },
+    {
+      "index": 41,
+      "word": "to",
+      "start": 12.2,
+      "end": 12.32
+    },
+    {
+      "index": 63,
+      "word": "if",
+      "start": 18.074999,
+      "end": 18.235
+    },
+    {
+      "index": 1272,
+      "word": "work",
+      "start": 410.99503,
+      "end": 410.99503
+    },
+    {
+      "index": 1363,
+      "word": "exercised",
+      "start": 439.085,
+      "end": 439.565
+    },
+    {
+      "index": 1440,
+      "word": "want",
+      "start": 467.225,
+      "end": 467.345
+    },
+    {
+      "index": 1441,
+      "word": "to",
+      "start": 467.345,
+      "end": 467.465
+    },
+    {
+      "index": 1814,
+      "word": "want",
+      "start": 586.9,
+      "end": 587.02
+    },
+    {
+      "index": 1815,
+      "word": "to",
+      "start": 587.02,
+      "end": 587.14
+    }
+  ],
+  "source": "Deepgram Nova-3 on final processed narration; script-aware normalized alignment",
+  "warning": "Timestamps are estimates, not a guarantee of millisecond accuracy."
+}

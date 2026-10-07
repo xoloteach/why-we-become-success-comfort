@@ -1,0 +1,20 @@
+{
+  "title": "Why You Want Success But Keep Choosing Comfort",
+  "status": "image-ready preproduction; no generated artwork, narration or render",
+  "script_words": 1975,
+  "script_sha256": "e5e507767ec507df995ed0c0f75c379844f149edff30cebbba749ec6b876012d",
+  "estimate_words_per_minute": 140,
+  "estimate_runtime_seconds": 846.4285714285714,
+  "estimate_is_not_audio_duration": true,
+  "provisional_sheets": 18,
+  "provisional_panels": 162,
+  "thumbnail_prompts": 1,
+  "final_sheet_rule": "ceil(final_processed_audio_seconds / 60 * 1.25)",
+  "narration": "not supplied or synthesized in this turn",
+  "timing": "all start/end/cue fields deliberately null",
+  "renderer": "not implemented",
+  "master": "not rendered",
+  "release": "not created",
+  "images": "user generates and uploads; no automatic image-generation calls",
+  "visibility": "existing repository remains private"
+}

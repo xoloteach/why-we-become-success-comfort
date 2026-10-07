@@ -1,0 +1,2543 @@
+[
+  {
+    "text": "You say you want a better life.",
+    "word_start": 0,
+    "word_end": 7,
+    "start": 0.0,
+    "end": 1.6800001
+  },
+  {
+    "text": "More money.",
+    "word_start": 7,
+    "word_end": 9,
+    "start": 1.76,
+    "end": 2.56
+  },
+  {
+    "text": "More freedom.",
+    "word_start": 9,
+    "word_end": 11,
+    "start": 2.56,
+    "end": 3.5199997
+  },
+  {
+    "text": "More confidence.",
+    "word_start": 11,
+    "word_end": 13,
+    "start": 3.6,
+    "end": 4.96
+  },
+  {
+    "text": "More discipline.",
+    "word_start": 13,
+    "word_end": 15,
+    "start": 4.96,
+    "end": 6.0
+  },
+  {
+    "text": "Maybe you want to build something of your own.",
+    "word_start": 15,
+    "word_end": 24,
+    "start": 6.16,
+    "end": 8.24
+  },
+  {
+    "text": "Maybe you want to get in shape.",
+    "word_start": 24,
+    "word_end": 31,
+    "start": 8.32,
+    "end": 9.919999
+  },
+  {
+    "text": "Maybe you want to learn a skill.",
+    "word_start": 31,
+    "word_end": 38,
+    "start": 10.0,
+    "end": 11.5199995
+  },
+  {
+    "text": "Maybe you want to leave the life you're currently living.",
+    "word_start": 38,
+    "word_end": 48,
+    "start": 11.759999,
+    "end": 13.92
+  },
+  {
+    "text": "You think about it all the time.",
+    "word_start": 48,
+    "word_end": 55,
+    "start": 14.235,
+    "end": 15.914999
+  },
+  {
+    "text": "You imagine what your life could look like...",
+    "word_start": 55,
+    "word_end": 63,
+    "start": 16.074999,
+    "end": 18.074999
+  },
+  {
+    "text": "if you finally became the person you keep telling yourself you're going to become.",
+    "word_start": 63,
+    "word_end": 77,
+    "start": 18.074999,
+    "end": 21.755
+  },
+  {
+    "text": "But then...",
+    "word_start": 77,
+    "word_end": 79,
+    "start": 21.994999,
+    "end": 22.715
+  },
+  {
+    "text": "your alarm goes off.",
+    "word_start": 79,
+    "word_end": 83,
+    "start": 22.715,
+    "end": 24.075
+  },
+  {
+    "text": "And you hit snooze.",
+    "word_start": 83,
+    "word_end": 87,
+    "start": 24.075,
+    "end": 25.595
+  },
+  {
+    "text": "You know you should work.",
+    "word_start": 87,
+    "word_end": 92,
+    "start": 25.675,
+    "end": 26.954998
+  },
+  {
+    "text": "But you open your phone.",
+    "word_start": 92,
+    "word_end": 97,
+    "start": 27.035,
+    "end": 27.914999
+  },
+  {
+    "text": "You know you should exercise.",
+    "word_start": 97,
+    "word_end": 102,
+    "start": 28.34,
+    "end": 29.86
+  },
+  {
+    "text": "But you tell yourself you'll do it tomorrow.",
+    "word_start": 102,
+    "word_end": 110,
+    "start": 30.1,
+    "end": 32.100002
+  },
+  {
+    "text": "You know you should start that project.",
+    "word_start": 110,
+    "word_end": 117,
+    "start": 32.260002,
+    "end": 34.02
+  },
+  {
+    "text": "But suddenly...",
+    "word_start": 117,
+    "word_end": 119,
+    "start": 34.18,
+    "end": 35.14
+  },
+  {
+    "text": "cleaning your room feels important.",
+    "word_start": 119,
+    "word_end": 124,
+    "start": 35.3,
+    "end": 37.14
+  },
+  {
+    "text": "You watch another video.",
+    "word_start": 124,
+    "word_end": 128,
+    "start": 37.38,
+    "end": 38.82
+  },
+  {
+    "text": "You make another plan.",
+    "word_start": 128,
+    "word_end": 132,
+    "start": 38.98,
+    "end": 39.94
+  },
+  {
+    "text": "You tell yourself you just need a little more motivation.",
+    "word_start": 132,
+    "word_end": 142,
+    "start": 40.385002,
+    "end": 43.185
+  },
+  {
+    "text": "And somehow...",
+    "word_start": 142,
+    "word_end": 144,
+    "start": 43.425,
+    "end": 44.465
+  },
+  {
+    "text": "the day disappears.",
+    "word_start": 144,
+    "word_end": 147,
+    "start": 44.545,
+    "end": 45.825
+  },
+  {
+    "text": "Then night comes.",
+    "word_start": 147,
+    "word_end": 150,
+    "start": 46.065,
+    "end": 47.665
+  },
+  {
+    "text": "And you think...",
+    "word_start": 150,
+    "word_end": 153,
+    "start": 47.905,
+    "end": 48.785
+  },
+  {
+    "text": "\u201cTomorrow.\u201d",
+    "word_start": 153,
+    "word_end": 154,
+    "start": 48.864998,
+    "end": 49.505
+  },
+  {
+    "text": "Tomorrow I'll start.",
+    "word_start": 154,
+    "word_end": 157,
+    "start": 49.905,
+    "end": 51.265
+  },
+  {
+    "text": "Tomorrow I'll be disciplined.",
+    "word_start": 157,
+    "word_end": 161,
+    "start": 51.345,
+    "end": 52.785
+  },
+  {
+    "text": "Tomorrow I'll finally take this seriously.",
+    "word_start": 161,
+    "word_end": 167,
+    "start": 53.23,
+    "end": 55.87
+  },
+  {
+    "text": "And for a few minutes...",
+    "word_start": 167,
+    "word_end": 172,
+    "start": 56.11,
+    "end": 57.39
+  },
+  {
+    "text": "you actually believe it.",
+    "word_start": 172,
+    "word_end": 176,
+    "start": 57.39,
+    "end": 59.07
+  },
+  {
+    "text": "Until tomorrow becomes another tomorrow.",
+    "word_start": 176,
+    "word_end": 181,
+    "start": 59.23,
+    "end": 61.71
+  },
+  {
+    "text": "And eventually...",
+    "word_start": 181,
+    "word_end": 183,
+    "start": 61.87,
+    "end": 62.75
+  },
+  {
+    "text": "you start wondering something uncomfortable.",
+    "word_start": 183,
+    "word_end": 188,
+    "start": 62.91,
+    "end": 64.83
+  },
+  {
+    "text": "\u201cIf I really want this life...",
+    "word_start": 188,
+    "word_end": 194,
+    "start": 65.245,
+    "end": 67.165
+  },
+  {
+    "text": "why do I keep choosing the things that move me away from it?\u201d",
+    "word_start": 194,
+    "word_end": 207,
+    "start": 67.325,
+    "end": 70.205
+  },
+  {
+    "text": "Because here's the strange part.",
+    "word_start": 207,
+    "word_end": 212,
+    "start": 70.284996,
+    "end": 71.965
+  },
+  {
+    "text": "Most people don't actually choose a bad life.",
+    "word_start": 212,
+    "word_end": 220,
+    "start": 72.045,
+    "end": 74.685
+  },
+  {
+    "text": "They choose a comfortable moment...",
+    "word_start": 220,
+    "word_end": 225,
+    "start": 74.765,
+    "end": 76.525
+  },
+  {
+    "text": "again and again.",
+    "word_start": 225,
+    "word_end": 228,
+    "start": 76.604996,
+    "end": 77.725
+  },
+  {
+    "text": "And those comfortable moments...",
+    "word_start": 228,
+    "word_end": 232,
+    "start": 78.200005,
+    "end": 79.96
+  },
+  {
+    "text": "eventually become their life.",
+    "word_start": 232,
+    "word_end": 236,
+    "start": 80.04,
+    "end": 81.96
+  },
+  {
+    "text": "Think about the last time you had something important to do.",
+    "word_start": 236,
+    "word_end": 247,
+    "start": 81.96,
+    "end": 84.68
+  },
+  {
+    "text": "Maybe you had an assignment.",
+    "word_start": 247,
+    "word_end": 252,
+    "start": 84.76,
+    "end": 86.200005
+  },
+  {
+    "text": "A work project.",
+    "word_start": 252,
+    "word_end": 255,
+    "start": 86.200005,
+    "end": 87.4
+  },
+  {
+    "text": "A workout.",
+    "word_start": 255,
+    "word_end": 257,
+    "start": 87.48,
+    "end": 88.36
+  },
+  {
+    "text": "A difficult conversation.",
+    "word_start": 257,
+    "word_end": 260,
+    "start": 88.44,
+    "end": 89.8
+  },
+  {
+    "text": "Or something you've been saying you would start for months.",
+    "word_start": 260,
+    "word_end": 270,
+    "start": 90.04,
+    "end": 92.12
+  },
+  {
+    "text": "You knew exactly what needed to happen.",
+    "word_start": 270,
+    "word_end": 277,
+    "start": 92.445,
+    "end": 94.525
+  },
+  {
+    "text": "There wasn't some huge mystery.",
+    "word_start": 277,
+    "word_end": 282,
+    "start": 94.685,
+    "end": 96.284996
+  },
+  {
+    "text": "You didn't need another five hours of research.",
+    "word_start": 282,
+    "word_end": 290,
+    "start": 96.284996,
+    "end": 98.445
+  },
+  {
+    "text": "You didn't need a new productivity app.",
+    "word_start": 290,
+    "word_end": 297,
+    "start": 98.525,
+    "end": 100.525
+  },
+  {
+    "text": "You didn't need another motivational video.",
+    "word_start": 297,
+    "word_end": 303,
+    "start": 100.525,
+    "end": 103.005
+  },
+  {
+    "text": "You just needed to begin.",
+    "word_start": 303,
+    "word_end": 308,
+    "start": 103.085,
+    "end": 104.445
+  },
+  {
+    "text": "But beginning felt uncomfortable.",
+    "word_start": 308,
+    "word_end": 312,
+    "start": 104.604996,
+    "end": 105.965
+  },
+  {
+    "text": "So you did something easier.",
+    "word_start": 312,
+    "word_end": 317,
+    "start": 106.32,
+    "end": 107.92
+  },
+  {
+    "text": "You checked your phone.",
+    "word_start": 317,
+    "word_end": 321,
+    "start": 108.0,
+    "end": 109.12
+  },
+  {
+    "text": "You made coffee.",
+    "word_start": 321,
+    "word_end": 324,
+    "start": 109.2,
+    "end": 110.24
+  },
+  {
+    "text": "You organized your files.",
+    "word_start": 324,
+    "word_end": 328,
+    "start": 110.4,
+    "end": 111.84
+  },
+  {
+    "text": "You answered messages.",
+    "word_start": 328,
+    "word_end": 331,
+    "start": 111.92,
+    "end": 113.12
+  },
+  {
+    "text": "You watched something.",
+    "word_start": 331,
+    "word_end": 334,
+    "start": 113.2,
+    "end": 114.24
+  },
+  {
+    "text": "And strangely...",
+    "word_start": 334,
+    "word_end": 336,
+    "start": 114.32,
+    "end": 115.36
+  },
+  {
+    "text": "you didn't feel like you were avoiding the task.",
+    "word_start": 336,
+    "word_end": 345,
+    "start": 115.44,
+    "end": 117.44
+  },
+  {
+    "text": "You felt busy.",
+    "word_start": 345,
+    "word_end": 348,
+    "start": 117.44,
+    "end": 118.16
+  },
+  {
+    "text": "You felt productive.",
+    "word_start": 348,
+    "word_end": 351,
+    "start": 118.335,
+    "end": 119.534996
+  },
+  {
+    "text": "But at the end of the day...",
+    "word_start": 351,
+    "word_end": 358,
+    "start": 119.534996,
+    "end": 120.735
+  },
+  {
+    "text": "the important thing was still sitting there.",
+    "word_start": 358,
+    "word_end": 365,
+    "start": 120.735,
+    "end": 122.494995
+  },
+  {
+    "text": "Waiting.",
+    "word_start": 365,
+    "word_end": 366,
+    "start": 122.575,
+    "end": 123.215
+  },
+  {
+    "text": "And this is where we misunderstand comfort.",
+    "word_start": 366,
+    "word_end": 373,
+    "start": 123.295,
+    "end": 125.215
+  },
+  {
+    "text": "Comfort doesn't always look like doing nothing.",
+    "word_start": 373,
+    "word_end": 380,
+    "start": 125.375,
+    "end": 127.534996
+  },
+  {
+    "text": "Sometimes...",
+    "word_start": 380,
+    "word_end": 381,
+    "start": 127.775,
+    "end": 128.57501
+  },
+  {
+    "text": "comfort looks incredibly productive.",
+    "word_start": 381,
+    "word_end": 385,
+    "start": 128.735,
+    "end": 130.095
+  },
+  {
+    "text": "Because your brain isn't asking,",
+    "word_start": 385,
+    "word_end": 390,
+    "start": 130.35,
+    "end": 131.79001
+  },
+  {
+    "text": "\u201cWhat will make my life better six months from now?\u201d",
+    "word_start": 390,
+    "word_end": 400,
+    "start": 131.79001,
+    "end": 134.51001
+  },
+  {
+    "text": "It's often asking a much simpler question.",
+    "word_start": 400,
+    "word_end": 407,
+    "start": 134.59001,
+    "end": 136.83002
+  },
+  {
+    "text": "\u201cWhat feels better right now?\u201d",
+    "word_start": 407,
+    "word_end": 412,
+    "start": 136.91,
+    "end": 138.43001
+  },
+  {
+    "text": "And that difference...",
+    "word_start": 412,
+    "word_end": 415,
+    "start": 138.51001,
+    "end": 139.31001
+  },
+  {
+    "text": "changes everything.",
+    "word_start": 415,
+    "word_end": 417,
+    "start": 139.31001,
+    "end": 140.43001
+  },
+  {
+    "text": "Imagine you have two choices.",
+    "word_start": 417,
+    "word_end": 422,
+    "start": 140.59001,
+    "end": 142.27002
+  },
+  {
+    "text": "One gives you a small reward immediately.",
+    "word_start": 422,
+    "word_end": 429,
+    "start": 142.43001,
+    "end": 144.59001
+  },
+  {
+    "text": "The other gives you a much bigger reward...",
+    "word_start": 429,
+    "word_end": 437,
+    "start": 145.02501,
+    "end": 147.18501
+  },
+  {
+    "text": "but only after weeks or months of effort.",
+    "word_start": 437,
+    "word_end": 445,
+    "start": 147.345,
+    "end": 149.66501
+  },
+  {
+    "text": "Your brain naturally notices the immediate reward first.",
+    "word_start": 445,
+    "word_end": 453,
+    "start": 149.74501,
+    "end": 152.78502
+  },
+  {
+    "text": "Scrolling gives you stimulation now.",
+    "word_start": 453,
+    "word_end": 458,
+    "start": 153.02501,
+    "end": 155.18501
+  },
+  {
+    "text": "Working out gives you results later.",
+    "word_start": 458,
+    "word_end": 464,
+    "start": 155.26501,
+    "end": 157.50502
+  },
+  {
+    "text": "Watching another video gives you entertainment now.",
+    "word_start": 464,
+    "word_end": 471,
+    "start": 157.66501,
+    "end": 159.90501
+  },
+  {
+    "text": "Learning a skill gives you ability later.",
+    "word_start": 471,
+    "word_end": 478,
+    "start": 160.22,
+    "end": 162.70001
+  },
+  {
+    "text": "Ordering something online gives you excitement now.",
+    "word_start": 478,
+    "word_end": 485,
+    "start": 162.86,
+    "end": 165.58
+  },
+  {
+    "text": "Saving money gives you freedom later.",
+    "word_start": 485,
+    "word_end": 491,
+    "start": 165.66,
+    "end": 167.74
+  },
+  {
+    "text": "Staying in bed feels comfortable now.",
+    "word_start": 491,
+    "word_end": 497,
+    "start": 167.9,
+    "end": 169.90001
+  },
+  {
+    "text": "Getting up and doing the difficult thing...",
+    "word_start": 497,
+    "word_end": 504,
+    "start": 169.98,
+    "end": 171.98
+  },
+  {
+    "text": "might make your future better.",
+    "word_start": 504,
+    "word_end": 509,
+    "start": 171.98,
+    "end": 173.58
+  },
+  {
+    "text": "But your future can't give you a reward yet.",
+    "word_start": 509,
+    "word_end": 518,
+    "start": 173.66,
+    "end": 175.5
+  },
+  {
+    "text": "It's still somewhere ahead.",
+    "word_start": 518,
+    "word_end": 522,
+    "start": 175.725,
+    "end": 177.24501
+  },
+  {
+    "text": "So the present has an advantage.",
+    "word_start": 522,
+    "word_end": 528,
+    "start": 177.32501,
+    "end": 179.085
+  },
+  {
+    "text": "The present is real.",
+    "word_start": 528,
+    "word_end": 532,
+    "start": 179.16501,
+    "end": 180.60501
+  },
+  {
+    "text": "The future is only an idea.",
+    "word_start": 532,
+    "word_end": 538,
+    "start": 180.68501,
+    "end": 182.60501
+  },
+  {
+    "text": "And that's why you can genuinely want success...",
+    "word_start": 538,
+    "word_end": 546,
+    "start": 182.765,
+    "end": 185.085
+  },
+  {
+    "text": "while repeatedly choosing comfort.",
+    "word_start": 546,
+    "word_end": 550,
+    "start": 185.16501,
+    "end": 187.16501
+  },
+  {
+    "text": "You're not necessarily lying to yourself.",
+    "word_start": 550,
+    "word_end": 556,
+    "start": 187.16501,
+    "end": 189.24501
+  },
+  {
+    "text": "You can sincerely want the bigger goal.",
+    "word_start": 556,
+    "word_end": 563,
+    "start": 189.405,
+    "end": 191.16501
+  },
+  {
+    "text": "You're just making decisions for the person you are...",
+    "word_start": 563,
+    "word_end": 572,
+    "start": 191.4,
+    "end": 193.96
+  },
+  {
+    "text": "right now.",
+    "word_start": 572,
+    "word_end": 574,
+    "start": 194.04,
+    "end": 194.84
+  },
+  {
+    "text": "And there's another problem.",
+    "word_start": 574,
+    "word_end": 578,
+    "start": 194.84,
+    "end": 196.28
+  },
+  {
+    "text": "The more often you choose comfort...",
+    "word_start": 578,
+    "word_end": 584,
+    "start": 196.51999,
+    "end": 198.44
+  },
+  {
+    "text": "the easier it becomes to choose it again.",
+    "word_start": 584,
+    "word_end": 592,
+    "start": 198.51999,
+    "end": 200.92
+  },
+  {
+    "text": "Because every decision teaches your brain something.",
+    "word_start": 592,
+    "word_end": 599,
+    "start": 201.07999,
+    "end": 203.31999
+  },
+  {
+    "text": "If you repeatedly avoid difficult work...",
+    "word_start": 599,
+    "word_end": 605,
+    "start": 203.675,
+    "end": 206.07501
+  },
+  {
+    "text": "your brain learns,",
+    "word_start": 605,
+    "word_end": 608,
+    "start": 206.235,
+    "end": 207.195
+  },
+  {
+    "text": "\u201cDifficult work is something we escape from.\u201d",
+    "word_start": 608,
+    "word_end": 615,
+    "start": 207.195,
+    "end": 209.35501
+  },
+  {
+    "text": "If you constantly reach for your phone whenever you're bored...",
+    "word_start": 615,
+    "word_end": 625,
+    "start": 209.595,
+    "end": 212.475
+  },
+  {
+    "text": "your brain learns,",
+    "word_start": 625,
+    "word_end": 628,
+    "start": 212.55501,
+    "end": 213.595
+  },
+  {
+    "text": "\u201cBoredom must be eliminated immediately.\u201d",
+    "word_start": 628,
+    "word_end": 633,
+    "start": 213.595,
+    "end": 215.515
+  },
+  {
+    "text": "If you keep quitting whenever something becomes uncomfortable...",
+    "word_start": 633,
+    "word_end": 641,
+    "start": 215.85,
+    "end": 218.57
+  },
+  {
+    "text": "your brain learns,",
+    "word_start": 641,
+    "word_end": 644,
+    "start": 218.73001,
+    "end": 219.45001
+  },
+  {
+    "text": "\u201cWhen things get difficult, we leave.\u201d",
+    "word_start": 644,
+    "word_end": 650,
+    "start": 219.45001,
+    "end": 222.01001
+  },
+  {
+    "text": "And eventually...",
+    "word_start": 650,
+    "word_end": 652,
+    "start": 222.17001,
+    "end": 223.05002
+  },
+  {
+    "text": "you don't even have to think about it.",
+    "word_start": 652,
+    "word_end": 660,
+    "start": 223.21,
+    "end": 224.89
+  },
+  {
+    "text": "The behavior becomes automatic.",
+    "word_start": 660,
+    "word_end": 664,
+    "start": 224.89,
+    "end": 226.89001
+  },
+  {
+    "text": "This is why people sometimes say,",
+    "word_start": 664,
+    "word_end": 670,
+    "start": 227.05,
+    "end": 228.73001
+  },
+  {
+    "text": "\u201cI don't understand myself.",
+    "word_start": 670,
+    "word_end": 674,
+    "start": 228.89,
+    "end": 230.01001
+  },
+  {
+    "text": "I know exactly what I want.",
+    "word_start": 674,
+    "word_end": 680,
+    "start": 230.375,
+    "end": 232.13501
+  },
+  {
+    "text": "So why can't I make myself do it?\u201d",
+    "word_start": 680,
+    "word_end": 688,
+    "start": 232.215,
+    "end": 234.135
+  },
+  {
+    "text": "Because knowing what you want...",
+    "word_start": 688,
+    "word_end": 693,
+    "start": 234.135,
+    "end": 235.575
+  },
+  {
+    "text": "and being trained to tolerate what it takes to get there...",
+    "word_start": 693,
+    "word_end": 704,
+    "start": 235.575,
+    "end": 238.295
+  },
+  {
+    "text": "are two completely different things.",
+    "word_start": 704,
+    "word_end": 709,
+    "start": 238.295,
+    "end": 240.295
+  },
+  {
+    "text": "You can have huge ambitions...",
+    "word_start": 709,
+    "word_end": 714,
+    "start": 240.375,
+    "end": 241.97499
+  },
+  {
+    "text": "and still have a very low tolerance for discomfort.",
+    "word_start": 714,
+    "word_end": 723,
+    "start": 241.97499,
+    "end": 244.535
+  },
+  {
+    "text": "You can dream about becoming successful...",
+    "word_start": 723,
+    "word_end": 729,
+    "start": 244.88,
+    "end": 246.88
+  },
+  {
+    "text": "while avoiding every situation where you might fail.",
+    "word_start": 729,
+    "word_end": 737,
+    "start": 246.88,
+    "end": 249.76001
+  },
+  {
+    "text": "You can want confidence...",
+    "word_start": 737,
+    "word_end": 741,
+    "start": 250.0,
+    "end": 251.2
+  },
+  {
+    "text": "while constantly choosing situations that make you feel safe.",
+    "word_start": 741,
+    "word_end": 750,
+    "start": 251.2,
+    "end": 254.48001
+  },
+  {
+    "text": "You can want discipline...",
+    "word_start": 750,
+    "word_end": 754,
+    "start": 254.64,
+    "end": 255.84
+  },
+  {
+    "text": "while building a life where every temptation is within arm's reach.",
+    "word_start": 754,
+    "word_end": 765,
+    "start": 255.84,
+    "end": 259.12
+  },
+  {
+    "text": "And this is where people often blame themselves.",
+    "word_start": 765,
+    "word_end": 773,
+    "start": 259.41498,
+    "end": 261.41498
+  },
+  {
+    "text": "They say,",
+    "word_start": 773,
+    "word_end": 775,
+    "start": 261.41498,
+    "end": 262.055
+  },
+  {
+    "text": "\u201cI'm lazy.\u201d",
+    "word_start": 775,
+    "word_end": 777,
+    "start": 262.055,
+    "end": 263.01498
+  },
+  {
+    "text": "\u201cI'm weak.\u201d",
+    "word_start": 777,
+    "word_end": 779,
+    "start": 263.175,
+    "end": 264.055
+  },
+  {
+    "text": "\u201cI have no discipline.\u201d",
+    "word_start": 779,
+    "word_end": 783,
+    "start": 264.13498,
+    "end": 265.495
+  },
+  {
+    "text": "\u201cI just don't want it badly enough.\u201d",
+    "word_start": 783,
+    "word_end": 790,
+    "start": 265.655,
+    "end": 267.495
+  },
+  {
+    "text": "But sometimes...",
+    "word_start": 790,
+    "word_end": 792,
+    "start": 267.655,
+    "end": 268.535
+  },
+  {
+    "text": "the problem isn't that you don't want the goal.",
+    "word_start": 792,
+    "word_end": 801,
+    "start": 268.535,
+    "end": 270.615
+  },
+  {
+    "text": "The problem is that your current environment makes comfort...",
+    "word_start": 801,
+    "word_end": 810,
+    "start": 270.69498,
+    "end": 273.335
+  },
+  {
+    "text": "far too easy.",
+    "word_start": 810,
+    "word_end": 813,
+    "start": 273.58002,
+    "end": 274.7
+  },
+  {
+    "text": "Think about your phone.",
+    "word_start": 813,
+    "word_end": 817,
+    "start": 274.78,
+    "end": 275.90002
+  },
+  {
+    "text": "It's right there.",
+    "word_start": 817,
+    "word_end": 820,
+    "start": 275.90002,
+    "end": 276.86002
+  },
+  {
+    "text": "One tap.",
+    "word_start": 820,
+    "word_end": 822,
+    "start": 276.86002,
+    "end": 277.74002
+  },
+  {
+    "text": "Infinite entertainment.",
+    "word_start": 822,
+    "word_end": 824,
+    "start": 277.82,
+    "end": 279.1
+  },
+  {
+    "text": "No effort.",
+    "word_start": 824,
+    "word_end": 826,
+    "start": 279.26,
+    "end": 279.98
+  },
+  {
+    "text": "No waiting.",
+    "word_start": 826,
+    "word_end": 828,
+    "start": 279.98,
+    "end": 280.78003
+  },
+  {
+    "text": "No possibility of failure.",
+    "word_start": 828,
+    "word_end": 832,
+    "start": 280.94,
+    "end": 282.54
+  },
+  {
+    "text": "Now compare that to learning something difficult.",
+    "word_start": 832,
+    "word_end": 839,
+    "start": 282.7,
+    "end": 285.18002
+  },
+  {
+    "text": "You have to sit down.",
+    "word_start": 839,
+    "word_end": 844,
+    "start": 285.26,
+    "end": 286.54
+  },
+  {
+    "text": "You have to concentrate.",
+    "word_start": 844,
+    "word_end": 848,
+    "start": 286.7,
+    "end": 287.58002
+  },
+  {
+    "text": "You're going to be confused.",
+    "word_start": 848,
+    "word_end": 853,
+    "start": 287.895,
+    "end": 289.495
+  },
+  {
+    "text": "You're going to be bad at it in the beginning.",
+    "word_start": 853,
+    "word_end": 863,
+    "start": 289.57498,
+    "end": 291.57498
+  },
+  {
+    "text": "Progress will be slow.",
+    "word_start": 863,
+    "word_end": 867,
+    "start": 291.735,
+    "end": 293.095
+  },
+  {
+    "text": "Nobody is going to congratulate you after thirty minutes.",
+    "word_start": 867,
+    "word_end": 876,
+    "start": 293.25497,
+    "end": 296.055
+  },
+  {
+    "text": "The reward is almost invisible.",
+    "word_start": 876,
+    "word_end": 881,
+    "start": 296.13498,
+    "end": 298.055
+  },
+  {
+    "text": "Of course your brain is going to notice the difference.",
+    "word_start": 881,
+    "word_end": 891,
+    "start": 298.215,
+    "end": 300.215
+  },
+  {
+    "text": "One option gives you pleasure immediately.",
+    "word_start": 891,
+    "word_end": 897,
+    "start": 300.62,
+    "end": 302.7
+  },
+  {
+    "text": "The other asks you to struggle...",
+    "word_start": 897,
+    "word_end": 903,
+    "start": 302.86002,
+    "end": 304.30002
+  },
+  {
+    "text": "before it gives you anything back.",
+    "word_start": 903,
+    "word_end": 909,
+    "start": 304.30002,
+    "end": 305.90002
+  },
+  {
+    "text": "And this is why discipline isn't simply about becoming stronger.",
+    "word_start": 909,
+    "word_end": 919,
+    "start": 305.98,
+    "end": 309.02002
+  },
+  {
+    "text": "Sometimes...",
+    "word_start": 919,
+    "word_end": 920,
+    "start": 309.18,
+    "end": 309.82
+  },
+  {
+    "text": "it's about making the right choice easier.",
+    "word_start": 920,
+    "word_end": 927,
+    "start": 309.82,
+    "end": 311.58002
+  },
+  {
+    "text": "Put your phone somewhere else.",
+    "word_start": 927,
+    "word_end": 932,
+    "start": 311.58002,
+    "end": 312.94
+  },
+  {
+    "text": "Remove the apps that constantly pull you back.",
+    "word_start": 932,
+    "word_end": 940,
+    "start": 312.94,
+    "end": 315.1
+  },
+  {
+    "text": "Keep your workout clothes ready.",
+    "word_start": 940,
+    "word_end": 945,
+    "start": 315.1,
+    "end": 316.22
+  },
+  {
+    "text": "Keep the book on your desk.",
+    "word_start": 945,
+    "word_end": 951,
+    "start": 316.455,
+    "end": 317.895
+  },
+  {
+    "text": "Open the project before you go to sleep.",
+    "word_start": 951,
+    "word_end": 959,
+    "start": 317.97498,
+    "end": 319.815
+  },
+  {
+    "text": "Make the first step ridiculously obvious.",
+    "word_start": 959,
+    "word_end": 965,
+    "start": 319.895,
+    "end": 321.975
+  },
+  {
+    "text": "Because if every good decision requires a battle...",
+    "word_start": 965,
+    "word_end": 973,
+    "start": 322.055,
+    "end": 324.29498
+  },
+  {
+    "text": "you're going to get tired of fighting yourself.",
+    "word_start": 973,
+    "word_end": 981,
+    "start": 324.375,
+    "end": 326.215
+  },
+  {
+    "text": "But there's something even deeper happening here.",
+    "word_start": 981,
+    "word_end": 988,
+    "start": 326.215,
+    "end": 328.215
+  },
+  {
+    "text": "Sometimes...",
+    "word_start": 988,
+    "word_end": 989,
+    "start": 328.29498,
+    "end": 329.01498
+  },
+  {
+    "text": "we don't choose comfort because we're lazy.",
+    "word_start": 989,
+    "word_end": 996,
+    "start": 329.01498,
+    "end": 330.615
+  },
+  {
+    "text": "We choose comfort because we're afraid.",
+    "word_start": 996,
+    "word_end": 1002,
+    "start": 330.84,
+    "end": 332.76
+  },
+  {
+    "text": "Because what happens if you actually try?",
+    "word_start": 1002,
+    "word_end": 1009,
+    "start": 332.84,
+    "end": 334.76
+  },
+  {
+    "text": "What happens if you start the business...",
+    "word_start": 1009,
+    "word_end": 1016,
+    "start": 334.84,
+    "end": 336.52
+  },
+  {
+    "text": "and nobody cares?",
+    "word_start": 1016,
+    "word_end": 1019,
+    "start": 336.52,
+    "end": 337.56
+  },
+  {
+    "text": "What happens if you make the videos...",
+    "word_start": 1019,
+    "word_end": 1026,
+    "start": 337.63998,
+    "end": 339.24
+  },
+  {
+    "text": "and nobody watches?",
+    "word_start": 1026,
+    "word_end": 1029,
+    "start": 339.24,
+    "end": 340.44
+  },
+  {
+    "text": "What happens if you work out for months...",
+    "word_start": 1029,
+    "word_end": 1037,
+    "start": 340.52,
+    "end": 342.28
+  },
+  {
+    "text": "and you still don't look the way you imagined?",
+    "word_start": 1037,
+    "word_end": 1046,
+    "start": 342.28,
+    "end": 343.96
+  },
+  {
+    "text": "What happens if you study...",
+    "word_start": 1046,
+    "word_end": 1051,
+    "start": 344.345,
+    "end": 345.625
+  },
+  {
+    "text": "and you still fail?",
+    "word_start": 1051,
+    "word_end": 1055,
+    "start": 345.625,
+    "end": 346.58502
+  },
+  {
+    "text": "What happens if you finally go after the life you've been talking about...",
+    "word_start": 1055,
+    "word_end": 1068,
+    "start": 346.665,
+    "end": 349.625
+  },
+  {
+    "text": "and discover that you're not as good as you thought?",
+    "word_start": 1068,
+    "word_end": 1078,
+    "start": 349.625,
+    "end": 351.70502
+  },
+  {
+    "text": "That's uncomfortable.",
+    "word_start": 1078,
+    "word_end": 1080,
+    "start": 351.70502,
+    "end": 352.74503
+  },
+  {
+    "text": "So sometimes...",
+    "word_start": 1080,
+    "word_end": 1082,
+    "start": 352.825,
+    "end": 353.625
+  },
+  {
+    "text": "\u201cI'm not ready yet\u201d",
+    "word_start": 1082,
+    "word_end": 1086,
+    "start": 353.625,
+    "end": 354.505
+  },
+  {
+    "text": "isn't really about preparation.",
+    "word_start": 1086,
+    "word_end": 1090,
+    "start": 354.505,
+    "end": 356.18503
+  },
+  {
+    "text": "It's protection.",
+    "word_start": 1090,
+    "word_end": 1092,
+    "start": 356.265,
+    "end": 356.825
+  },
+  {
+    "text": "As long as you haven't started...",
+    "word_start": 1092,
+    "word_end": 1098,
+    "start": 357.19998,
+    "end": 358.56
+  },
+  {
+    "text": "you haven't failed.",
+    "word_start": 1098,
+    "word_end": 1101,
+    "start": 358.56,
+    "end": 359.52
+  },
+  {
+    "text": "As long as you haven't tried...",
+    "word_start": 1101,
+    "word_end": 1107,
+    "start": 359.52,
+    "end": 360.8
+  },
+  {
+    "text": "you can still imagine that you could have been great.",
+    "word_start": 1107,
+    "word_end": 1117,
+    "start": 360.8,
+    "end": 362.72
+  },
+  {
+    "text": "Comfort protects you from disappointment.",
+    "word_start": 1117,
+    "word_end": 1122,
+    "start": 362.72,
+    "end": 364.63998
+  },
+  {
+    "text": "But it also protects you from discovering what you're actually capable of.",
+    "word_start": 1122,
+    "word_end": 1134,
+    "start": 364.63998,
+    "end": 367.68
+  },
+  {
+    "text": "And this creates a strange cycle.",
+    "word_start": 1134,
+    "word_end": 1140,
+    "start": 367.68,
+    "end": 369.28
+  },
+  {
+    "text": "You avoid the uncomfortable thing.",
+    "word_start": 1140,
+    "word_end": 1145,
+    "start": 369.28,
+    "end": 371.04
+  },
+  {
+    "text": "You feel temporary relief.",
+    "word_start": 1145,
+    "word_end": 1149,
+    "start": 371.12,
+    "end": 372.32
+  },
+  {
+    "text": "That relief teaches your brain,",
+    "word_start": 1149,
+    "word_end": 1154,
+    "start": 372.63498,
+    "end": 374.07498
+  },
+  {
+    "text": "\u201cGood decision.\u201d",
+    "word_start": 1154,
+    "word_end": 1156,
+    "start": 374.07498,
+    "end": 375.115
+  },
+  {
+    "text": "So you avoid it again.",
+    "word_start": 1156,
+    "word_end": 1161,
+    "start": 375.35498,
+    "end": 376.715
+  },
+  {
+    "text": "You feel guilty.",
+    "word_start": 1161,
+    "word_end": 1164,
+    "start": 376.79498,
+    "end": 377.835
+  },
+  {
+    "text": "You promise yourself you'll change.",
+    "word_start": 1164,
+    "word_end": 1169,
+    "start": 377.835,
+    "end": 379.595
+  },
+  {
+    "text": "You imagine your future self.",
+    "word_start": 1169,
+    "word_end": 1174,
+    "start": 379.675,
+    "end": 381.355
+  },
+  {
+    "text": "You feel motivated.",
+    "word_start": 1174,
+    "word_end": 1177,
+    "start": 381.51498,
+    "end": 382.635
+  },
+  {
+    "text": "Then the uncomfortable moment arrives again...",
+    "word_start": 1177,
+    "word_end": 1183,
+    "start": 382.715,
+    "end": 384.955
+  },
+  {
+    "text": "and you return to comfort.",
+    "word_start": 1183,
+    "word_end": 1188,
+    "start": 384.955,
+    "end": 386.315
+  },
+  {
+    "text": "Again.",
+    "word_start": 1188,
+    "word_end": 1189,
+    "start": 386.555,
+    "end": 386.79498
+  },
+  {
+    "text": "And again.",
+    "word_start": 1189,
+    "word_end": 1191,
+    "start": 386.79498,
+    "end": 387.435
+  },
+  {
+    "text": "Until you start believing that you're incapable of changing.",
+    "word_start": 1191,
+    "word_end": 1200,
+    "start": 387.8,
+    "end": 390.76
+  },
+  {
+    "text": "But you're not incapable.",
+    "word_start": 1200,
+    "word_end": 1204,
+    "start": 390.84,
+    "end": 392.2
+  },
+  {
+    "text": "You've simply practiced one behavior...",
+    "word_start": 1204,
+    "word_end": 1209,
+    "start": 392.2,
+    "end": 394.04
+  },
+  {
+    "text": "more than the other.",
+    "word_start": 1209,
+    "word_end": 1213,
+    "start": 394.04,
+    "end": 395.16
+  },
+  {
+    "text": "And that means you can practice something different.",
+    "word_start": 1213,
+    "word_end": 1221,
+    "start": 395.24,
+    "end": 397.24002
+  },
+  {
+    "text": "You don't need to suddenly become a completely disciplined person.",
+    "word_start": 1221,
+    "word_end": 1231,
+    "start": 397.4,
+    "end": 400.12
+  },
+  {
+    "text": "You don't need to wake up at five in the morning.",
+    "word_start": 1231,
+    "word_end": 1242,
+    "start": 400.515,
+    "end": 402.83502
+  },
+  {
+    "text": "You don't need a perfect routine.",
+    "word_start": 1242,
+    "word_end": 1248,
+    "start": 402.83502,
+    "end": 404.43503
+  },
+  {
+    "text": "You don't need to transform your entire life this week.",
+    "word_start": 1248,
+    "word_end": 1258,
+    "start": 404.67502,
+    "end": 407.23502
+  },
+  {
+    "text": "Start much smaller.",
+    "word_start": 1258,
+    "word_end": 1261,
+    "start": 407.315,
+    "end": 408.59503
+  },
+  {
+    "text": "When you want to scroll...",
+    "word_start": 1261,
+    "word_end": 1266,
+    "start": 408.67502,
+    "end": 409.95502
+  },
+  {
+    "text": "and you know you should work...",
+    "word_start": 1266,
+    "word_end": 1272,
+    "start": 409.95502,
+    "end": 410.99503
+  },
+  {
+    "text": "work for ten minutes first.",
+    "word_start": 1272,
+    "word_end": 1277,
+    "start": 410.99503,
+    "end": 412.195
+  },
+  {
+    "text": "When you don't feel like exercising...",
+    "word_start": 1277,
+    "word_end": 1283,
+    "start": 412.195,
+    "end": 414.035
+  },
+  {
+    "text": "put your shoes on first.",
+    "word_start": 1283,
+    "word_end": 1288,
+    "start": 414.035,
+    "end": 415.075
+  },
+  {
+    "text": "When you keep delaying a project...",
+    "word_start": 1288,
+    "word_end": 1294,
+    "start": 415.37,
+    "end": 417.05002
+  },
+  {
+    "text": "open the file and do the smallest possible piece.",
+    "word_start": 1294,
+    "word_end": 1303,
+    "start": 417.05002,
+    "end": 419.69
+  },
+  {
+    "text": "When you want to learn something...",
+    "word_start": 1303,
+    "word_end": 1309,
+    "start": 419.85,
+    "end": 421.37003
+  },
+  {
+    "text": "stop collecting information and actually practice.",
+    "word_start": 1309,
+    "word_end": 1315,
+    "start": 421.53,
+    "end": 424.01
+  },
+  {
+    "text": "The goal isn't to make discomfort disappear.",
+    "word_start": 1315,
+    "word_end": 1322,
+    "start": 424.25,
+    "end": 426.65002
+  },
+  {
+    "text": "The goal is to teach yourself...",
+    "word_start": 1322,
+    "word_end": 1328,
+    "start": 426.81,
+    "end": 428.17
+  },
+  {
+    "text": "\u201cI can do uncomfortable things without running away.\u201d",
+    "word_start": 1328,
+    "word_end": 1336,
+    "start": 428.17,
+    "end": 430.57
+  },
+  {
+    "text": "Because every time you do that...",
+    "word_start": 1336,
+    "word_end": 1342,
+    "start": 431.085,
+    "end": 432.925
+  },
+  {
+    "text": "you collect evidence.",
+    "word_start": 1342,
+    "word_end": 1345,
+    "start": 432.925,
+    "end": 434.045
+  },
+  {
+    "text": "You prove something to yourself.",
+    "word_start": 1345,
+    "word_end": 1350,
+    "start": 434.045,
+    "end": 435.565
+  },
+  {
+    "text": "You said you'd work...",
+    "word_start": 1350,
+    "word_end": 1354,
+    "start": 435.565,
+    "end": 436.285
+  },
+  {
+    "text": "and you worked.",
+    "word_start": 1354,
+    "word_end": 1357,
+    "start": 436.285,
+    "end": 437.165
+  },
+  {
+    "text": "You said you'd exercise...",
+    "word_start": 1357,
+    "word_end": 1361,
+    "start": 437.165,
+    "end": 438.605
+  },
+  {
+    "text": "and you exercised.",
+    "word_start": 1361,
+    "word_end": 1364,
+    "start": 438.685,
+    "end": 439.565
+  },
+  {
+    "text": "You said you'd stop scrolling...",
+    "word_start": 1364,
+    "word_end": 1369,
+    "start": 439.565,
+    "end": 440.765
+  },
+  {
+    "text": "and you stopped.",
+    "word_start": 1369,
+    "word_end": 1372,
+    "start": 440.765,
+    "end": 441.805
+  },
+  {
+    "text": "These tiny moments might look meaningless.",
+    "word_start": 1372,
+    "word_end": 1378,
+    "start": 441.965,
+    "end": 445.245
+  },
+  {
+    "text": "But they're not.",
+    "word_start": 1378,
+    "word_end": 1381,
+    "start": 445.65,
+    "end": 446.69
+  },
+  {
+    "text": "They're changing your relationship with yourself.",
+    "word_start": 1381,
+    "word_end": 1387,
+    "start": 446.69,
+    "end": 449.01
+  },
+  {
+    "text": "Eventually...",
+    "word_start": 1387,
+    "word_end": 1388,
+    "start": 449.25,
+    "end": 450.13
+  },
+  {
+    "text": "discipline stops feeling like punishment.",
+    "word_start": 1388,
+    "word_end": 1393,
+    "start": 450.44998,
+    "end": 452.44998
+  },
+  {
+    "text": "Because you're no longer constantly negotiating with yourself.",
+    "word_start": 1393,
+    "word_end": 1401,
+    "start": 452.44998,
+    "end": 455.49
+  },
+  {
+    "text": "You don't ask,",
+    "word_start": 1401,
+    "word_end": 1404,
+    "start": 455.65,
+    "end": 456.61
+  },
+  {
+    "text": "\u201cDo I feel like doing this?\u201d",
+    "word_start": 1404,
+    "word_end": 1410,
+    "start": 456.69,
+    "end": 457.72998
+  },
+  {
+    "text": "You ask,",
+    "word_start": 1410,
+    "word_end": 1412,
+    "start": 458.10498,
+    "end": 459.065
+  },
+  {
+    "text": "\u201cThis is what I decided.",
+    "word_start": 1412,
+    "word_end": 1417,
+    "start": 459.065,
+    "end": 460.425
+  },
+  {
+    "text": "So what's the next step?\u201d",
+    "word_start": 1417,
+    "word_end": 1422,
+    "start": 460.505,
+    "end": 461.945
+  },
+  {
+    "text": "And that's when something important happens.",
+    "word_start": 1422,
+    "word_end": 1428,
+    "start": 462.025,
+    "end": 463.625
+  },
+  {
+    "text": "You stop needing to feel motivated...",
+    "word_start": 1428,
+    "word_end": 1434,
+    "start": 463.625,
+    "end": 465.865
+  },
+  {
+    "text": "to act like the person you want to become.",
+    "word_start": 1434,
+    "word_end": 1443,
+    "start": 465.865,
+    "end": 468.025
+  },
+  {
+    "text": "Because the truth is...",
+    "word_start": 1443,
+    "word_end": 1447,
+    "start": 468.26498,
+    "end": 469.465
+  },
+  {
+    "text": "your future isn't created by the goals you think about.",
+    "word_start": 1447,
+    "word_end": 1457,
+    "start": 469.705,
+    "end": 471.785
+  },
+  {
+    "text": "It's created by the choices you repeat.",
+    "word_start": 1457,
+    "word_end": 1464,
+    "start": 472.05,
+    "end": 474.29
+  },
+  {
+    "text": "You can want freedom...",
+    "word_start": 1464,
+    "word_end": 1468,
+    "start": 474.44998,
+    "end": 475.72998
+  },
+  {
+    "text": "but if you constantly choose short-term comfort,",
+    "word_start": 1468,
+    "word_end": 1476,
+    "start": 475.72998,
+    "end": 478.29
+  },
+  {
+    "text": "you are practicing dependence.",
+    "word_start": 1476,
+    "word_end": 1480,
+    "start": 478.37,
+    "end": 479.97
+  },
+  {
+    "text": "You can want confidence...",
+    "word_start": 1480,
+    "word_end": 1484,
+    "start": 480.05,
+    "end": 481.33
+  },
+  {
+    "text": "but if you constantly avoid situations where you might fail,",
+    "word_start": 1484,
+    "word_end": 1494,
+    "start": 481.56998,
+    "end": 484.44998
+  },
+  {
+    "text": "you are practicing avoidance.",
+    "word_start": 1494,
+    "word_end": 1498,
+    "start": 484.69,
+    "end": 485.97
+  },
+  {
+    "text": "You can want success...",
+    "word_start": 1498,
+    "word_end": 1502,
+    "start": 486.425,
+    "end": 487.625
+  },
+  {
+    "text": "but if you always choose the easiest option,",
+    "word_start": 1502,
+    "word_end": 1510,
+    "start": 487.625,
+    "end": 489.785
+  },
+  {
+    "text": "you're training yourself to escape difficulty.",
+    "word_start": 1510,
+    "word_end": 1516,
+    "start": 489.865,
+    "end": 492.185
+  },
+  {
+    "text": "And none of this means you should make your life miserable.",
+    "word_start": 1516,
+    "word_end": 1527,
+    "start": 492.345,
+    "end": 494.905
+  },
+  {
+    "text": "Comfort isn't the enemy.",
+    "word_start": 1527,
+    "word_end": 1531,
+    "start": 495.065,
+    "end": 496.505
+  },
+  {
+    "text": "Rest is important.",
+    "word_start": 1531,
+    "word_end": 1534,
+    "start": 496.585,
+    "end": 497.785
+  },
+  {
+    "text": "Entertainment is important.",
+    "word_start": 1534,
+    "word_end": 1537,
+    "start": 497.945,
+    "end": 499.385
+  },
+  {
+    "text": "Enjoying your life is important.",
+    "word_start": 1537,
+    "word_end": 1542,
+    "start": 499.545,
+    "end": 501.145
+  },
+  {
+    "text": "The problem begins when comfort becomes your default response...",
+    "word_start": 1542,
+    "word_end": 1551,
+    "start": 501.5,
+    "end": 505.02002
+  },
+  {
+    "text": "to anything difficult.",
+    "word_start": 1551,
+    "word_end": 1554,
+    "start": 505.1,
+    "end": 506.7
+  },
+  {
+    "text": "Because sometimes...",
+    "word_start": 1554,
+    "word_end": 1556,
+    "start": 506.94,
+    "end": 508.38004
+  },
+  {
+    "text": "the easiest choice today...",
+    "word_start": 1556,
+    "word_end": 1560,
+    "start": 508.46002,
+    "end": 509.90002
+  },
+  {
+    "text": "creates the hardest life tomorrow.",
+    "word_start": 1560,
+    "word_end": 1565,
+    "start": 509.90002,
+    "end": 511.98
+  },
+  {
+    "text": "And sometimes...",
+    "word_start": 1565,
+    "word_end": 1567,
+    "start": 512.14,
+    "end": 512.86
+  },
+  {
+    "text": "the harder choice today...",
+    "word_start": 1567,
+    "word_end": 1571,
+    "start": 512.86,
+    "end": 513.82
+  },
+  {
+    "text": "creates an easier life later.",
+    "word_start": 1571,
+    "word_end": 1576,
+    "start": 513.82,
+    "end": 515.18
+  },
+  {
+    "text": "Studying when you'd rather scroll.",
+    "word_start": 1576,
+    "word_end": 1581,
+    "start": 515.665,
+    "end": 517.425
+  },
+  {
+    "text": "Saving when you'd rather spend.",
+    "word_start": 1581,
+    "word_end": 1586,
+    "start": 517.585,
+    "end": 519.265
+  },
+  {
+    "text": "Practicing when you'd rather watch.",
+    "word_start": 1586,
+    "word_end": 1591,
+    "start": 519.425,
+    "end": 521.185
+  },
+  {
+    "text": "Going to the gym when you'd rather stay in bed.",
+    "word_start": 1591,
+    "word_end": 1601,
+    "start": 521.34503,
+    "end": 523.825
+  },
+  {
+    "text": "Having the difficult conversation instead of avoiding it.",
+    "word_start": 1601,
+    "word_end": 1609,
+    "start": 523.905,
+    "end": 526.625
+  },
+  {
+    "text": "Starting before you're ready.",
+    "word_start": 1609,
+    "word_end": 1613,
+    "start": 526.625,
+    "end": 527.665
+  },
+  {
+    "text": "Finishing what you said you'd finish.",
+    "word_start": 1613,
+    "word_end": 1619,
+    "start": 528.00995,
+    "end": 529.69
+  },
+  {
+    "text": "These choices don't always feel powerful while you're making them.",
+    "word_start": 1619,
+    "word_end": 1629,
+    "start": 529.85,
+    "end": 532.81
+  },
+  {
+    "text": "Most of the time...",
+    "word_start": 1629,
+    "word_end": 1633,
+    "start": 532.88995,
+    "end": 533.93
+  },
+  {
+    "text": "they feel boring.",
+    "word_start": 1633,
+    "word_end": 1636,
+    "start": 534.08997,
+    "end": 535.13
+  },
+  {
+    "text": "Ordinary.",
+    "word_start": 1636,
+    "word_end": 1637,
+    "start": 535.29,
+    "end": 536.08997
+  },
+  {
+    "text": "Almost invisible.",
+    "word_start": 1637,
+    "word_end": 1639,
+    "start": 536.32996,
+    "end": 537.45
+  },
+  {
+    "text": "But that's how a different life is usually built.",
+    "word_start": 1639,
+    "word_end": 1648,
+    "start": 537.52997,
+    "end": 539.52997
+  },
+  {
+    "text": "Not through one massive decision.",
+    "word_start": 1648,
+    "word_end": 1653,
+    "start": 539.61,
+    "end": 541.05
+  },
+  {
+    "text": "Through hundreds of small moments...",
+    "word_start": 1653,
+    "word_end": 1658,
+    "start": 541.58496,
+    "end": 543.185
+  },
+  {
+    "text": "where you choose what matters...",
+    "word_start": 1658,
+    "word_end": 1663,
+    "start": 543.185,
+    "end": 544.705
+  },
+  {
+    "text": "over what feels easiest.",
+    "word_start": 1663,
+    "word_end": 1667,
+    "start": 544.705,
+    "end": 546.305
+  },
+  {
+    "text": "So the next time you catch yourself saying,",
+    "word_start": 1667,
+    "word_end": 1675,
+    "start": 546.46497,
+    "end": 548.46497
+  },
+  {
+    "text": "\u201cI really want to change my life...",
+    "word_start": 1675,
+    "word_end": 1682,
+    "start": 548.705,
+    "end": 550.385
+  },
+  {
+    "text": "but I just can't seem to do it,\u201d",
+    "word_start": 1682,
+    "word_end": 1690,
+    "start": 550.46497,
+    "end": 552.065
+  },
+  {
+    "text": "don't immediately ask yourself,",
+    "word_start": 1690,
+    "word_end": 1694,
+    "start": 552.065,
+    "end": 553.505
+  },
+  {
+    "text": "\u201cHow can I become more motivated?\u201d",
+    "word_start": 1694,
+    "word_end": 1700,
+    "start": 553.505,
+    "end": 554.785
+  },
+  {
+    "text": "Ask something else.",
+    "word_start": 1700,
+    "word_end": 1703,
+    "start": 555.27997,
+    "end": 556.4
+  },
+  {
+    "text": "\u201cWhat am I choosing right now?\u201d",
+    "word_start": 1703,
+    "word_end": 1709,
+    "start": 556.56,
+    "end": 557.92
+  },
+  {
+    "text": "Am I choosing the thing I actually want?",
+    "word_start": 1709,
+    "word_end": 1717,
+    "start": 558.0,
+    "end": 559.92
+  },
+  {
+    "text": "Or am I choosing the thing that makes this moment easier?",
+    "word_start": 1717,
+    "word_end": 1728,
+    "start": 560.0,
+    "end": 562.56
+  },
+  {
+    "text": "Because you don't have to destroy your comfort.",
+    "word_start": 1728,
+    "word_end": 1736,
+    "start": 562.64,
+    "end": 564.56
+  },
+  {
+    "text": "You don't have to become obsessed with productivity.",
+    "word_start": 1736,
+    "word_end": 1744,
+    "start": 564.64,
+    "end": 566.72003
+  },
+  {
+    "text": "You don't have to turn your life into a constant struggle.",
+    "word_start": 1744,
+    "word_end": 1755,
+    "start": 566.88,
+    "end": 568.96
+  },
+  {
+    "text": "You just need to stop letting temporary comfort...",
+    "word_start": 1755,
+    "word_end": 1763,
+    "start": 569.28503,
+    "end": 571.28503
+  },
+  {
+    "text": "make permanent decisions for you.",
+    "word_start": 1763,
+    "word_end": 1768,
+    "start": 571.28503,
+    "end": 573.04504
+  },
+  {
+    "text": "You want success.",
+    "word_start": 1768,
+    "word_end": 1771,
+    "start": 573.125,
+    "end": 574.16504
+  },
+  {
+    "text": "That's okay.",
+    "word_start": 1771,
+    "word_end": 1773,
+    "start": 574.405,
+    "end": 575.205
+  },
+  {
+    "text": "You want a better life.",
+    "word_start": 1773,
+    "word_end": 1778,
+    "start": 575.365,
+    "end": 576.565
+  },
+  {
+    "text": "That's okay.",
+    "word_start": 1778,
+    "word_end": 1780,
+    "start": 576.565,
+    "end": 577.36505
+  },
+  {
+    "text": "But eventually...",
+    "word_start": 1780,
+    "word_end": 1782,
+    "start": 577.525,
+    "end": 578.245
+  },
+  {
+    "text": "you have to become willing to experience the uncomfortable parts...",
+    "word_start": 1782,
+    "word_end": 1792,
+    "start": 578.245,
+    "end": 580.805
+  },
+  {
+    "text": "of getting there.",
+    "word_start": 1792,
+    "word_end": 1795,
+    "start": 580.805,
+    "end": 581.445
+  },
+  {
+    "text": "Because the life you want...",
+    "word_start": 1795,
+    "word_end": 1800,
+    "start": 581.94,
+    "end": 583.14
+  },
+  {
+    "text": "is usually hidden behind things you don't feel like doing.",
+    "word_start": 1800,
+    "word_end": 1810,
+    "start": 583.14,
+    "end": 586.02
+  },
+  {
+    "text": "The workout you don't want to start.",
+    "word_start": 1810,
+    "word_end": 1817,
+    "start": 586.02,
+    "end": 587.7
+  },
+  {
+    "text": "The skill you're not good at yet.",
+    "word_start": 1817,
+    "word_end": 1824,
+    "start": 587.78,
+    "end": 589.22003
+  },
+  {
+    "text": "The project you're afraid might fail.",
+    "word_start": 1824,
+    "word_end": 1830,
+    "start": 589.22003,
+    "end": 590.9
+  },
+  {
+    "text": "The conversation you've been avoiding.",
+    "word_start": 1830,
+    "word_end": 1835,
+    "start": 590.9,
+    "end": 592.58
+  },
+  {
+    "text": "The first attempt that won't be perfect.",
+    "word_start": 1835,
+    "word_end": 1842,
+    "start": 592.74,
+    "end": 594.34
+  },
+  {
+    "text": "The boring repetition nobody sees.",
+    "word_start": 1842,
+    "word_end": 1847,
+    "start": 594.34,
+    "end": 596.02
+  },
+  {
+    "text": "And maybe...",
+    "word_start": 1847,
+    "word_end": 1849,
+    "start": 596.195,
+    "end": 596.83496
+  },
+  {
+    "text": "you don't need more motivation.",
+    "word_start": 1849,
+    "word_end": 1854,
+    "start": 596.83496,
+    "end": 598.355
+  },
+  {
+    "text": "Maybe you don't need another plan.",
+    "word_start": 1854,
+    "word_end": 1860,
+    "start": 598.515,
+    "end": 600.195
+  },
+  {
+    "text": "Maybe you don't need to become a completely different person overnight.",
+    "word_start": 1860,
+    "word_end": 1871,
+    "start": 600.27496,
+    "end": 603.235
+  },
+  {
+    "text": "Maybe...",
+    "word_start": 1871,
+    "word_end": 1872,
+    "start": 603.395,
+    "end": 603.71497
+  },
+  {
+    "text": "you just need to make one different choice...",
+    "word_start": 1872,
+    "word_end": 1880,
+    "start": 603.71497,
+    "end": 605.795
+  },
+  {
+    "text": "the next time comfort asks you to stay the same.",
+    "word_start": 1880,
+    "word_end": 1890,
+    "start": 605.955,
+    "end": 608.115
+  },
+  {
+    "text": "Because every time you choose what matters...",
+    "word_start": 1890,
+    "word_end": 1897,
+    "start": 608.58997,
+    "end": 610.35
+  },
+  {
+    "text": "over what feels easy...",
+    "word_start": 1897,
+    "word_end": 1901,
+    "start": 610.35,
+    "end": 611.87
+  },
+  {
+    "text": "you're becoming someone different.",
+    "word_start": 1901,
+    "word_end": 1905,
+    "start": 611.87,
+    "end": 613.39
+  },
+  {
+    "text": "Slowly.",
+    "word_start": 1905,
+    "word_end": 1906,
+    "start": 613.55,
+    "end": 614.27
+  },
+  {
+    "text": "Quietly.",
+    "word_start": 1906,
+    "word_end": 1907,
+    "start": 614.27,
+    "end": 614.99
+  },
+  {
+    "text": "One decision at a time.",
+    "word_start": 1907,
+    "word_end": 1912,
+    "start": 615.14996,
+    "end": 616.51
+  },
+  {
+    "text": "So don't ask yourself,",
+    "word_start": 1912,
+    "word_end": 1916,
+    "start": 616.67,
+    "end": 617.87
+  },
+  {
+    "text": "\u201cHow do I become successful?\u201d",
+    "word_start": 1916,
+    "word_end": 1921,
+    "start": 617.87,
+    "end": 619.39
+  },
+  {
+    "text": "Ask yourself...",
+    "word_start": 1921,
+    "word_end": 1923,
+    "start": 619.55,
+    "end": 620.43
+  },
+  {
+    "text": "\u201cWhat would the person I want to become...",
+    "word_start": 1923,
+    "word_end": 1931,
+    "start": 620.43,
+    "end": 622.35
+  },
+  {
+    "text": "do next?\u201d",
+    "word_start": 1931,
+    "word_end": 1933,
+    "start": 622.35,
+    "end": 623.23
+  },
+  {
+    "text": "Then do that.",
+    "word_start": 1933,
+    "word_end": 1936,
+    "start": 623.39,
+    "end": 624.02997
+  },
+  {
+    "text": "Even if it's small.",
+    "word_start": 1936,
+    "word_end": 1940,
+    "start": 624.335,
+    "end": 625.53503
+  },
+  {
+    "text": "Even if it's uncomfortable.",
+    "word_start": 1940,
+    "word_end": 1944,
+    "start": 625.615,
+    "end": 626.97504
+  },
+  {
+    "text": "Even if nobody notices.",
+    "word_start": 1944,
+    "word_end": 1948,
+    "start": 627.055,
+    "end": 628.495
+  },
+  {
+    "text": "Because your future isn't waiting somewhere far away.",
+    "word_start": 1948,
+    "word_end": 1956,
+    "start": 628.655,
+    "end": 631.215
+  },
+  {
+    "text": "You're building it...",
+    "word_start": 1956,
+    "word_end": 1959,
+    "start": 631.295,
+    "end": 631.935
+  },
+  {
+    "text": "with what you choose today.",
+    "word_start": 1959,
+    "word_end": 1964,
+    "start": 631.935,
+    "end": 633.615
+  },
+  {
+    "text": "Think deeper.",
+    "word_start": 1964,
+    "word_end": 1966,
+    "start": 633.695,
+    "end": 634.655
+  },
+  {
+    "text": "Live better.",
+    "word_start": 1966,
+    "word_end": 1968,
+    "start": 634.655,
+    "end": 635.53503
+  },
+  {
+    "text": "Become more.",
+    "word_start": 1968,
+    "word_end": 1970,
+    "start": 635.615,
+    "end": 636.575
+  },
+  {
+    "text": "This is Why We Become.",
+    "word_start": 1970,
+    "word_end": 1975,
+    "start": 636.575,
+    "end": 637.615
+  }
+]

@@ -1,0 +1,3554 @@
+[
+  {
+    "id": 0,
+    "start": 0.0,
+    "end": 1.76,
+    "art": "01-1",
+    "kind": "thought",
+    "title": "A better life",
+    "labels": [
+      "You say you want a better life."
+    ],
+    "cues": [
+      0.0
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "You say you want a better life.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 1,
+    "start": 1.76,
+    "end": 2.56,
+    "art": "01-2",
+    "kind": "thought",
+    "title": "More money",
+    "labels": [
+      "More money."
+    ],
+    "cues": [
+      1.76
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "More money.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 2,
+    "start": 2.56,
+    "end": 3.6,
+    "art": "01-3",
+    "kind": "thought",
+    "title": "More freedom",
+    "labels": [
+      "More freedom."
+    ],
+    "cues": [
+      2.56
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "More freedom.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 3,
+    "start": 3.6,
+    "end": 4.96,
+    "art": "01-4",
+    "kind": "thought",
+    "title": "More confidence",
+    "labels": [
+      "More confidence."
+    ],
+    "cues": [
+      3.6
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "More confidence.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 4,
+    "start": 4.96,
+    "end": 6.16,
+    "art": "01-5",
+    "kind": "thought",
+    "title": "More discipline",
+    "labels": [
+      "More discipline."
+    ],
+    "cues": [
+      4.96
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "More discipline.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 5,
+    "start": 6.16,
+    "end": 8.32,
+    "art": "01-6",
+    "kind": "thought",
+    "title": "Something of your own",
+    "labels": [
+      "Maybe you want to build something of"
+    ],
+    "cues": [
+      6.16
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "Maybe you want to build something of your own.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 6,
+    "start": 8.32,
+    "end": 10.0,
+    "art": "01-7",
+    "kind": "thought",
+    "title": "Get in shape",
+    "labels": [
+      "Maybe you want to get in shape."
+    ],
+    "cues": [
+      8.32
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "Maybe you want to get in shape.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 7,
+    "start": 10.0,
+    "end": 18.074999,
+    "art": "01-8",
+    "kind": "thought",
+    "title": "The person you imagine",
+    "labels": [
+      "Maybe you want to learn a skill.",
+      "You think about it all the time.",
+      "You imagine what your life could look"
+    ],
+    "cues": [
+      10.0,
+      14.235,
+      16.074999
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "Maybe you want to learn a skill.\nMaybe you want to leave the life you're currently living.\nYou think about it all the time.\nYou imagine what your life could look like...",
+    "reuse_rationale": null
+  },
+  {
+    "id": 8,
+    "start": 18.074999,
+    "end": 21.994999,
+    "art": "01-8",
+    "kind": "thought",
+    "title": "if you finally became the person you keep",
+    "labels": [
+      "if you finally became the person you"
+    ],
+    "cues": [
+      18.074999
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "if you finally became the person you keep telling yourself you're going to become.",
+    "reuse_rationale": "Continues the same spoken idea with a new graphic beat"
+  },
+  {
+    "id": 9,
+    "start": 21.994999,
+    "end": 25.675,
+    "art": "01-9",
+    "kind": "thought",
+    "title": "The alarm changes everything",
+    "labels": [
+      "But then",
+      "your alarm goes off.",
+      "And you hit snooze."
+    ],
+    "cues": [
+      21.994999,
+      22.715,
+      24.075
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 1,
+    "feature": false,
+    "phrase": "But then...\nyour alarm goes off.\nAnd you hit snooze.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 10,
+    "start": 25.675,
+    "end": 27.035,
+    "art": "02-1",
+    "kind": "feed",
+    "title": "The work can wait?",
+    "labels": [
+      "You know you should work."
+    ],
+    "cues": [
+      25.675
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "You know you should work.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 11,
+    "start": 27.035,
+    "end": 28.34,
+    "art": "02-2",
+    "kind": "feed",
+    "title": "One easy detour",
+    "labels": [
+      "But you open your phone."
+    ],
+    "cues": [
+      27.035
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "But you open your phone.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 12,
+    "start": 28.34,
+    "end": 32.260002,
+    "art": "02-3",
+    "kind": "feed",
+    "title": "Tomorrow is tempting",
+    "labels": [
+      "You know you should exercise.",
+      "But you tell yourself you'll do it"
+    ],
+    "cues": [
+      28.34,
+      30.1
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "You know you should exercise.\nBut you tell yourself you'll do it tomorrow.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 13,
+    "start": 32.260002,
+    "end": 35.3,
+    "art": "02-4",
+    "kind": "feed",
+    "title": "The project stays unopened",
+    "labels": [
+      "You know you should start that project.",
+      "But suddenly"
+    ],
+    "cues": [
+      32.260002,
+      34.18
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "You know you should start that project.\nBut suddenly...",
+    "reuse_rationale": null
+  },
+  {
+    "id": 14,
+    "start": 35.3,
+    "end": 37.38,
+    "art": "02-5",
+    "kind": "feed",
+    "title": "A useful-looking escape",
+    "labels": [
+      "cleaning your room feels important."
+    ],
+    "cues": [
+      35.3
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "cleaning your room feels important.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 15,
+    "start": 37.38,
+    "end": 38.98,
+    "art": "02-6",
+    "kind": "feed",
+    "title": "Another video",
+    "labels": [
+      "You watch another video."
+    ],
+    "cues": [
+      37.38
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "You watch another video.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 16,
+    "start": 38.98,
+    "end": 43.425,
+    "art": "02-7",
+    "kind": "feed",
+    "title": "Another plan",
+    "labels": [
+      "You make another plan.",
+      "You tell yourself you just need a"
+    ],
+    "cues": [
+      38.98,
+      40.385002
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "You make another plan.\nYou tell yourself you just need a little more motivation.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 17,
+    "start": 43.425,
+    "end": 46.065,
+    "art": "02-8",
+    "kind": "feed",
+    "title": "The day disappears",
+    "labels": [
+      "And somehow",
+      "the day disappears."
+    ],
+    "cues": [
+      43.425,
+      44.545
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "And somehow...\nthe day disappears.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 18,
+    "start": 46.065,
+    "end": 57.39,
+    "art": "02-9",
+    "kind": "timeline",
+    "title": "Tomorrow again",
+    "labels": [
+      "Then night comes.",
+      "Tomorrow I'll start."
+    ],
+    "cues": [
+      46.065,
+      49.905
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "Then night comes.\nAnd you think...\n\u201cTomorrow.\u201d\nTomorrow I'll start.\nTomorrow I'll be disciplined.\nTomorrow I'll finally take this seriously.\nAnd for a few minutes...",
+    "reuse_rationale": null
+  },
+  {
+    "id": 19,
+    "start": 57.39,
+    "end": 70.284996,
+    "art": "02-9",
+    "kind": "timeline",
+    "title": "you actually believe it.",
+    "labels": [
+      "you actually believe it.",
+      "you start wondering something uncomfortable."
+    ],
+    "cues": [
+      57.39,
+      62.91
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 2,
+    "feature": false,
+    "phrase": "you actually believe it.\nUntil tomorrow becomes another tomorrow.\nAnd eventually...\nyou start wondering something uncomfortable.\n\u201cIf I really want this life...\nwhy do I keep choosing the things that move me away from it?\u201d",
+    "reuse_rationale": "Continues the same spoken idea with a new graphic beat"
+  },
+  {
+    "id": 20,
+    "start": 70.284996,
+    "end": 74.765,
+    "art": "03-1",
+    "kind": "stack",
+    "title": "Not a bad life",
+    "labels": [
+      "Because here's the strange part.",
+      "Most people don't actually choose a bad"
+    ],
+    "cues": [
+      70.284996,
+      72.045
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "Because here's the strange part.\nMost people don't actually choose a bad life.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 21,
+    "start": 74.765,
+    "end": 80.04,
+    "art": "03-2",
+    "kind": "stack",
+    "title": "A comfortable moment",
+    "labels": [
+      "They choose a comfortable moment",
+      "again and again.",
+      "And those comfortable moments"
+    ],
+    "cues": [
+      74.765,
+      76.604996,
+      78.200005
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "They choose a comfortable moment...\nagain and again.\nAnd those comfortable moments...",
+    "reuse_rationale": null
+  },
+  {
+    "id": 22,
+    "start": 80.04,
+    "end": 81.96,
+    "art": "03-3",
+    "kind": "stack",
+    "title": "Moments become a life",
+    "labels": [
+      "eventually become their life."
+    ],
+    "cues": [
+      80.04
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": true,
+    "phrase": "eventually become their life.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 23,
+    "start": 81.96,
+    "end": 86.200005,
+    "art": "03-4",
+    "kind": "stack",
+    "title": "The important thing",
+    "labels": [
+      "Think about the last time you had",
+      "Maybe you had an assignment."
+    ],
+    "cues": [
+      81.96,
+      84.76
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "Think about the last time you had something important to do.\nMaybe you had an assignment.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 24,
+    "start": 86.200005,
+    "end": 87.48,
+    "art": "03-5",
+    "kind": "stack",
+    "title": "Work still waiting",
+    "labels": [
+      "A work project."
+    ],
+    "cues": [
+      86.200005
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "A work project.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 25,
+    "start": 87.48,
+    "end": 88.44,
+    "art": "03-6",
+    "kind": "stack",
+    "title": "The workout",
+    "labels": [
+      "A workout."
+    ],
+    "cues": [
+      87.48
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "A workout.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 26,
+    "start": 88.44,
+    "end": 90.04,
+    "art": "03-7",
+    "kind": "stack",
+    "title": "The conversation",
+    "labels": [
+      "A difficult conversation."
+    ],
+    "cues": [
+      88.44
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "A difficult conversation.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 27,
+    "start": 90.04,
+    "end": 92.445,
+    "art": "03-8",
+    "kind": "stack",
+    "title": "The delayed beginning",
+    "labels": [
+      "Or something you've been saying you would"
+    ],
+    "cues": [
+      90.04
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "Or something you've been saying you would start for months.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 28,
+    "start": 92.445,
+    "end": 94.685,
+    "art": "03-9",
+    "kind": "stack",
+    "title": "You already know",
+    "labels": [
+      "You knew exactly what needed to happen."
+    ],
+    "cues": [
+      92.445
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 3,
+    "feature": false,
+    "phrase": "You knew exactly what needed to happen.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 29,
+    "start": 94.685,
+    "end": 98.525,
+    "art": "04-1",
+    "kind": "thought",
+    "title": "Research is not the problem",
+    "labels": [
+      "There wasn't some huge mystery.",
+      "You didn't need another five hours of"
+    ],
+    "cues": [
+      94.685,
+      96.284996
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "There wasn't some huge mystery.\nYou didn't need another five hours of research.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 30,
+    "start": 98.525,
+    "end": 100.525,
+    "art": "04-2",
+    "kind": "thought",
+    "title": "No new app required",
+    "labels": [
+      "You didn't need a new productivity app."
+    ],
+    "cues": [
+      98.525
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "You didn't need a new productivity app.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 31,
+    "start": 100.525,
+    "end": 103.085,
+    "art": "04-3",
+    "kind": "thought",
+    "title": "No more motivation videos",
+    "labels": [
+      "You didn't need another motivational video."
+    ],
+    "cues": [
+      100.525
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "You didn't need another motivational video.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 32,
+    "start": 103.085,
+    "end": 108.0,
+    "art": "04-4",
+    "kind": "search",
+    "title": "Beginning feels uncomfortable",
+    "labels": [
+      "You just needed to begin.",
+      "But beginning felt uncomfortable.",
+      "So you did something easier."
+    ],
+    "cues": [
+      103.085,
+      104.604996,
+      106.32
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "You just needed to begin.\nBut beginning felt uncomfortable.\nSo you did something easier.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 33,
+    "start": 108.0,
+    "end": 109.2,
+    "art": "04-5",
+    "kind": "search",
+    "title": "A familiar escape",
+    "labels": [
+      "You checked your phone."
+    ],
+    "cues": [
+      108.0
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "You checked your phone.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 34,
+    "start": 109.2,
+    "end": 110.4,
+    "art": "04-6",
+    "kind": "search",
+    "title": "Busywork feels useful",
+    "labels": [
+      "You made coffee."
+    ],
+    "cues": [
+      109.2
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "You made coffee.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 35,
+    "start": 110.4,
+    "end": 111.92,
+    "art": "04-7",
+    "kind": "search",
+    "title": "Everything except the task",
+    "labels": [
+      "You organized your files."
+    ],
+    "cues": [
+      110.4
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "You organized your files.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 36,
+    "start": 111.92,
+    "end": 119.534996,
+    "art": "04-8",
+    "kind": "search",
+    "title": "Busy is not progress",
+    "labels": [
+      "You answered messages.",
+      "you didn't feel like you were avoiding",
+      "You felt productive."
+    ],
+    "cues": [
+      111.92,
+      115.44,
+      118.335
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "You answered messages.\nYou watched something.\nAnd strangely...\nyou didn't feel like you were avoiding the task.\nYou felt busy.\nYou felt productive.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 37,
+    "start": 119.534996,
+    "end": 127.775,
+    "art": "04-9",
+    "kind": "search",
+    "title": "What feels better now?",
+    "labels": [
+      "But at the end of the day",
+      "Waiting.",
+      "Comfort doesn't always look like doing nothing."
+    ],
+    "cues": [
+      119.534996,
+      122.575,
+      125.375
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "But at the end of the day...\nthe important thing was still sitting there.\nWaiting.\nAnd this is where we misunderstand comfort.\nComfort doesn't always look like doing nothing.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 38,
+    "start": 127.775,
+    "end": 136.91,
+    "art": "04-9",
+    "kind": "search",
+    "title": "Sometimes",
+    "labels": [
+      "Sometimes",
+      "Because your brain isn't asking,",
+      "It's often asking a much simpler question."
+    ],
+    "cues": [
+      127.775,
+      130.35,
+      134.59001
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "Sometimes...\ncomfort looks incredibly productive.\nBecause your brain isn't asking,\n\u201cWhat will make my life better six months from now?\u201d\nIt's often asking a much simpler question.",
+    "reuse_rationale": "Continues the same spoken idea with a new graphic beat"
+  },
+  {
+    "id": 39,
+    "start": 136.91,
+    "end": 140.59001,
+    "art": "04-9",
+    "kind": "search",
+    "title": "What feels better right now?",
+    "labels": [
+      "What feels better right now?",
+      "And that difference",
+      "changes everything."
+    ],
+    "cues": [
+      136.91,
+      138.51001,
+      139.31001
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 4,
+    "feature": false,
+    "phrase": "\u201cWhat feels better right now?\u201d\nAnd that difference...\nchanges everything.",
+    "reuse_rationale": "Continues the same spoken idea with a new graphic beat"
+  },
+  {
+    "id": 40,
+    "start": 140.59001,
+    "end": 149.74501,
+    "art": "05-1",
+    "kind": "split",
+    "title": "Two different rewards",
+    "labels": [
+      "Imagine you have two choices.",
+      "The other gives you a much bigger"
+    ],
+    "cues": [
+      140.59001,
+      145.02501
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 5,
+    "feature": true,
+    "phrase": "Imagine you have two choices.\nOne gives you a small reward immediately.\nThe other gives you a much bigger reward...\nbut only after weeks or months of effort.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 41,
+    "start": 149.74501,
+    "end": 153.02501,
+    "art": "05-1",
+    "kind": "thought",
+    "title": "Your brain naturally notices the immediate reward first.",
+    "labels": [
+      "Your brain naturally notices the immediate reward"
+    ],
+    "cues": [
+      149.74501
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Your brain naturally notices the immediate reward first.",
+    "reuse_rationale": "Continues the same spoken idea with a new graphic beat"
+  },
+  {
+    "id": 42,
+    "start": 153.02501,
+    "end": 155.26501,
+    "art": "05-2",
+    "kind": "thought",
+    "title": "Stimulation now",
+    "labels": [
+      "Scrolling gives you stimulation now."
+    ],
+    "cues": [
+      153.02501
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Scrolling gives you stimulation now.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 43,
+    "start": 155.26501,
+    "end": 157.66501,
+    "art": "05-3",
+    "kind": "thought",
+    "title": "Results later",
+    "labels": [
+      "Working out gives you results later."
+    ],
+    "cues": [
+      155.26501
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Working out gives you results later.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 44,
+    "start": 157.66501,
+    "end": 160.22,
+    "art": "05-4",
+    "kind": "thought",
+    "title": "Entertainment now",
+    "labels": [
+      "Watching another video gives you entertainment now."
+    ],
+    "cues": [
+      157.66501
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Watching another video gives you entertainment now.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 45,
+    "start": 160.22,
+    "end": 162.86,
+    "art": "05-5",
+    "kind": "thought",
+    "title": "Ability later",
+    "labels": [
+      "Learning a skill gives you ability later."
+    ],
+    "cues": [
+      160.22
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Learning a skill gives you ability later.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 46,
+    "start": 162.86,
+    "end": 165.66,
+    "art": "05-6",
+    "kind": "thought",
+    "title": "Excitement now",
+    "labels": [
+      "Ordering something online gives you excitement now."
+    ],
+    "cues": [
+      162.86
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Ordering something online gives you excitement now.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 47,
+    "start": 165.66,
+    "end": 167.9,
+    "art": "05-7",
+    "kind": "thought",
+    "title": "Freedom later",
+    "labels": [
+      "Saving money gives you freedom later."
+    ],
+    "cues": [
+      165.66
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Saving money gives you freedom later.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 48,
+    "start": 167.9,
+    "end": 169.98,
+    "art": "05-8",
+    "kind": "thought",
+    "title": "Comfort now",
+    "labels": [
+      "Staying in bed feels comfortable now."
+    ],
+    "cues": [
+      167.9
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Staying in bed feels comfortable now.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 49,
+    "start": 169.98,
+    "end": 173.66,
+    "art": "05-9",
+    "kind": "split",
+    "title": "A better future",
+    "labels": [
+      "Getting up and doing the difficult thing",
+      "might make your future better."
+    ],
+    "cues": [
+      169.98,
+      171.98
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 5,
+    "feature": false,
+    "phrase": "Getting up and doing the difficult thing...\nmight make your future better.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 50,
+    "start": 173.66,
+    "end": 179.16501,
+    "art": "06-1",
+    "kind": "timeline",
+    "title": "The future cannot pay yet",
+    "labels": [
+      "But your future can't give you a",
+      "It's still somewhere ahead."
+    ],
+    "cues": [
+      173.66,
+      175.725
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "But your future can't give you a reward yet.\nIt's still somewhere ahead.\nSo the present has an advantage.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 51,
+    "start": 179.16501,
+    "end": 180.68501,
+    "art": "06-2",
+    "kind": "thought",
+    "title": "The present is tangible",
+    "labels": [
+      "The present is real."
+    ],
+    "cues": [
+      179.16501
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "The present is real.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 52,
+    "start": 180.68501,
+    "end": 182.765,
+    "art": "06-3",
+    "kind": "thought",
+    "title": "The future is an idea",
+    "labels": [
+      "The future is only an idea."
+    ],
+    "cues": [
+      180.68501
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "The future is only an idea.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 53,
+    "start": 182.765,
+    "end": 187.16501,
+    "art": "06-4",
+    "kind": "timeline",
+    "title": "Wanting and choosing differ",
+    "labels": [
+      "And that's why you can genuinely want",
+      "while repeatedly choosing comfort."
+    ],
+    "cues": [
+      182.765,
+      185.16501
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "And that's why you can genuinely want success...\nwhile repeatedly choosing comfort.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 54,
+    "start": 187.16501,
+    "end": 189.405,
+    "art": "06-5",
+    "kind": "thought",
+    "title": "The ambition can be sincere",
+    "labels": [
+      "You're not necessarily lying to yourself."
+    ],
+    "cues": [
+      187.16501
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "You're not necessarily lying to yourself.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 55,
+    "start": 189.405,
+    "end": 191.4,
+    "art": "06-6",
+    "kind": "thought",
+    "title": "The bigger goal is real",
+    "labels": [
+      "You can sincerely want the bigger goal."
+    ],
+    "cues": [
+      189.405
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "You can sincerely want the bigger goal.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 56,
+    "start": 191.4,
+    "end": 194.84,
+    "art": "06-7",
+    "kind": "timeline",
+    "title": "Deciding for today",
+    "labels": [
+      "You're just making decisions for the person",
+      "right now."
+    ],
+    "cues": [
+      191.4,
+      194.04
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 6,
+    "feature": false,
+    "phrase": "You're just making decisions for the person you are...\nright now.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 57,
+    "start": 194.84,
+    "end": 196.51999,
+    "art": "07-1",
+    "kind": "thought",
+    "title": "Practice makes it easier",
+    "labels": [
+      "And there's another problem."
+    ],
+    "cues": [
+      194.84
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": true,
+    "phrase": "And there's another problem.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 58,
+    "start": 196.51999,
+    "end": 203.675,
+    "art": "07-2",
+    "kind": "paths",
+    "title": "The repeated choice",
+    "labels": [
+      "The more often you choose comfort",
+      "the easier it becomes to choose it"
+    ],
+    "cues": [
+      196.51999,
+      198.51999
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "The more often you choose comfort...\nthe easier it becomes to choose it again.\nBecause every decision teaches your brain something.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 59,
+    "start": 203.675,
+    "end": 209.595,
+    "art": "07-3",
+    "kind": "paths",
+    "title": "Practice escaping",
+    "labels": [
+      "If you repeatedly avoid difficult work",
+      "your brain learns,"
+    ],
+    "cues": [
+      203.675,
+      206.235
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "If you repeatedly avoid difficult work...\nyour brain learns,\n\u201cDifficult work is something we escape from.\u201d",
+    "reuse_rationale": null
+  },
+  {
+    "id": 60,
+    "start": 209.595,
+    "end": 215.85,
+    "art": "07-4",
+    "kind": "paths",
+    "title": "Practice eliminating boredom",
+    "labels": [
+      "If you constantly reach for your phone",
+      "your brain learns,"
+    ],
+    "cues": [
+      209.595,
+      212.55501
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "If you constantly reach for your phone whenever you're bored...\nyour brain learns,\n\u201cBoredom must be eliminated immediately.\u201d",
+    "reuse_rationale": null
+  },
+  {
+    "id": 61,
+    "start": 215.85,
+    "end": 222.17001,
+    "art": "07-5",
+    "kind": "paths",
+    "title": "Practice leaving",
+    "labels": [
+      "If you keep quitting whenever something becomes",
+      "your brain learns,"
+    ],
+    "cues": [
+      215.85,
+      218.73001
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "If you keep quitting whenever something becomes uncomfortable...\nyour brain learns,\n\u201cWhen things get difficult, we leave.\u201d",
+    "reuse_rationale": null
+  },
+  {
+    "id": 62,
+    "start": 222.17001,
+    "end": 227.05,
+    "art": "07-6",
+    "kind": "thought",
+    "title": "The automatic response",
+    "labels": [
+      "And eventually",
+      "you don't even have to think about",
+      "The behavior becomes automatic."
+    ],
+    "cues": [
+      222.17001,
+      223.21,
+      224.89
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "And eventually...\nyou don't even have to think about it.\nThe behavior becomes automatic.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 63,
+    "start": 227.05,
+    "end": 234.135,
+    "art": "07-7",
+    "kind": "thought",
+    "title": "Knowing is not doing",
+    "labels": [
+      "This is why people sometimes say,",
+      "I know exactly what I want.",
+      "So why can't I make myself do"
+    ],
+    "cues": [
+      227.05,
+      230.375,
+      232.215
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "This is why people sometimes say,\n\u201cI don't understand myself.\nI know exactly what I want.\nSo why can't I make myself do it?\u201d",
+    "reuse_rationale": null
+  },
+  {
+    "id": 64,
+    "start": 234.135,
+    "end": 235.575,
+    "art": "07-8",
+    "kind": "thought",
+    "title": "A goal is not a tolerance",
+    "labels": [
+      "Because knowing what you want"
+    ],
+    "cues": [
+      234.135
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "Because knowing what you want...",
+    "reuse_rationale": null
+  },
+  {
+    "id": 65,
+    "start": 235.575,
+    "end": 240.375,
+    "art": "07-9",
+    "kind": "thought",
+    "title": "What it takes",
+    "labels": [
+      "and being trained to tolerate what it",
+      "are two completely different things."
+    ],
+    "cues": [
+      235.575,
+      238.295
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 7,
+    "feature": false,
+    "phrase": "and being trained to tolerate what it takes to get there...\nare two completely different things.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 66,
+    "start": 240.375,
+    "end": 244.88,
+    "art": "08-1",
+    "kind": "split",
+    "title": "Ambition without tolerance",
+    "labels": [
+      "You can have huge ambitions",
+      "and still have a very low tolerance"
+    ],
+    "cues": [
+      240.375,
+      241.97499
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 8,
+    "feature": false,
+    "phrase": "You can have huge ambitions...\nand still have a very low tolerance for discomfort.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 67,
+    "start": 244.88,
+    "end": 250.0,
+    "art": "08-2",
+    "kind": "split",
+    "title": "Success without risking failure",
+    "labels": [
+      "You can dream about becoming successful",
+      "while avoiding every situation where you might"
+    ],
+    "cues": [
+      244.88,
+      246.88
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 8,
+    "feature": false,
+    "phrase": "You can dream about becoming successful...\nwhile avoiding every situation where you might fail.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 68,
+    "start": 250.0,
+    "end": 254.64,
+    "art": "08-3",
+    "kind": "split",
+    "title": "Safety versus confidence",
+    "labels": [
+      "You can want confidence",
+      "while constantly choosing situations that make you"
+    ],
+    "cues": [
+      250.0,
+      251.2
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 8,
+    "feature": false,
+    "phrase": "You can want confidence...\nwhile constantly choosing situations that make you feel safe.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 69,
+    "start": 254.64,
+    "end": 259.41498,
+    "art": "08-4",
+    "kind": "split",
+    "title": "Temptation within reach",
+    "labels": [
+      "You can want discipline",
+      "while building a life where every temptation"
+    ],
+    "cues": [
+      254.64,
+      255.84
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 8,
+    "feature": false,
+    "phrase": "You can want discipline...\nwhile building a life where every temptation is within arm's reach.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 70,
+    "start": 259.41498,
+    "end": 267.655,
+    "art": "08-5",
+    "kind": "split",
+    "title": "The self-blame story",
+    "labels": [
+      "And this is where people often blame",
+      "I'm weak."
+    ],
+    "cues": [
+      259.41498,
+      263.175
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 8,
+    "feature": false,
+    "phrase": "And this is where people often blame themselves.\nThey say,\n\u201cI'm lazy.\u201d\n\u201cI'm weak.\u201d\n\u201cI have no discipline.\u201d\n\u201cI just don't want it badly enough.\u201d",
+    "reuse_rationale": null
+  },
+  {
+    "id": 71,
+    "start": 267.655,
+    "end": 270.69498,
+    "art": "08-6",
+    "kind": "split",
+    "title": "Maybe it is not the goal",
+    "labels": [
+      "But sometimes",
+      "the problem isn't that you don't want"
+    ],
+    "cues": [
+      267.655,
+      268.535
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 8,
+    "feature": false,
+    "phrase": "But sometimes...\nthe problem isn't that you don't want the goal.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 72,
+    "start": 270.69498,
+    "end": 274.78,
+    "art": "08-8",
+    "kind": "split",
+    "title": "Comfort made too easy",
+    "labels": [
+      "The problem is that your current environment",
+      "far too easy."
+    ],
+    "cues": [
+      270.69498,
+      273.58002
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 8,
+    "feature": false,
+    "phrase": "The problem is that your current environment makes comfort...\nfar too easy.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 73,
+    "start": 274.78,
+    "end": 276.86002,
+    "art": "09-1",
+    "kind": "stairs",
+    "title": "Right there",
+    "labels": [
+      "Think about your phone.",
+      "It's right there."
+    ],
+    "cues": [
+      274.78,
+      275.90002
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "Think about your phone.\nIt's right there.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 74,
+    "start": 276.86002,
+    "end": 282.7,
+    "art": "09-2",
+    "kind": "stairs",
+    "title": "Immediate and effortless",
+    "labels": [
+      "One tap.",
+      "No effort.",
+      "No possibility of failure."
+    ],
+    "cues": [
+      276.86002,
+      279.26,
+      280.94
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "One tap.\nInfinite entertainment.\nNo effort.\nNo waiting.\nNo possibility of failure.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 75,
+    "start": 282.7,
+    "end": 285.26,
+    "art": "09-3",
+    "kind": "stairs",
+    "title": "A very different option",
+    "labels": [
+      "Now compare that to learning something difficult."
+    ],
+    "cues": [
+      282.7
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "Now compare that to learning something difficult.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 76,
+    "start": 285.26,
+    "end": 287.895,
+    "art": "09-4",
+    "kind": "stairs",
+    "title": "Concentration costs effort",
+    "labels": [
+      "You have to sit down.",
+      "You have to concentrate."
+    ],
+    "cues": [
+      285.26,
+      286.7
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "You have to sit down.\nYou have to concentrate.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 77,
+    "start": 287.895,
+    "end": 289.57498,
+    "art": "09-5",
+    "kind": "stairs",
+    "title": "Confusion is part of practice",
+    "labels": [
+      "You're going to be confused."
+    ],
+    "cues": [
+      287.895
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "You're going to be confused.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 78,
+    "start": 289.57498,
+    "end": 291.735,
+    "art": "09-6",
+    "kind": "stairs",
+    "title": "The imperfect beginning",
+    "labels": [
+      "You're going to be bad at it"
+    ],
+    "cues": [
+      289.57498
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "You're going to be bad at it in the beginning.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 79,
+    "start": 291.735,
+    "end": 296.13498,
+    "art": "09-7",
+    "kind": "stairs",
+    "title": "No instant applause",
+    "labels": [
+      "Progress will be slow.",
+      "Nobody is going to congratulate you after"
+    ],
+    "cues": [
+      291.735,
+      293.25497
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "Progress will be slow.\nNobody is going to congratulate you after thirty minutes.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 80,
+    "start": 296.13498,
+    "end": 298.215,
+    "art": "09-8",
+    "kind": "stairs",
+    "title": "Invisible progress",
+    "labels": [
+      "The reward is almost invisible."
+    ],
+    "cues": [
+      296.13498
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "The reward is almost invisible.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 81,
+    "start": 298.215,
+    "end": 305.98,
+    "art": "09-9",
+    "kind": "stairs",
+    "title": "Pleasure now, struggle first",
+    "labels": [
+      "Of course your brain is going to",
+      "The other asks you to struggle",
+      "before it gives you anything back."
+    ],
+    "cues": [
+      298.215,
+      302.86002,
+      304.30002
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 9,
+    "feature": false,
+    "phrase": "Of course your brain is going to notice the difference.\nOne option gives you pleasure immediately.\nThe other asks you to struggle...\nbefore it gives you anything back.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 82,
+    "start": 305.98,
+    "end": 309.18,
+    "art": "10-1",
+    "kind": "focus",
+    "title": "Make discipline easier",
+    "labels": [
+      "And this is why discipline isn't simply"
+    ],
+    "cues": [
+      305.98
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "And this is why discipline isn't simply about becoming stronger.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 83,
+    "start": 309.18,
+    "end": 311.58002,
+    "art": "10-2",
+    "kind": "focus",
+    "title": "Change the first step",
+    "labels": [
+      "Sometimes",
+      "it's about making the right choice easier."
+    ],
+    "cues": [
+      309.18,
+      309.82
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "Sometimes...\nit's about making the right choice easier.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 84,
+    "start": 311.58002,
+    "end": 312.94,
+    "art": "10-3",
+    "kind": "focus",
+    "title": "Put the phone elsewhere",
+    "labels": [
+      "Put your phone somewhere else."
+    ],
+    "cues": [
+      311.58002
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "Put your phone somewhere else.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 85,
+    "start": 312.94,
+    "end": 315.1,
+    "art": "10-4",
+    "kind": "focus",
+    "title": "Remove the pull",
+    "labels": [
+      "Remove the apps that constantly pull you"
+    ],
+    "cues": [
+      312.94
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "Remove the apps that constantly pull you back.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 86,
+    "start": 315.1,
+    "end": 316.455,
+    "art": "10-5",
+    "kind": "focus",
+    "title": "Prepare the clothes",
+    "labels": [
+      "Keep your workout clothes ready."
+    ],
+    "cues": [
+      315.1
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "Keep your workout clothes ready.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 87,
+    "start": 316.455,
+    "end": 317.97498,
+    "art": "10-6",
+    "kind": "focus",
+    "title": "Prepare the book",
+    "labels": [
+      "Keep the book on your desk."
+    ],
+    "cues": [
+      316.455
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "Keep the book on your desk.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 88,
+    "start": 317.97498,
+    "end": 319.895,
+    "art": "10-7",
+    "kind": "focus",
+    "title": "Prepare the project",
+    "labels": [
+      "Open the project before you go to"
+    ],
+    "cues": [
+      317.97498
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "Open the project before you go to sleep.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 89,
+    "start": 319.895,
+    "end": 322.055,
+    "art": "10-8",
+    "kind": "focus",
+    "title": "An obvious first step",
+    "labels": [
+      "Make the first step ridiculously obvious."
+    ],
+    "cues": [
+      319.895
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "Make the first step ridiculously obvious.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 90,
+    "start": 322.055,
+    "end": 330.84,
+    "art": "10-9",
+    "kind": "focus",
+    "title": "Less fighting, more starting",
+    "labels": [
+      "Because if every good decision requires a",
+      "But there's something even deeper happening here.",
+      "we don't choose comfort because we're lazy."
+    ],
+    "cues": [
+      322.055,
+      326.215,
+      329.01498
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "Because if every good decision requires a battle...\nyou're going to get tired of fighting yourself.\nBut there's something even deeper happening here.\nSometimes...\nwe don't choose comfort because we're lazy.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 91,
+    "start": 330.84,
+    "end": 332.84,
+    "art": "10-9",
+    "kind": "focus",
+    "title": "We choose comfort because we're afraid.",
+    "labels": [
+      "We choose comfort because we're afraid."
+    ],
+    "cues": [
+      330.84
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 10,
+    "feature": false,
+    "phrase": "We choose comfort because we're afraid.",
+    "reuse_rationale": "Continues the same spoken idea with a new graphic beat"
+  },
+  {
+    "id": 92,
+    "start": 332.84,
+    "end": 337.63998,
+    "art": "11-1",
+    "kind": "window",
+    "title": "What if you actually try?",
+    "labels": [
+      "Because what happens if you actually try?",
+      "What happens if you start the business"
+    ],
+    "cues": [
+      332.84,
+      334.84
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 11,
+    "feature": false,
+    "phrase": "Because what happens if you actually try?\nWhat happens if you start the business...\nand nobody cares?",
+    "reuse_rationale": null
+  },
+  {
+    "id": 93,
+    "start": 337.63998,
+    "end": 340.52,
+    "art": "11-2",
+    "kind": "window",
+    "title": "What if nobody watches?",
+    "labels": [
+      "What happens if you make the videos",
+      "and nobody watches?"
+    ],
+    "cues": [
+      337.63998,
+      339.24
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 11,
+    "feature": false,
+    "phrase": "What happens if you make the videos...\nand nobody watches?",
+    "reuse_rationale": null
+  },
+  {
+    "id": 94,
+    "start": 340.52,
+    "end": 344.345,
+    "art": "11-3",
+    "kind": "window",
+    "title": "What if results disappoint?",
+    "labels": [
+      "What happens if you work out for",
+      "and you still don't look the way"
+    ],
+    "cues": [
+      340.52,
+      342.28
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 11,
+    "feature": false,
+    "phrase": "What happens if you work out for months...\nand you still don't look the way you imagined?",
+    "reuse_rationale": null
+  },
+  {
+    "id": 95,
+    "start": 344.345,
+    "end": 346.665,
+    "art": "11-4",
+    "kind": "window",
+    "title": "What if you still fail?",
+    "labels": [
+      "What happens if you study",
+      "and you still fail?"
+    ],
+    "cues": [
+      344.345,
+      345.625
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 11,
+    "feature": false,
+    "phrase": "What happens if you study...\nand you still fail?",
+    "reuse_rationale": null
+  },
+  {
+    "id": 96,
+    "start": 346.665,
+    "end": 352.825,
+    "art": "11-5",
+    "kind": "window",
+    "title": "What if you are not ready?",
+    "labels": [
+      "What happens if you finally go after",
+      "and discover that you're not as good"
+    ],
+    "cues": [
+      346.665,
+      349.625
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 11,
+    "feature": false,
+    "phrase": "What happens if you finally go after the life you've been talking about...\nand discover that you're not as good as you thought?\nThat's uncomfortable.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 97,
+    "start": 352.825,
+    "end": 357.19998,
+    "art": "11-6",
+    "kind": "iceberg",
+    "title": "Preparation or protection?",
+    "labels": [
+      "So sometimes",
+      "isn't really about preparation."
+    ],
+    "cues": [
+      352.825,
+      354.505
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 11,
+    "feature": false,
+    "phrase": "So sometimes...\n\u201cI'm not ready yet\u201d\nisn't really about preparation.\nIt's protection.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 98,
+    "start": 357.19998,
+    "end": 359.52,
+    "art": "11-7",
+    "kind": "iceberg",
+    "title": "Not started, not failed",
+    "labels": [
+      "As long as you haven't started",
+      "you haven't failed."
+    ],
+    "cues": [
+      357.19998,
+      358.56
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 11,
+    "feature": false,
+    "phrase": "As long as you haven't started...\nyou haven't failed.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 99,
+    "start": 359.52,
+    "end": 362.72,
+    "art": "11-8",
+    "kind": "iceberg",
+    "title": "Untested possibility",
+    "labels": [
+      "As long as you haven't tried",
+      "you can still imagine that you could"
+    ],
+    "cues": [
+      359.52,
+      360.8
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 11,
+    "feature": false,
+    "phrase": "As long as you haven't tried...\nyou can still imagine that you could have been great.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 100,
+    "start": 362.72,
+    "end": 367.68,
+    "art": "11-9",
+    "kind": "iceberg",
+    "title": "Protection has a cost",
+    "labels": [
+      "Comfort protects you from disappointment.",
+      "But it also protects you from discovering"
+    ],
+    "cues": [
+      362.72,
+      364.63998
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 11,
+    "feature": false,
+    "phrase": "Comfort protects you from disappointment.\nBut it also protects you from discovering what you're actually capable of.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 101,
+    "start": 367.68,
+    "end": 377.835,
+    "art": "12-1",
+    "kind": "loop",
+    "title": "Avoidance rewards itself",
+    "labels": [
+      "AVOID",
+      "RELIEF",
+      "REPEAT",
+      "GUILT"
+    ],
+    "cues": [
+      369.28,
+      371.12,
+      375.35498,
+      376.79498
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 12,
+    "feature": true,
+    "phrase": "And this creates a strange cycle.\nYou avoid the uncomfortable thing.\nYou feel temporary relief.\nThat relief teaches your brain,\n\u201cGood decision.\u201d\nSo you avoid it again.\nYou feel guilty.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 102,
+    "start": 377.835,
+    "end": 379.675,
+    "art": "12-5",
+    "kind": "stack",
+    "title": "A promise to change",
+    "labels": [
+      "You promise yourself you'll change."
+    ],
+    "cues": [
+      377.835
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 12,
+    "feature": false,
+    "phrase": "You promise yourself you'll change.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 103,
+    "start": 379.675,
+    "end": 382.715,
+    "art": "12-6",
+    "kind": "stack",
+    "title": "The motivated future self",
+    "labels": [
+      "You imagine your future self.",
+      "You feel motivated."
+    ],
+    "cues": [
+      379.675,
+      381.51498
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 12,
+    "feature": false,
+    "phrase": "You imagine your future self.\nYou feel motivated.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 104,
+    "start": 382.715,
+    "end": 384.955,
+    "art": "12-7",
+    "kind": "stack",
+    "title": "The difficult moment returns",
+    "labels": [
+      "Then the uncomfortable moment arrives again"
+    ],
+    "cues": [
+      382.715
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 12,
+    "feature": false,
+    "phrase": "Then the uncomfortable moment arrives again...",
+    "reuse_rationale": null
+  },
+  {
+    "id": 105,
+    "start": 384.955,
+    "end": 387.8,
+    "art": "12-8",
+    "kind": "stack",
+    "title": "Back to comfort",
+    "labels": [
+      "and you return to comfort.",
+      "Again.",
+      "And again."
+    ],
+    "cues": [
+      384.955,
+      386.555,
+      386.79498
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 12,
+    "feature": false,
+    "phrase": "and you return to comfort.\nAgain.\nAnd again.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 106,
+    "start": 387.8,
+    "end": 397.4,
+    "art": "12-9",
+    "kind": "stack",
+    "title": "A practiced behavior can change",
+    "labels": [
+      "Until you start believing that you're incapable",
+      "You've simply practiced one behavior",
+      "And that means you can practice something"
+    ],
+    "cues": [
+      387.8,
+      392.2,
+      395.24
+    ],
+    "dark": true,
+    "layout": "right",
+    "chapter": 12,
+    "feature": false,
+    "phrase": "Until you start believing that you're incapable of changing.\nBut you're not incapable.\nYou've simply practiced one behavior...\nmore than the other.\nAnd that means you can practice something different.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 107,
+    "start": 397.4,
+    "end": 400.515,
+    "art": "13-3",
+    "kind": "focus",
+    "title": "You do not need a new life",
+    "labels": [
+      "You don't need to suddenly become a"
+    ],
+    "cues": [
+      397.4
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 13,
+    "feature": false,
+    "phrase": "You don't need to suddenly become a completely disciplined person.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 108,
+    "start": 400.515,
+    "end": 407.315,
+    "art": "13-2",
+    "kind": "focus",
+    "title": "No perfect routine required",
+    "labels": [
+      "You don't need to wake up at",
+      "You don't need a perfect routine.",
+      "You don't need to transform your entire"
+    ],
+    "cues": [
+      400.515,
+      402.83502,
+      404.67502
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 13,
+    "feature": false,
+    "phrase": "You don't need to wake up at five in the morning.\nYou don't need a perfect routine.\nYou don't need to transform your entire life this week.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 109,
+    "start": 407.315,
+    "end": 408.67502,
+    "art": "13-3",
+    "kind": "focus",
+    "title": "Start much smaller",
+    "labels": [
+      "Start much smaller."
+    ],
+    "cues": [
+      407.315
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 13,
+    "feature": false,
+    "phrase": "Start much smaller.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 110,
+    "start": 408.67502,
+    "end": 410.99503,
+    "art": "13-4",
+    "kind": "focus",
+    "title": "Before the easy option",
+    "labels": [
+      "When you want to scroll",
+      "and you know you should work"
+    ],
+    "cues": [
+      408.67502,
+      409.95502
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 13,
+    "feature": false,
+    "phrase": "When you want to scroll...\nand you know you should work...",
+    "reuse_rationale": null
+  },
+  {
+    "id": 111,
+    "start": 410.99503,
+    "end": 412.195,
+    "art": "13-5",
+    "kind": "clock",
+    "title": "Ten minutes first",
+    "labels": [
+      "10 MINUTES",
+      "BEFORE YOU SCROLL"
+    ],
+    "cues": [
+      411.15503,
+      411.15503
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 13,
+    "feature": true,
+    "phrase": "work for ten minutes first.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 112,
+    "start": 412.195,
+    "end": 415.37,
+    "art": "13-6",
+    "kind": "focus",
+    "title": "Put the shoes on",
+    "labels": [
+      "When you don't feel like exercising",
+      "put your shoes on first."
+    ],
+    "cues": [
+      412.195,
+      414.035
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 13,
+    "feature": false,
+    "phrase": "When you don't feel like exercising...\nput your shoes on first.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 113,
+    "start": 415.37,
+    "end": 419.85,
+    "art": "13-7",
+    "kind": "focus",
+    "title": "Open the file",
+    "labels": [
+      "When you keep delaying a project",
+      "open the file and do the smallest"
+    ],
+    "cues": [
+      415.37,
+      417.05002
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 13,
+    "feature": false,
+    "phrase": "When you keep delaying a project...\nopen the file and do the smallest possible piece.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 114,
+    "start": 419.85,
+    "end": 424.25,
+    "art": "13-8",
+    "kind": "focus",
+    "title": "Actually practice",
+    "labels": [
+      "When you want to learn something",
+      "stop collecting information and actually practice."
+    ],
+    "cues": [
+      419.85,
+      421.53
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 13,
+    "feature": false,
+    "phrase": "When you want to learn something...\nstop collecting information and actually practice.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 115,
+    "start": 424.25,
+    "end": 431.085,
+    "art": "13-9",
+    "kind": "focus",
+    "title": "Stay with the discomfort",
+    "labels": [
+      "The goal isn't to make discomfort disappear.",
+      "The goal is to teach yourself",
+      "I can do uncomfortable things without running"
+    ],
+    "cues": [
+      424.25,
+      426.81,
+      428.17
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 13,
+    "feature": false,
+    "phrase": "The goal isn't to make discomfort disappear.\nThe goal is to teach yourself...\n\u201cI can do uncomfortable things without running away.\u201d",
+    "reuse_rationale": null
+  },
+  {
+    "id": 116,
+    "start": 431.085,
+    "end": 435.565,
+    "art": "14-1",
+    "kind": "stack",
+    "title": "Collect evidence",
+    "labels": [
+      "Because every time you do that",
+      "you collect evidence.",
+      "You prove something to yourself."
+    ],
+    "cues": [
+      431.085,
+      432.925,
+      434.045
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 14,
+    "feature": false,
+    "phrase": "Because every time you do that...\nyou collect evidence.\nYou prove something to yourself.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 117,
+    "start": 435.565,
+    "end": 437.165,
+    "art": "14-2",
+    "kind": "stack",
+    "title": "You worked",
+    "labels": [
+      "You said you'd work",
+      "and you worked."
+    ],
+    "cues": [
+      435.565,
+      436.285
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 14,
+    "feature": false,
+    "phrase": "You said you'd work...\nand you worked.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 118,
+    "start": 437.165,
+    "end": 439.565,
+    "art": "14-3",
+    "kind": "stack",
+    "title": "You exercised",
+    "labels": [
+      "You said you'd exercise",
+      "and you exercised."
+    ],
+    "cues": [
+      437.165,
+      438.685
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 14,
+    "feature": false,
+    "phrase": "You said you'd exercise...\nand you exercised.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 119,
+    "start": 439.565,
+    "end": 441.965,
+    "art": "14-4",
+    "kind": "stack",
+    "title": "You stopped",
+    "labels": [
+      "You said you'd stop scrolling",
+      "and you stopped."
+    ],
+    "cues": [
+      439.565,
+      440.765
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 14,
+    "feature": false,
+    "phrase": "You said you'd stop scrolling...\nand you stopped.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 120,
+    "start": 441.965,
+    "end": 446.69,
+    "art": "14-5",
+    "kind": "stack",
+    "title": "Tiny is not meaningless",
+    "labels": [
+      "These tiny moments might look meaningless.",
+      "But they're not."
+    ],
+    "cues": [
+      441.965,
+      445.65
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 14,
+    "feature": false,
+    "phrase": "These tiny moments might look meaningless.\nBut they're not.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 121,
+    "start": 446.69,
+    "end": 449.25,
+    "art": "14-6",
+    "kind": "stack",
+    "title": "Change your self-trust",
+    "labels": [
+      "They're changing your relationship with yourself."
+    ],
+    "cues": [
+      446.69
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 14,
+    "feature": false,
+    "phrase": "They're changing your relationship with yourself.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 122,
+    "start": 449.25,
+    "end": 452.44998,
+    "art": "14-7",
+    "kind": "focus",
+    "title": "Not punishment",
+    "labels": [
+      "Eventually",
+      "discipline stops feeling like punishment."
+    ],
+    "cues": [
+      449.25,
+      450.44998
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 14,
+    "feature": false,
+    "phrase": "Eventually...\ndiscipline stops feeling like punishment.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 123,
+    "start": 452.44998,
+    "end": 458.10498,
+    "art": "14-8",
+    "kind": "focus",
+    "title": "Stop negotiating",
+    "labels": [
+      "Because you're no longer constantly negotiating with",
+      "You don't ask,",
+      "Do I feel like doing this?"
+    ],
+    "cues": [
+      452.44998,
+      455.65,
+      456.69
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 14,
+    "feature": false,
+    "phrase": "Because you're no longer constantly negotiating with yourself.\nYou don't ask,\n\u201cDo I feel like doing this?\u201d",
+    "reuse_rationale": null
+  },
+  {
+    "id": 124,
+    "start": 458.10498,
+    "end": 468.26498,
+    "art": "14-9",
+    "kind": "focus",
+    "title": "The next step",
+    "labels": [
+      "You ask,",
+      "And that's when something important happens.",
+      "to act like the person you want"
+    ],
+    "cues": [
+      458.10498,
+      462.025,
+      465.865
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 14,
+    "feature": false,
+    "phrase": "You ask,\n\u201cThis is what I decided.\nSo what's the next step?\u201d\nAnd that's when something important happens.\nYou stop needing to feel motivated...\nto act like the person you want to become.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 125,
+    "start": 468.26498,
+    "end": 472.05,
+    "art": "15-1",
+    "kind": "paths",
+    "title": "A future built by choices",
+    "labels": [
+      "Because the truth is",
+      "your future isn't created by the goals"
+    ],
+    "cues": [
+      468.26498,
+      469.705
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 15,
+    "feature": false,
+    "phrase": "Because the truth is...\nyour future isn't created by the goals you think about.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 126,
+    "start": 472.05,
+    "end": 474.44998,
+    "art": "15-2",
+    "kind": "thought",
+    "title": "What you repeat",
+    "labels": [
+      "It's created by the choices you repeat."
+    ],
+    "cues": [
+      472.05
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 15,
+    "feature": true,
+    "phrase": "It's created by the choices you repeat.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 127,
+    "start": 474.44998,
+    "end": 480.05,
+    "art": "15-3",
+    "kind": "paths",
+    "title": "Comfort can train dependence",
+    "labels": [
+      "You can want freedom",
+      "but if you constantly choose short-term comfort,"
+    ],
+    "cues": [
+      474.44998,
+      475.72998
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 15,
+    "feature": false,
+    "phrase": "You can want freedom...\nbut if you constantly choose short-term comfort,\nyou are practicing dependence.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 128,
+    "start": 480.05,
+    "end": 486.425,
+    "art": "15-4",
+    "kind": "paths",
+    "title": "Safety can train avoidance",
+    "labels": [
+      "You can want confidence",
+      "but if you constantly avoid situations where"
+    ],
+    "cues": [
+      480.05,
+      481.56998
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 15,
+    "feature": false,
+    "phrase": "You can want confidence...\nbut if you constantly avoid situations where you might fail,\nyou are practicing avoidance.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 129,
+    "start": 486.425,
+    "end": 492.345,
+    "art": "15-5",
+    "kind": "paths",
+    "title": "Easy can train escape",
+    "labels": [
+      "You can want success",
+      "but if you always choose the easiest"
+    ],
+    "cues": [
+      486.425,
+      487.625
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 15,
+    "feature": false,
+    "phrase": "You can want success...\nbut if you always choose the easiest option,\nyou're training yourself to escape difficulty.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 130,
+    "start": 492.345,
+    "end": 496.585,
+    "art": "15-6",
+    "kind": "switch",
+    "title": "Do not make life miserable",
+    "labels": [
+      "And none of this means you should",
+      "Comfort isn't the enemy."
+    ],
+    "cues": [
+      492.345,
+      495.065
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 15,
+    "feature": false,
+    "phrase": "And none of this means you should make your life miserable.\nComfort isn't the enemy.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 131,
+    "start": 496.585,
+    "end": 497.945,
+    "art": "15-7",
+    "kind": "thought",
+    "title": "Rest matters",
+    "labels": [
+      "Rest is important."
+    ],
+    "cues": [
+      496.585
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 15,
+    "feature": false,
+    "phrase": "Rest is important.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 132,
+    "start": 497.945,
+    "end": 501.5,
+    "art": "15-8",
+    "kind": "switch",
+    "title": "Enjoyment matters",
+    "labels": [
+      "Entertainment is important.",
+      "Enjoying your life is important."
+    ],
+    "cues": [
+      497.945,
+      499.545
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 15,
+    "feature": false,
+    "phrase": "Entertainment is important.\nEnjoying your life is important.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 133,
+    "start": 501.5,
+    "end": 506.94,
+    "art": "15-9",
+    "kind": "switch",
+    "title": "Comfort as the default",
+    "labels": [
+      "The problem begins when comfort becomes your",
+      "to anything difficult."
+    ],
+    "cues": [
+      501.5,
+      505.1
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 15,
+    "feature": false,
+    "phrase": "The problem begins when comfort becomes your default response...\nto anything difficult.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 134,
+    "start": 506.94,
+    "end": 512.14,
+    "art": "16-1",
+    "kind": "stairs",
+    "title": "Easy now, difficult later",
+    "labels": [
+      "Because sometimes",
+      "the easiest choice today",
+      "creates the hardest life tomorrow."
+    ],
+    "cues": [
+      506.94,
+      508.46002,
+      509.90002
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 16,
+    "feature": false,
+    "phrase": "Because sometimes...\nthe easiest choice today...\ncreates the hardest life tomorrow.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 135,
+    "start": 512.14,
+    "end": 515.665,
+    "art": "16-2",
+    "kind": "stairs",
+    "title": "Difficult now, easier later",
+    "labels": [
+      "And sometimes",
+      "the harder choice today",
+      "creates an easier life later."
+    ],
+    "cues": [
+      512.14,
+      512.86,
+      513.82
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 16,
+    "feature": false,
+    "phrase": "And sometimes...\nthe harder choice today...\ncreates an easier life later.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 136,
+    "start": 515.665,
+    "end": 517.585,
+    "art": "16-3",
+    "kind": "stairs",
+    "title": "Study instead of scrolling",
+    "labels": [
+      "Studying when you'd rather scroll."
+    ],
+    "cues": [
+      515.665
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 16,
+    "feature": false,
+    "phrase": "Studying when you'd rather scroll.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 137,
+    "start": 517.585,
+    "end": 519.425,
+    "art": "16-4",
+    "kind": "stairs",
+    "title": "Save instead of spending",
+    "labels": [
+      "Saving when you'd rather spend."
+    ],
+    "cues": [
+      517.585
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 16,
+    "feature": false,
+    "phrase": "Saving when you'd rather spend.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 138,
+    "start": 519.425,
+    "end": 521.34503,
+    "art": "16-5",
+    "kind": "stairs",
+    "title": "Practice instead of watching",
+    "labels": [
+      "Practicing when you'd rather watch."
+    ],
+    "cues": [
+      519.425
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 16,
+    "feature": false,
+    "phrase": "Practicing when you'd rather watch.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 139,
+    "start": 521.34503,
+    "end": 523.905,
+    "art": "16-6",
+    "kind": "stairs",
+    "title": "Go instead of staying",
+    "labels": [
+      "Going to the gym when you'd rather"
+    ],
+    "cues": [
+      521.34503
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 16,
+    "feature": false,
+    "phrase": "Going to the gym when you'd rather stay in bed.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 140,
+    "start": 523.905,
+    "end": 526.625,
+    "art": "16-7",
+    "kind": "stairs",
+    "title": "Have the conversation",
+    "labels": [
+      "Having the difficult conversation instead of avoiding"
+    ],
+    "cues": [
+      523.905
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 16,
+    "feature": false,
+    "phrase": "Having the difficult conversation instead of avoiding it.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 141,
+    "start": 526.625,
+    "end": 529.85,
+    "art": "16-8",
+    "kind": "stairs",
+    "title": "Start and finish",
+    "labels": [
+      "Starting before you're ready.",
+      "Finishing what you said you'd finish."
+    ],
+    "cues": [
+      526.625,
+      528.00995
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 16,
+    "feature": false,
+    "phrase": "Starting before you're ready.\nFinishing what you said you'd finish.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 142,
+    "start": 529.85,
+    "end": 539.61,
+    "art": "16-9",
+    "kind": "stairs",
+    "title": "An ordinary different life",
+    "labels": [
+      "These choices don't always feel powerful while",
+      "Ordinary.",
+      "But that's how a different life is"
+    ],
+    "cues": [
+      529.85,
+      535.29,
+      537.52997
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 16,
+    "feature": false,
+    "phrase": "These choices don't always feel powerful while you're making them.\nMost of the time...\nthey feel boring.\nOrdinary.\nAlmost invisible.\nBut that's how a different life is usually built.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 143,
+    "start": 539.61,
+    "end": 546.46497,
+    "art": "16-9",
+    "kind": "stairs",
+    "title": "Not through one massive decision.",
+    "labels": [
+      "Not through one massive decision.",
+      "where you choose what matters",
+      "over what feels easiest."
+    ],
+    "cues": [
+      539.61,
+      543.185,
+      544.705
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 16,
+    "feature": false,
+    "phrase": "Not through one massive decision.\nThrough hundreds of small moments...\nwhere you choose what matters...\nover what feels easiest.",
+    "reuse_rationale": "Continues the same spoken idea with a new graphic beat"
+  },
+  {
+    "id": 144,
+    "start": 546.46497,
+    "end": 552.065,
+    "art": "17-1",
+    "kind": "switch",
+    "title": "Notice this moment",
+    "labels": [
+      "So the next time you catch yourself",
+      "I really want to change my life"
+    ],
+    "cues": [
+      546.46497,
+      548.705
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 17,
+    "feature": false,
+    "phrase": "So the next time you catch yourself saying,\n\u201cI really want to change my life...\nbut I just can't seem to do it,\u201d",
+    "reuse_rationale": null
+  },
+  {
+    "id": 145,
+    "start": 552.065,
+    "end": 555.27997,
+    "art": "17-2",
+    "kind": "switch",
+    "title": "Not another motivation hunt",
+    "labels": [
+      "don't immediately ask yourself,",
+      "How can I become more motivated?"
+    ],
+    "cues": [
+      552.065,
+      553.505
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 17,
+    "feature": false,
+    "phrase": "don't immediately ask yourself,\n\u201cHow can I become more motivated?\u201d",
+    "reuse_rationale": null
+  },
+  {
+    "id": 146,
+    "start": 555.27997,
+    "end": 558.0,
+    "art": "17-3",
+    "kind": "switch",
+    "title": "What am I choosing?",
+    "labels": [
+      "Ask something else.",
+      "What am I choosing right now?"
+    ],
+    "cues": [
+      555.27997,
+      556.56
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 17,
+    "feature": false,
+    "phrase": "Ask something else.\n\u201cWhat am I choosing right now?\u201d",
+    "reuse_rationale": null
+  },
+  {
+    "id": 147,
+    "start": 558.0,
+    "end": 562.64,
+    "art": "17-4",
+    "kind": "switch",
+    "title": "What I want, or what is easy?",
+    "labels": [
+      "Am I choosing the thing I actually",
+      "Or am I choosing the thing that"
+    ],
+    "cues": [
+      558.0,
+      560.0
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 17,
+    "feature": false,
+    "phrase": "Am I choosing the thing I actually want?\nOr am I choosing the thing that makes this moment easier?",
+    "reuse_rationale": null
+  },
+  {
+    "id": 148,
+    "start": 562.64,
+    "end": 564.64,
+    "art": "17-5",
+    "kind": "thought",
+    "title": "You can keep your comfort",
+    "labels": [
+      "Because you don't have to destroy your"
+    ],
+    "cues": [
+      562.64
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 17,
+    "feature": false,
+    "phrase": "Because you don't have to destroy your comfort.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 149,
+    "start": 564.64,
+    "end": 566.88,
+    "art": "17-6",
+    "kind": "thought",
+    "title": "Not productivity obsession",
+    "labels": [
+      "You don't have to become obsessed with"
+    ],
+    "cues": [
+      564.64
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 17,
+    "feature": false,
+    "phrase": "You don't have to become obsessed with productivity.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 150,
+    "start": 566.88,
+    "end": 569.28503,
+    "art": "17-7",
+    "kind": "thought",
+    "title": "Not constant struggle",
+    "labels": [
+      "You don't have to turn your life"
+    ],
+    "cues": [
+      566.88
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 17,
+    "feature": false,
+    "phrase": "You don't have to turn your life into a constant struggle.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 151,
+    "start": 569.28503,
+    "end": 573.125,
+    "art": "17-8",
+    "kind": "switch",
+    "title": "Temporary or permanent?",
+    "labels": [
+      "You just need to stop letting temporary",
+      "make permanent decisions for you."
+    ],
+    "cues": [
+      569.28503,
+      571.28503
+    ],
+    "dark": true,
+    "layout": "left",
+    "chapter": 17,
+    "feature": false,
+    "phrase": "You just need to stop letting temporary comfort...\nmake permanent decisions for you.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 152,
+    "start": 573.125,
+    "end": 581.94,
+    "art": "17-9",
+    "kind": "switch",
+    "title": "Willing to do the hard parts",
+    "labels": [
+      "You want success.",
+      "That's okay."
+    ],
+    "cues": [
+      573.125,
+      576.565
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 17,
+    "feature": false,
+    "phrase": "You want success.\nThat's okay.\nYou want a better life.\nThat's okay.\nBut eventually...\nyou have to become willing to experience the uncomfortable parts...\nof getting there.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 153,
+    "start": 581.94,
+    "end": 587.78,
+    "art": "18-1",
+    "kind": "paths",
+    "title": "Hidden behind the first step",
+    "labels": [
+      "Because the life you want",
+      "is usually hidden behind things you don't"
+    ],
+    "cues": [
+      581.94,
+      583.14
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 18,
+    "feature": false,
+    "phrase": "Because the life you want...\nis usually hidden behind things you don't feel like doing.\nThe workout you don't want to start.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 154,
+    "start": 587.78,
+    "end": 589.22003,
+    "art": "18-2",
+    "kind": "thought",
+    "title": "Not good at it yet",
+    "labels": [
+      "The skill you're not good at yet."
+    ],
+    "cues": [
+      587.78
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 18,
+    "feature": false,
+    "phrase": "The skill you're not good at yet.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 155,
+    "start": 589.22003,
+    "end": 590.9,
+    "art": "18-3",
+    "kind": "thought",
+    "title": "A project that might fail",
+    "labels": [
+      "The project you're afraid might fail."
+    ],
+    "cues": [
+      589.22003
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 18,
+    "feature": false,
+    "phrase": "The project you're afraid might fail.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 156,
+    "start": 590.9,
+    "end": 592.74,
+    "art": "18-4",
+    "kind": "thought",
+    "title": "The conversation waiting",
+    "labels": [
+      "The conversation you've been avoiding."
+    ],
+    "cues": [
+      590.9
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 18,
+    "feature": false,
+    "phrase": "The conversation you've been avoiding.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 157,
+    "start": 592.74,
+    "end": 594.34,
+    "art": "18-5",
+    "kind": "thought",
+    "title": "An imperfect first attempt",
+    "labels": [
+      "The first attempt that won't be perfect."
+    ],
+    "cues": [
+      592.74
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 18,
+    "feature": false,
+    "phrase": "The first attempt that won't be perfect.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 158,
+    "start": 594.34,
+    "end": 596.195,
+    "art": "18-6",
+    "kind": "thought",
+    "title": "The work nobody sees",
+    "labels": [
+      "The boring repetition nobody sees."
+    ],
+    "cues": [
+      594.34
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 18,
+    "feature": false,
+    "phrase": "The boring repetition nobody sees.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 159,
+    "start": 596.195,
+    "end": 603.71497,
+    "art": "18-7",
+    "kind": "paths",
+    "title": "One different choice",
+    "labels": [
+      "And maybe",
+      "Maybe you don't need another plan."
+    ],
+    "cues": [
+      596.195,
+      598.515
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 18,
+    "feature": false,
+    "phrase": "And maybe...\nyou don't need more motivation.\nMaybe you don't need another plan.\nMaybe you don't need to become a completely different person overnight.\nMaybe...",
+    "reuse_rationale": null
+  },
+  {
+    "id": 160,
+    "start": 603.71497,
+    "end": 608.58997,
+    "art": "18-7",
+    "kind": "paths",
+    "title": "you just need to make one different choice",
+    "labels": [
+      "you just need to make one different",
+      "the next time comfort asks you to"
+    ],
+    "cues": [
+      603.71497,
+      605.955
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 18,
+    "feature": false,
+    "phrase": "you just need to make one different choice...\nthe next time comfort asks you to stay the same.",
+    "reuse_rationale": "Continues the same spoken idea with a new graphic beat"
+  },
+  {
+    "id": 161,
+    "start": 608.58997,
+    "end": 616.67,
+    "art": "18-8",
+    "kind": "stairs",
+    "title": "One decision at a time",
+    "labels": [
+      "Because every time you choose what matters",
+      "Slowly.",
+      "One decision at a time."
+    ],
+    "cues": [
+      608.58997,
+      613.55,
+      615.14996
+    ],
+    "dark": false,
+    "layout": "left",
+    "chapter": 18,
+    "feature": false,
+    "phrase": "Because every time you choose what matters...\nover what feels easy...\nyou're becoming someone different.\nSlowly.\nQuietly.\nOne decision at a time.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 162,
+    "start": 616.67,
+    "end": 625.615,
+    "art": "18-9",
+    "kind": "focus",
+    "title": "What would that person do next?",
+    "labels": [
+      "So don't ask yourself,",
+      "What would the person I want to",
+      "Even if it's small."
+    ],
+    "cues": [
+      616.67,
+      620.43,
+      624.335
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 18,
+    "feature": true,
+    "phrase": "So don't ask yourself,\n\u201cHow do I become successful?\u201d\nAsk yourself...\n\u201cWhat would the person I want to become...\ndo next?\u201d\nThen do that.\nEven if it's small.",
+    "reuse_rationale": null
+  },
+  {
+    "id": 163,
+    "start": 625.615,
+    "end": 634.655,
+    "art": "18-9",
+    "kind": "focus",
+    "title": "Even if it's uncomfortable.",
+    "labels": [
+      "Even if it's uncomfortable.",
+      "You're building it",
+      "Think deeper."
+    ],
+    "cues": [
+      625.615,
+      631.295,
+      633.695
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 18,
+    "feature": false,
+    "phrase": "Even if it's uncomfortable.\nEven if nobody notices.\nBecause your future isn't waiting somewhere far away.\nYou're building it...\nwith what you choose today.\nThink deeper.",
+    "reuse_rationale": "Continues the same spoken idea with a new graphic beat"
+  },
+  {
+    "id": 164,
+    "start": 634.655,
+    "end": 637.883104,
+    "art": "18-9",
+    "kind": "focus",
+    "title": "Live better.",
+    "labels": [
+      "Live better.",
+      "Become more.",
+      "This is Why We Become."
+    ],
+    "cues": [
+      634.655,
+      635.615,
+      636.575
+    ],
+    "dark": false,
+    "layout": "right",
+    "chapter": 18,
+    "feature": false,
+    "phrase": "Live better.\nBecome more.\nThis is Why We Become.",
+    "reuse_rationale": "Continues the same spoken idea with a new graphic beat"
+  }
+]

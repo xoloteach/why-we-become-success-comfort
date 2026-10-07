@@ -1,0 +1,333 @@
+# Panel synchronization review
+
+Actual scene intervals use final processed narration estimates; no equal-duration image distribution.
+
+- Scene 000: 0.000–1.760s | 01-1 | thought | A better life | cues [0.0] | phrase: You say you want a better life.
+- Scene 001: 1.760–2.560s | 01-2 | thought | More money | cues [1.76] | phrase: More money.
+- Scene 002: 2.560–3.600s | 01-3 | thought | More freedom | cues [2.56] | phrase: More freedom.
+- Scene 003: 3.600–4.960s | 01-4 | thought | More confidence | cues [3.6] | phrase: More confidence.
+- Scene 004: 4.960–6.160s | 01-5 | thought | More discipline | cues [4.96] | phrase: More discipline.
+- Scene 005: 6.160–8.320s | 01-6 | thought | Something of your own | cues [6.16] | phrase: Maybe you want to build something of your own.
+- Scene 006: 8.320–10.000s | 01-7 | thought | Get in shape | cues [8.32] | phrase: Maybe you want to get in shape.
+- Scene 007: 10.000–18.075s | 01-8 | thought | The person you imagine | cues [10.0, 14.235, 16.074999] | phrase: Maybe you want to learn a skill. / Maybe you want to leave the life you're currently living. / You think about it all the time. / You imagine what your life could look like...
+- Scene 008: 18.075–21.995s | 01-8 | thought | if you finally became the person you keep | cues [18.074999] | phrase: if you finally became the person you keep telling yourself you're going to become.
+- Scene 009: 21.995–25.675s | 01-9 | thought | The alarm changes everything | cues [21.994999, 22.715, 24.075] | phrase: But then... / your alarm goes off. / And you hit snooze.
+- Scene 010: 25.675–27.035s | 02-1 | feed | The work can wait? | cues [25.675] | phrase: You know you should work.
+- Scene 011: 27.035–28.340s | 02-2 | feed | One easy detour | cues [27.035] | phrase: But you open your phone.
+- Scene 012: 28.340–32.260s | 02-3 | feed | Tomorrow is tempting | cues [28.34, 30.1] | phrase: You know you should exercise. / But you tell yourself you'll do it tomorrow.
+- Scene 013: 32.260–35.300s | 02-4 | feed | The project stays unopened | cues [32.260002, 34.18] | phrase: You know you should start that project. / But suddenly...
+- Scene 014: 35.300–37.380s | 02-5 | feed | A useful-looking escape | cues [35.3] | phrase: cleaning your room feels important.
+- Scene 015: 37.380–38.980s | 02-6 | feed | Another video | cues [37.38] | phrase: You watch another video.
+- Scene 016: 38.980–43.425s | 02-7 | feed | Another plan | cues [38.98, 40.385002] | phrase: You make another plan. / You tell yourself you just need a little more motivation.
+- Scene 017: 43.425–46.065s | 02-8 | feed | The day disappears | cues [43.425, 44.545] | phrase: And somehow... / the day disappears.
+- Scene 018: 46.065–57.390s | 02-9 | timeline | Tomorrow again | cues [46.065, 49.905] | phrase: Then night comes. / And you think... / “Tomorrow.” / Tomorrow I'll start. / Tomorrow I'll be disciplined. / Tomorrow I'll finally take this seriously. / And for a few minutes...
+- Scene 019: 57.390–70.285s | 02-9 | timeline | you actually believe it. | cues [57.39, 62.91] | phrase: you actually believe it. / Until tomorrow becomes another tomorrow. / And eventually... / you start wondering something uncomfortable. / “If I really want this life... / why do I keep choosing the things that move me away from it?”
+- Scene 020: 70.285–74.765s | 03-1 | stack | Not a bad life | cues [70.284996, 72.045] | phrase: Because here's the strange part. / Most people don't actually choose a bad life.
+- Scene 021: 74.765–80.040s | 03-2 | stack | A comfortable moment | cues [74.765, 76.604996, 78.200005] | phrase: They choose a comfortable moment... / again and again. / And those comfortable moments...
+- Scene 022: 80.040–81.960s | 03-3 | stack | Moments become a life | cues [80.04] | phrase: eventually become their life.
+- Scene 023: 81.960–86.200s | 03-4 | stack | The important thing | cues [81.96, 84.76] | phrase: Think about the last time you had something important to do. / Maybe you had an assignment.
+- Scene 024: 86.200–87.480s | 03-5 | stack | Work still waiting | cues [86.200005] | phrase: A work project.
+- Scene 025: 87.480–88.440s | 03-6 | stack | The workout | cues [87.48] | phrase: A workout.
+- Scene 026: 88.440–90.040s | 03-7 | stack | The conversation | cues [88.44] | phrase: A difficult conversation.
+- Scene 027: 90.040–92.445s | 03-8 | stack | The delayed beginning | cues [90.04] | phrase: Or something you've been saying you would start for months.
+- Scene 028: 92.445–94.685s | 03-9 | stack | You already know | cues [92.445] | phrase: You knew exactly what needed to happen.
+- Scene 029: 94.685–98.525s | 04-1 | thought | Research is not the problem | cues [94.685, 96.284996] | phrase: There wasn't some huge mystery. / You didn't need another five hours of research.
+- Scene 030: 98.525–100.525s | 04-2 | thought | No new app required | cues [98.525] | phrase: You didn't need a new productivity app.
+- Scene 031: 100.525–103.085s | 04-3 | thought | No more motivation videos | cues [100.525] | phrase: You didn't need another motivational video.
+- Scene 032: 103.085–108.000s | 04-4 | search | Beginning feels uncomfortable | cues [103.085, 104.604996, 106.32] | phrase: You just needed to begin. / But beginning felt uncomfortable. / So you did something easier.
+- Scene 033: 108.000–109.200s | 04-5 | search | A familiar escape | cues [108.0] | phrase: You checked your phone.
+- Scene 034: 109.200–110.400s | 04-6 | search | Busywork feels useful | cues [109.2] | phrase: You made coffee.
+- Scene 035: 110.400–111.920s | 04-7 | search | Everything except the task | cues [110.4] | phrase: You organized your files.
+- Scene 036: 111.920–119.535s | 04-8 | search | Busy is not progress | cues [111.92, 115.44, 118.335] | phrase: You answered messages. / You watched something. / And strangely... / you didn't feel like you were avoiding the task. / You felt busy. / You felt productive.
+- Scene 037: 119.535–127.775s | 04-9 | search | What feels better now? | cues [119.534996, 122.575, 125.375] | phrase: But at the end of the day... / the important thing was still sitting there. / Waiting. / And this is where we misunderstand comfort. / Comfort doesn't always look like doing nothing.
+- Scene 038: 127.775–136.910s | 04-9 | search | Sometimes | cues [127.775, 130.35, 134.59001] | phrase: Sometimes... / comfort looks incredibly productive. / Because your brain isn't asking, / “What will make my life better six months from now?” / It's often asking a much simpler question.
+- Scene 039: 136.910–140.590s | 04-9 | search | What feels better right now? | cues [136.91, 138.51001, 139.31001] | phrase: “What feels better right now?” / And that difference... / changes everything.
+- Scene 040: 140.590–149.745s | 05-1 | split | Two different rewards | cues [140.59001, 145.02501] | phrase: Imagine you have two choices. / One gives you a small reward immediately. / The other gives you a much bigger reward... / but only after weeks or months of effort.
+- Scene 041: 149.745–153.025s | 05-1 | thought | Your brain naturally notices the immediate reward first. | cues [149.74501] | phrase: Your brain naturally notices the immediate reward first.
+- Scene 042: 153.025–155.265s | 05-2 | thought | Stimulation now | cues [153.02501] | phrase: Scrolling gives you stimulation now.
+- Scene 043: 155.265–157.665s | 05-3 | thought | Results later | cues [155.26501] | phrase: Working out gives you results later.
+- Scene 044: 157.665–160.220s | 05-4 | thought | Entertainment now | cues [157.66501] | phrase: Watching another video gives you entertainment now.
+- Scene 045: 160.220–162.860s | 05-5 | thought | Ability later | cues [160.22] | phrase: Learning a skill gives you ability later.
+- Scene 046: 162.860–165.660s | 05-6 | thought | Excitement now | cues [162.86] | phrase: Ordering something online gives you excitement now.
+- Scene 047: 165.660–167.900s | 05-7 | thought | Freedom later | cues [165.66] | phrase: Saving money gives you freedom later.
+- Scene 048: 167.900–169.980s | 05-8 | thought | Comfort now | cues [167.9] | phrase: Staying in bed feels comfortable now.
+- Scene 049: 169.980–173.660s | 05-9 | split | A better future | cues [169.98, 171.98] | phrase: Getting up and doing the difficult thing... / might make your future better.
+- Scene 050: 173.660–179.165s | 06-1 | timeline | The future cannot pay yet | cues [173.66, 175.725] | phrase: But your future can't give you a reward yet. / It's still somewhere ahead. / So the present has an advantage.
+- Scene 051: 179.165–180.685s | 06-2 | thought | The present is tangible | cues [179.16501] | phrase: The present is real.
+- Scene 052: 180.685–182.765s | 06-3 | thought | The future is an idea | cues [180.68501] | phrase: The future is only an idea.
+- Scene 053: 182.765–187.165s | 06-4 | timeline | Wanting and choosing differ | cues [182.765, 185.16501] | phrase: And that's why you can genuinely want success... / while repeatedly choosing comfort.
+- Scene 054: 187.165–189.405s | 06-5 | thought | The ambition can be sincere | cues [187.16501] | phrase: You're not necessarily lying to yourself.
+- Scene 055: 189.405–191.400s | 06-6 | thought | The bigger goal is real | cues [189.405] | phrase: You can sincerely want the bigger goal.
+- Scene 056: 191.400–194.840s | 06-7 | timeline | Deciding for today | cues [191.4, 194.04] | phrase: You're just making decisions for the person you are... / right now.
+- Scene 057: 194.840–196.520s | 07-1 | thought | Practice makes it easier | cues [194.84] | phrase: And there's another problem.
+- Scene 058: 196.520–203.675s | 07-2 | paths | The repeated choice | cues [196.51999, 198.51999] | phrase: The more often you choose comfort... / the easier it becomes to choose it again. / Because every decision teaches your brain something.
+- Scene 059: 203.675–209.595s | 07-3 | paths | Practice escaping | cues [203.675, 206.235] | phrase: If you repeatedly avoid difficult work... / your brain learns, / “Difficult work is something we escape from.”
+- Scene 060: 209.595–215.850s | 07-4 | paths | Practice eliminating boredom | cues [209.595, 212.55501] | phrase: If you constantly reach for your phone whenever you're bored... / your brain learns, / “Boredom must be eliminated immediately.”
+- Scene 061: 215.850–222.170s | 07-5 | paths | Practice leaving | cues [215.85, 218.73001] | phrase: If you keep quitting whenever something becomes uncomfortable... / your brain learns, / “When things get difficult, we leave.”
+- Scene 062: 222.170–227.050s | 07-6 | thought | The automatic response | cues [222.17001, 223.21, 224.89] | phrase: And eventually... / you don't even have to think about it. / The behavior becomes automatic.
+- Scene 063: 227.050–234.135s | 07-7 | thought | Knowing is not doing | cues [227.05, 230.375, 232.215] | phrase: This is why people sometimes say, / “I don't understand myself. / I know exactly what I want. / So why can't I make myself do it?”
+- Scene 064: 234.135–235.575s | 07-8 | thought | A goal is not a tolerance | cues [234.135] | phrase: Because knowing what you want...
+- Scene 065: 235.575–240.375s | 07-9 | thought | What it takes | cues [235.575, 238.295] | phrase: and being trained to tolerate what it takes to get there... / are two completely different things.
+- Scene 066: 240.375–244.880s | 08-1 | split | Ambition without tolerance | cues [240.375, 241.97499] | phrase: You can have huge ambitions... / and still have a very low tolerance for discomfort.
+- Scene 067: 244.880–250.000s | 08-2 | split | Success without risking failure | cues [244.88, 246.88] | phrase: You can dream about becoming successful... / while avoiding every situation where you might fail.
+- Scene 068: 250.000–254.640s | 08-3 | split | Safety versus confidence | cues [250.0, 251.2] | phrase: You can want confidence... / while constantly choosing situations that make you feel safe.
+- Scene 069: 254.640–259.415s | 08-4 | split | Temptation within reach | cues [254.64, 255.84] | phrase: You can want discipline... / while building a life where every temptation is within arm's reach.
+- Scene 070: 259.415–267.655s | 08-5 | split | The self-blame story | cues [259.41498, 263.175] | phrase: And this is where people often blame themselves. / They say, / “I'm lazy.” / “I'm weak.” / “I have no discipline.” / “I just don't want it badly enough.”
+- Scene 071: 267.655–270.695s | 08-6 | split | Maybe it is not the goal | cues [267.655, 268.535] | phrase: But sometimes... / the problem isn't that you don't want the goal.
+- Scene 072: 270.695–274.780s | 08-8 | split | Comfort made too easy | cues [270.69498, 273.58002] | phrase: The problem is that your current environment makes comfort... / far too easy.
+- Scene 073: 274.780–276.860s | 09-1 | stairs | Right there | cues [274.78, 275.90002] | phrase: Think about your phone. / It's right there.
+- Scene 074: 276.860–282.700s | 09-2 | stairs | Immediate and effortless | cues [276.86002, 279.26, 280.94] | phrase: One tap. / Infinite entertainment. / No effort. / No waiting. / No possibility of failure.
+- Scene 075: 282.700–285.260s | 09-3 | stairs | A very different option | cues [282.7] | phrase: Now compare that to learning something difficult.
+- Scene 076: 285.260–287.895s | 09-4 | stairs | Concentration costs effort | cues [285.26, 286.7] | phrase: You have to sit down. / You have to concentrate.
+- Scene 077: 287.895–289.575s | 09-5 | stairs | Confusion is part of practice | cues [287.895] | phrase: You're going to be confused.
+- Scene 078: 289.575–291.735s | 09-6 | stairs | The imperfect beginning | cues [289.57498] | phrase: You're going to be bad at it in the beginning.
+- Scene 079: 291.735–296.135s | 09-7 | stairs | No instant applause | cues [291.735, 293.25497] | phrase: Progress will be slow. / Nobody is going to congratulate you after thirty minutes.
+- Scene 080: 296.135–298.215s | 09-8 | stairs | Invisible progress | cues [296.13498] | phrase: The reward is almost invisible.
+- Scene 081: 298.215–305.980s | 09-9 | stairs | Pleasure now, struggle first | cues [298.215, 302.86002, 304.30002] | phrase: Of course your brain is going to notice the difference. / One option gives you pleasure immediately. / The other asks you to struggle... / before it gives you anything back.
+- Scene 082: 305.980–309.180s | 10-1 | focus | Make discipline easier | cues [305.98] | phrase: And this is why discipline isn't simply about becoming stronger.
+- Scene 083: 309.180–311.580s | 10-2 | focus | Change the first step | cues [309.18, 309.82] | phrase: Sometimes... / it's about making the right choice easier.
+- Scene 084: 311.580–312.940s | 10-3 | focus | Put the phone elsewhere | cues [311.58002] | phrase: Put your phone somewhere else.
+- Scene 085: 312.940–315.100s | 10-4 | focus | Remove the pull | cues [312.94] | phrase: Remove the apps that constantly pull you back.
+- Scene 086: 315.100–316.455s | 10-5 | focus | Prepare the clothes | cues [315.1] | phrase: Keep your workout clothes ready.
+- Scene 087: 316.455–317.975s | 10-6 | focus | Prepare the book | cues [316.455] | phrase: Keep the book on your desk.
+- Scene 088: 317.975–319.895s | 10-7 | focus | Prepare the project | cues [317.97498] | phrase: Open the project before you go to sleep.
+- Scene 089: 319.895–322.055s | 10-8 | focus | An obvious first step | cues [319.895] | phrase: Make the first step ridiculously obvious.
+- Scene 090: 322.055–330.840s | 10-9 | focus | Less fighting, more starting | cues [322.055, 326.215, 329.01498] | phrase: Because if every good decision requires a battle... / you're going to get tired of fighting yourself. / But there's something even deeper happening here. / Sometimes... / we don't choose comfort because we're lazy.
+- Scene 091: 330.840–332.840s | 10-9 | focus | We choose comfort because we're afraid. | cues [330.84] | phrase: We choose comfort because we're afraid.
+- Scene 092: 332.840–337.640s | 11-1 | window | What if you actually try? | cues [332.84, 334.84] | phrase: Because what happens if you actually try? / What happens if you start the business... / and nobody cares?
+- Scene 093: 337.640–340.520s | 11-2 | window | What if nobody watches? | cues [337.63998, 339.24] | phrase: What happens if you make the videos... / and nobody watches?
+- Scene 094: 340.520–344.345s | 11-3 | window | What if results disappoint? | cues [340.52, 342.28] | phrase: What happens if you work out for months... / and you still don't look the way you imagined?
+- Scene 095: 344.345–346.665s | 11-4 | window | What if you still fail? | cues [344.345, 345.625] | phrase: What happens if you study... / and you still fail?
+- Scene 096: 346.665–352.825s | 11-5 | window | What if you are not ready? | cues [346.665, 349.625] | phrase: What happens if you finally go after the life you've been talking about... / and discover that you're not as good as you thought? / That's uncomfortable.
+- Scene 097: 352.825–357.200s | 11-6 | iceberg | Preparation or protection? | cues [352.825, 354.505] | phrase: So sometimes... / “I'm not ready yet” / isn't really about preparation. / It's protection.
+- Scene 098: 357.200–359.520s | 11-7 | iceberg | Not started, not failed | cues [357.19998, 358.56] | phrase: As long as you haven't started... / you haven't failed.
+- Scene 099: 359.520–362.720s | 11-8 | iceberg | Untested possibility | cues [359.52, 360.8] | phrase: As long as you haven't tried... / you can still imagine that you could have been great.
+- Scene 100: 362.720–367.680s | 11-9 | iceberg | Protection has a cost | cues [362.72, 364.63998] | phrase: Comfort protects you from disappointment. / But it also protects you from discovering what you're actually capable of.
+- Scene 101: 367.680–377.835s | 12-1 | loop | Avoidance rewards itself | cues [369.28, 371.12, 375.35498, 376.79498] | phrase: And this creates a strange cycle. / You avoid the uncomfortable thing. / You feel temporary relief. / That relief teaches your brain, / “Good decision.” / So you avoid it again. / You feel guilty.
+- Scene 102: 377.835–379.675s | 12-5 | stack | A promise to change | cues [377.835] | phrase: You promise yourself you'll change.
+- Scene 103: 379.675–382.715s | 12-6 | stack | The motivated future self | cues [379.675, 381.51498] | phrase: You imagine your future self. / You feel motivated.
+- Scene 104: 382.715–384.955s | 12-7 | stack | The difficult moment returns | cues [382.715] | phrase: Then the uncomfortable moment arrives again...
+- Scene 105: 384.955–387.800s | 12-8 | stack | Back to comfort | cues [384.955, 386.555, 386.79498] | phrase: and you return to comfort. / Again. / And again.
+- Scene 106: 387.800–397.400s | 12-9 | stack | A practiced behavior can change | cues [387.8, 392.2, 395.24] | phrase: Until you start believing that you're incapable of changing. / But you're not incapable. / You've simply practiced one behavior... / more than the other. / And that means you can practice something different.
+- Scene 107: 397.400–400.515s | 13-3 | focus | You do not need a new life | cues [397.4] | phrase: You don't need to suddenly become a completely disciplined person.
+- Scene 108: 400.515–407.315s | 13-2 | focus | No perfect routine required | cues [400.515, 402.83502, 404.67502] | phrase: You don't need to wake up at five in the morning. / You don't need a perfect routine. / You don't need to transform your entire life this week.
+- Scene 109: 407.315–408.675s | 13-3 | focus | Start much smaller | cues [407.315] | phrase: Start much smaller.
+- Scene 110: 408.675–410.995s | 13-4 | focus | Before the easy option | cues [408.67502, 409.95502] | phrase: When you want to scroll... / and you know you should work...
+- Scene 111: 410.995–412.195s | 13-5 | clock | Ten minutes first | cues [411.15503, 411.15503] | phrase: work for ten minutes first.
+- Scene 112: 412.195–415.370s | 13-6 | focus | Put the shoes on | cues [412.195, 414.035] | phrase: When you don't feel like exercising... / put your shoes on first.
+- Scene 113: 415.370–419.850s | 13-7 | focus | Open the file | cues [415.37, 417.05002] | phrase: When you keep delaying a project... / open the file and do the smallest possible piece.
+- Scene 114: 419.850–424.250s | 13-8 | focus | Actually practice | cues [419.85, 421.53] | phrase: When you want to learn something... / stop collecting information and actually practice.
+- Scene 115: 424.250–431.085s | 13-9 | focus | Stay with the discomfort | cues [424.25, 426.81, 428.17] | phrase: The goal isn't to make discomfort disappear. / The goal is to teach yourself... / “I can do uncomfortable things without running away.”
+- Scene 116: 431.085–435.565s | 14-1 | stack | Collect evidence | cues [431.085, 432.925, 434.045] | phrase: Because every time you do that... / you collect evidence. / You prove something to yourself.
+- Scene 117: 435.565–437.165s | 14-2 | stack | You worked | cues [435.565, 436.285] | phrase: You said you'd work... / and you worked.
+- Scene 118: 437.165–439.565s | 14-3 | stack | You exercised | cues [437.165, 438.685] | phrase: You said you'd exercise... / and you exercised.
+- Scene 119: 439.565–441.965s | 14-4 | stack | You stopped | cues [439.565, 440.765] | phrase: You said you'd stop scrolling... / and you stopped.
+- Scene 120: 441.965–446.690s | 14-5 | stack | Tiny is not meaningless | cues [441.965, 445.65] | phrase: These tiny moments might look meaningless. / But they're not.
+- Scene 121: 446.690–449.250s | 14-6 | stack | Change your self-trust | cues [446.69] | phrase: They're changing your relationship with yourself.
+- Scene 122: 449.250–452.450s | 14-7 | focus | Not punishment | cues [449.25, 450.44998] | phrase: Eventually... / discipline stops feeling like punishment.
+- Scene 123: 452.450–458.105s | 14-8 | focus | Stop negotiating | cues [452.44998, 455.65, 456.69] | phrase: Because you're no longer constantly negotiating with yourself. / You don't ask, / “Do I feel like doing this?”
+- Scene 124: 458.105–468.265s | 14-9 | focus | The next step | cues [458.10498, 462.025, 465.865] | phrase: You ask, / “This is what I decided. / So what's the next step?” / And that's when something important happens. / You stop needing to feel motivated... / to act like the person you want to become.
+- Scene 125: 468.265–472.050s | 15-1 | paths | A future built by choices | cues [468.26498, 469.705] | phrase: Because the truth is... / your future isn't created by the goals you think about.
+- Scene 126: 472.050–474.450s | 15-2 | thought | What you repeat | cues [472.05] | phrase: It's created by the choices you repeat.
+- Scene 127: 474.450–480.050s | 15-3 | paths | Comfort can train dependence | cues [474.44998, 475.72998] | phrase: You can want freedom... / but if you constantly choose short-term comfort, / you are practicing dependence.
+- Scene 128: 480.050–486.425s | 15-4 | paths | Safety can train avoidance | cues [480.05, 481.56998] | phrase: You can want confidence... / but if you constantly avoid situations where you might fail, / you are practicing avoidance.
+- Scene 129: 486.425–492.345s | 15-5 | paths | Easy can train escape | cues [486.425, 487.625] | phrase: You can want success... / but if you always choose the easiest option, / you're training yourself to escape difficulty.
+- Scene 130: 492.345–496.585s | 15-6 | switch | Do not make life miserable | cues [492.345, 495.065] | phrase: And none of this means you should make your life miserable. / Comfort isn't the enemy.
+- Scene 131: 496.585–497.945s | 15-7 | thought | Rest matters | cues [496.585] | phrase: Rest is important.
+- Scene 132: 497.945–501.500s | 15-8 | switch | Enjoyment matters | cues [497.945, 499.545] | phrase: Entertainment is important. / Enjoying your life is important.
+- Scene 133: 501.500–506.940s | 15-9 | switch | Comfort as the default | cues [501.5, 505.1] | phrase: The problem begins when comfort becomes your default response... / to anything difficult.
+- Scene 134: 506.940–512.140s | 16-1 | stairs | Easy now, difficult later | cues [506.94, 508.46002, 509.90002] | phrase: Because sometimes... / the easiest choice today... / creates the hardest life tomorrow.
+- Scene 135: 512.140–515.665s | 16-2 | stairs | Difficult now, easier later | cues [512.14, 512.86, 513.82] | phrase: And sometimes... / the harder choice today... / creates an easier life later.
+- Scene 136: 515.665–517.585s | 16-3 | stairs | Study instead of scrolling | cues [515.665] | phrase: Studying when you'd rather scroll.
+- Scene 137: 517.585–519.425s | 16-4 | stairs | Save instead of spending | cues [517.585] | phrase: Saving when you'd rather spend.
+- Scene 138: 519.425–521.345s | 16-5 | stairs | Practice instead of watching | cues [519.425] | phrase: Practicing when you'd rather watch.
+- Scene 139: 521.345–523.905s | 16-6 | stairs | Go instead of staying | cues [521.34503] | phrase: Going to the gym when you'd rather stay in bed.
+- Scene 140: 523.905–526.625s | 16-7 | stairs | Have the conversation | cues [523.905] | phrase: Having the difficult conversation instead of avoiding it.
+- Scene 141: 526.625–529.850s | 16-8 | stairs | Start and finish | cues [526.625, 528.00995] | phrase: Starting before you're ready. / Finishing what you said you'd finish.
+- Scene 142: 529.850–539.610s | 16-9 | stairs | An ordinary different life | cues [529.85, 535.29, 537.52997] | phrase: These choices don't always feel powerful while you're making them. / Most of the time... / they feel boring. / Ordinary. / Almost invisible. / But that's how a different life is usually built.
+- Scene 143: 539.610–546.465s | 16-9 | stairs | Not through one massive decision. | cues [539.61, 543.185, 544.705] | phrase: Not through one massive decision. / Through hundreds of small moments... / where you choose what matters... / over what feels easiest.
+- Scene 144: 546.465–552.065s | 17-1 | switch | Notice this moment | cues [546.46497, 548.705] | phrase: So the next time you catch yourself saying, / “I really want to change my life... / but I just can't seem to do it,”
+- Scene 145: 552.065–555.280s | 17-2 | switch | Not another motivation hunt | cues [552.065, 553.505] | phrase: don't immediately ask yourself, / “How can I become more motivated?”
+- Scene 146: 555.280–558.000s | 17-3 | switch | What am I choosing? | cues [555.27997, 556.56] | phrase: Ask something else. / “What am I choosing right now?”
+- Scene 147: 558.000–562.640s | 17-4 | switch | What I want, or what is easy? | cues [558.0, 560.0] | phrase: Am I choosing the thing I actually want? / Or am I choosing the thing that makes this moment easier?
+- Scene 148: 562.640–564.640s | 17-5 | thought | You can keep your comfort | cues [562.64] | phrase: Because you don't have to destroy your comfort.
+- Scene 149: 564.640–566.880s | 17-6 | thought | Not productivity obsession | cues [564.64] | phrase: You don't have to become obsessed with productivity.
+- Scene 150: 566.880–569.285s | 17-7 | thought | Not constant struggle | cues [566.88] | phrase: You don't have to turn your life into a constant struggle.
+- Scene 151: 569.285–573.125s | 17-8 | switch | Temporary or permanent? | cues [569.28503, 571.28503] | phrase: You just need to stop letting temporary comfort... / make permanent decisions for you.
+- Scene 152: 573.125–581.940s | 17-9 | switch | Willing to do the hard parts | cues [573.125, 576.565] | phrase: You want success. / That's okay. / You want a better life. / That's okay. / But eventually... / you have to become willing to experience the uncomfortable parts... / of getting there.
+- Scene 153: 581.940–587.780s | 18-1 | paths | Hidden behind the first step | cues [581.94, 583.14] | phrase: Because the life you want... / is usually hidden behind things you don't feel like doing. / The workout you don't want to start.
+- Scene 154: 587.780–589.220s | 18-2 | thought | Not good at it yet | cues [587.78] | phrase: The skill you're not good at yet.
+- Scene 155: 589.220–590.900s | 18-3 | thought | A project that might fail | cues [589.22003] | phrase: The project you're afraid might fail.
+- Scene 156: 590.900–592.740s | 18-4 | thought | The conversation waiting | cues [590.9] | phrase: The conversation you've been avoiding.
+- Scene 157: 592.740–594.340s | 18-5 | thought | An imperfect first attempt | cues [592.74] | phrase: The first attempt that won't be perfect.
+- Scene 158: 594.340–596.195s | 18-6 | thought | The work nobody sees | cues [594.34] | phrase: The boring repetition nobody sees.
+- Scene 159: 596.195–603.715s | 18-7 | paths | One different choice | cues [596.195, 598.515] | phrase: And maybe... / you don't need more motivation. / Maybe you don't need another plan. / Maybe you don't need to become a completely different person overnight. / Maybe...
+- Scene 160: 603.715–608.590s | 18-7 | paths | you just need to make one different choice | cues [603.71497, 605.955] | phrase: you just need to make one different choice... / the next time comfort asks you to stay the same.
+- Scene 161: 608.590–616.670s | 18-8 | stairs | One decision at a time | cues [608.58997, 613.55, 615.14996] | phrase: Because every time you choose what matters... / over what feels easy... / you're becoming someone different. / Slowly. / Quietly. / One decision at a time.
+- Scene 162: 616.670–625.615s | 18-9 | focus | What would that person do next? | cues [616.67, 620.43, 624.335] | phrase: So don't ask yourself, / “How do I become successful?” / Ask yourself... / “What would the person I want to become... / do next?” / Then do that. / Even if it's small.
+- Scene 163: 625.615–634.655s | 18-9 | focus | Even if it's uncomfortable. | cues [625.615, 631.295, 633.695] | phrase: Even if it's uncomfortable. / Even if nobody notices. / Because your future isn't waiting somewhere far away. / You're building it... / with what you choose today. / Think deeper.
+- Scene 164: 634.655–637.883s | 18-9 | focus | Live better. | cues [634.655, 635.615, 636.575] | phrase: Live better. / Become more. / This is Why We Become.
+
+## Panel use inventory
+- 01-1: used
+- 01-2: used
+- 01-3: used
+- 01-4: used
+- 01-5: used
+- 01-6: used
+- 01-7: used
+- 01-8: used
+- 01-9: used
+- 02-1: used
+- 02-2: used
+- 02-3: used
+- 02-4: used
+- 02-5: used
+- 02-6: used
+- 02-7: used
+- 02-8: used
+- 02-9: used
+- 03-1: used
+- 03-2: used
+- 03-3: used
+- 03-4: used
+- 03-5: used
+- 03-6: used
+- 03-7: used
+- 03-8: used
+- 03-9: used
+- 04-1: used
+- 04-2: used
+- 04-3: used
+- 04-4: used
+- 04-5: used
+- 04-6: used
+- 04-7: used
+- 04-8: used
+- 04-9: used
+- 05-1: used
+- 05-2: used
+- 05-3: used
+- 05-4: used
+- 05-5: used
+- 05-6: used
+- 05-7: used
+- 05-8: used
+- 05-9: used
+- 06-1: used
+- 06-2: used
+- 06-3: used
+- 06-4: used
+- 06-5: used
+- 06-6: used
+- 06-7: used
+- 06-8: intentionally omitted: no separate spoken beat requires it; avoid arbitrary quota cuts
+- 06-9: intentionally omitted: no separate spoken beat requires it; avoid arbitrary quota cuts
+- 07-1: used
+- 07-2: used
+- 07-3: used
+- 07-4: used
+- 07-5: used
+- 07-6: used
+- 07-7: used
+- 07-8: used
+- 07-9: used
+- 08-1: used
+- 08-2: used
+- 08-3: used
+- 08-4: used
+- 08-5: used
+- 08-6: used
+- 08-7: intentionally omitted: no separate spoken beat requires it; avoid arbitrary quota cuts
+- 08-8: used
+- 08-9: intentionally omitted: no separate spoken beat requires it; avoid arbitrary quota cuts
+- 09-1: used
+- 09-2: used
+- 09-3: used
+- 09-4: used
+- 09-5: used
+- 09-6: used
+- 09-7: used
+- 09-8: used
+- 09-9: used
+- 10-1: used
+- 10-2: used
+- 10-3: used
+- 10-4: used
+- 10-5: used
+- 10-6: used
+- 10-7: used
+- 10-8: used
+- 10-9: used
+- 11-1: used
+- 11-2: used
+- 11-3: used
+- 11-4: used
+- 11-5: used
+- 11-6: used
+- 11-7: used
+- 11-8: used
+- 11-9: used
+- 12-1: used
+- 12-2: intentionally omitted: no separate spoken beat requires it; avoid arbitrary quota cuts
+- 12-3: intentionally omitted: no separate spoken beat requires it; avoid arbitrary quota cuts
+- 12-4: intentionally omitted: no separate spoken beat requires it; avoid arbitrary quota cuts
+- 12-5: used
+- 12-6: used
+- 12-7: used
+- 12-8: used
+- 12-9: used
+- 13-1: intentionally omitted: generated pseudo-writing
+- 13-2: used
+- 13-3: used
+- 13-4: used
+- 13-5: used
+- 13-6: used
+- 13-7: used
+- 13-8: used
+- 13-9: used
+- 14-1: used
+- 14-2: used
+- 14-3: used
+- 14-4: used
+- 14-5: used
+- 14-6: used
+- 14-7: used
+- 14-8: used
+- 14-9: used
+- 15-1: used
+- 15-2: used
+- 15-3: used
+- 15-4: used
+- 15-5: used
+- 15-6: used
+- 15-7: used
+- 15-8: used
+- 15-9: used
+- 16-1: used
+- 16-2: used
+- 16-3: used
+- 16-4: used
+- 16-5: used
+- 16-6: used
+- 16-7: used
+- 16-8: used
+- 16-9: used
+- 17-1: used
+- 17-2: used
+- 17-3: used
+- 17-4: used
+- 17-5: used
+- 17-6: used
+- 17-7: used
+- 17-8: used
+- 17-9: used
+- 18-1: used
+- 18-2: used
+- 18-3: used
+- 18-4: used
+- 18-5: used
+- 18-6: used
+- 18-7: used
+- 18-8: used
+- 18-9: used

@@ -1,0 +1,135 @@
+{
+  "status": "prompts_only_not_generated",
+  "contact_sheets": [
+    {
+      "id": "sheet-01",
+      "filename": "sheet-01.png",
+      "name": "The life you imagine",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Character studying a distant sunrise.\n2. Coin jar beside modest workbench.\n3. Character beside an open doorway.\n4. Character standing upright before mirror.\n5. Shoes ready beside a small clock.\n6. Character building a simple wooden object.\n7. Character approaching a dumbbell.\n8. Character practicing with a sketchbook.\n9. Sleepy character reaching toward bedside alarm.",
+      "word_count": 114
+    },
+    {
+      "id": "sheet-02",
+      "filename": "sheet-02.png",
+      "name": "The everyday detour",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Unfinished laptop beside glowing phone.\n2. Character choosing phone over work.\n3. Unused exercise mat beside sofa.\n4. Character postponing an unopened project.\n5. Character tidying an already-clean shelf.\n6. Character watching a blank video screen.\n7. Character stacking unused planning notebooks.\n8. Daylight fading behind seated character.\n9. Repeated blank calendar pages beside bed.",
+      "word_count": 114
+    },
+    {
+      "id": "sheet-03",
+      "filename": "sheet-03.png",
+      "name": "Comfortable moments accumulate",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Character choosing one soft cushion.\n2. Several cushions becoming a enclosing wall.\n3. Character inside a comfortable cushion enclosure.\n4. Character facing an assignment notebook.\n5. Character before an unfinished workbench.\n6. Character beside untouched workout equipment.\n7. Two characters avoiding eye contact.\n8. Character outside an unopened project doorway.\n9. Character noticing an obvious first step.",
+      "word_count": 116
+    },
+    {
+      "id": "sheet-04",
+      "filename": "sheet-04.png",
+      "name": "Busy is not progress",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Character buried behind research books.\n2. Character juggling blank productivity screens.\n3. Character watching motivational silhouette on screen.\n4. Character hesitating before an empty desk.\n5. Character reaching for a phone.\n6. Character making an elaborate coffee.\n7. Character arranging blank folders precisely.\n8. Character answering an overflowing message tray.\n9. Untouched important notebook beneath busywork pile.",
+      "word_count": 116
+    },
+    {
+      "id": "sheet-05",
+      "filename": "sheet-05.png",
+      "name": "Now versus later",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Character between small treat and distant workshop.\n2. Phone offering a tiny immediate spark.\n3. Character lifting a modest dumbbell.\n4. Character watching a blank entertainment screen.\n5. Character practicing a difficult craft.\n6. Character receiving a small shopping parcel.\n7. Character placing one coin into savings jar.\n8. Character resting under a soft blanket.\n9. Character approaching a difficult doorway.",
+      "word_count": 120
+    },
+    {
+      "id": "sheet-06",
+      "filename": "sheet-06.png",
+      "name": "The present has an advantage",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Character reaching toward a distant unmarked horizon.\n2. Solid nearby chair beside faint distant doorway.\n3. Character comparing tangible phone and distant workshop.\n4. Character sincerely looking toward personal goal.\n5. Character holding ambition notebook beside comfortable chair.\n6. Character balancing present need and future intention.\n7. Character facing two choices without villain imagery.\n8. Character beside unfinished bridge toward tomorrow.\n9. Character taking one tentative bridge step.",
+      "word_count": 127
+    },
+    {
+      "id": "sheet-07",
+      "filename": "sheet-07.png",
+      "name": "Practicing avoidance",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Character walking a familiar circular path.\n2. Character leaving a difficult desk.\n3. Bored character immediately reaching toward phone.\n4. Character abandoning a partly built object.\n5. Repeated shallow footprints around comfort chair.\n6. Character automatically opening phone beside desk.\n7. Character looking puzzled at own repeated footprints.\n8. Character holding goal notebook before difficult staircase.\n9. Character pausing on first stair without fleeing.",
+      "word_count": 123
+    },
+    {
+      "id": "sheet-08",
+      "filename": "sheet-08.png",
+      "name": "Ambition meets environment",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Character viewing large aspiration through small doorway.\n2. Character stepping away from imperfect first attempt.\n3. Character sheltering behind a small safety screen.\n4. Tempting phone and snacks within arm reach.\n5. Character under a cloud of blank thought bubbles.\n6. Character facing a distorted self-reflection.\n7. Character carrying an unnecessarily heavy burden.\n8. Comfort chair directly beside unfinished work.\n9. Character surveying a room designed for distraction.",
+      "word_count": 127
+    },
+    {
+      "id": "sheet-09",
+      "filename": "sheet-09.png",
+      "name": "Easy pleasure, invisible progress",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Phone immediately beside resting hand.\n2. Character tapping blank entertainment tiles.\n3. Character before an unfamiliar lesson notebook.\n4. Character struggling with a simple practice puzzle.\n5. Character correcting an imperfect sketch.\n6. Small unfinished practice pieces accumulating.\n7. Character practicing alone without an audience.\n8. Tiny sprout beside an ordinary practice desk.\n9. Character comparing soft chair and challenging workbench.",
+      "word_count": 120
+    },
+    {
+      "id": "sheet-10",
+      "filename": "sheet-10.png",
+      "name": "Make the right choice easier",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Character removing an obstacle from desk path.\n2. Phone placed on distant room shelf.\n3. Character setting distraction device inside closed drawer.\n4. Workout clothing neatly prepared beside shoes.\n5. Open book on uncluttered desk.\n6. Open project notebook ready before bedtime.\n7. Single accessible tool beside first workpiece.\n8. Exhausted character lowering an imaginary shield.\n9. Character cautiously peeking beyond a protective curtain.",
+      "word_count": 123
+    },
+    {
+      "id": "sheet-11",
+      "filename": "sheet-11.png",
+      "name": "Comfort as protection",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Character opening a small empty shop.\n2. Character filming beside an empty viewing bench.\n3. Character beside weights and imperfect mirror reflection.\n4. Character facing a difficult exam notebook.\n5. Character uncovering an unfinished personal creation.\n6. Character holding a shield before a starting doorway.\n7. Untouched tools safely wrapped in a box.\n8. Imagined finished sculpture beside covered real clay.\n9. Character inside soft enclosure with open exit.",
+      "word_count": 128
+    },
+    {
+      "id": "sheet-12",
+      "filename": "sheet-12.png",
+      "name": "The relief cycle",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Character turning away from difficult work.\n2. Character relaxing immediately in soft chair.\n3. Character retracing familiar avoidance footprints.\n4. Character noticing unfinished notebook with lowered shoulders.\n5. Character making a fresh promise beside sunrise.\n6. Character imagining confident future reflection.\n7. Character encountering the same difficult workbench.\n8. Character returning toward familiar comfort chair.\n9. Character noticing a second previously unused path.",
+      "word_count": 122
+    },
+    {
+      "id": "sheet-13",
+      "filename": "sheet-13.png",
+      "name": "Start smaller",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Character lowering an oversized routine checklist.\n2. Character ignoring dramatic pre-dawn alarm ritual.\n3. One small tool beside a manageable workpiece.\n4. Phone set aside beside short-work timer.\n5. Character sitting down for one small work session.\n6. Character putting on exercise shoes.\n7. Character opening one project notebook.\n8. Character making a single imperfect practice mark.\n9. Character staying calmly beside an unfinished task.",
+      "word_count": 124
+    },
+    {
+      "id": "sheet-14",
+      "filename": "sheet-14.png",
+      "name": "Evidence and self-trust",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Character placing a small finished piece on shelf.\n2. Character completing a modest desk task.\n3. Character returning shoes after a workout.\n4. Character setting phone down intentionally.\n5. Several ordinary completed pieces neatly accumulating.\n6. Character meeting own reflection with relaxed posture.\n7. Character lowering imaginary punishment weight.\n8. Character stepping past competing blank thought bubbles.\n9. Character calmly reaching for next prepared tool.",
+      "word_count": 124
+    },
+    {
+      "id": "sheet-15",
+      "filename": "sheet-15.png",
+      "name": "What you repeat becomes your life",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Character standing on repeated small stepping stones.\n2. Character watching a distant goal without moving.\n3. Repeated phone-reaching footprints beside comfortable chair.\n4. Character repeatedly circling a safe enclosure.\n5. Character leaving unfinished attempts at doorway.\n6. Character resting peacefully beneath a tree.\n7. Character enjoying a simple shared game.\n8. Character returning from rest to workbench.\n9. Comfort chair separated from an open working doorway.",
+      "word_count": 125
+    },
+    {
+      "id": "sheet-16",
+      "filename": "sheet-16.png",
+      "name": "Ordinary choices, different future",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Soft shortcut ending before a difficult barrier.\n2. Steeper path opening toward a calm valley.\n3. Character studying beside an inactive phone.\n4. Character saving a coin beside tempting parcel.\n5. Character practicing rather than watching a screen.\n6. Character entering a modest exercise space.\n7. Two characters beginning an honest conversation.\n8. Character starting an imperfect handmade object.\n9. Many small stepping stones forming a workable path.",
+      "word_count": 127
+    },
+    {
+      "id": "sheet-17",
+      "filename": "sheet-17.png",
+      "name": "Choose what matters",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Character noticing hand reaching for phone.\n2. Character pausing between comfort chair and workbench.\n3. Character looking toward personally meaningful doorway.\n4. Soft cushion resting beside an unfinished task.\n5. Character gently moving chair away from threshold.\n6. Character protecting a small peaceful resting corner.\n7. Character balancing rest and purposeful effort.\n8. Character accepting an imperfect difficult first step.\n9. Character approaching a slightly open doorway.",
+      "word_count": 126
+    },
+    {
+      "id": "sheet-18",
+      "filename": "sheet-18.png",
+      "name": "Build your future today",
+      "prompt": "Create a 3840x2160 landscape contact sheet: 3x3 grid, nine 16:9 panels, thin black dividers. Use attached canonical stickman reference: round white head, charcoal hoodie, rust-orange lining. Editorial ink doodle, warm paper #F7F4EE, rust wash #C8623C. Odd panels: subject right, left 40% blank; even panels: reverse. Every panel: bottom 20% clear. No words, numbers, logos or diagrams. Row-major panels:\n1. Character stepping toward waiting exercise shoes.\n2. Character practicing an unfamiliar skill slowly.\n3. Character uncovering a project despite uncertainty.\n4. Two characters moving chairs toward honest conversation.\n5. Character making an imperfect first clay shape.\n6. Character repeating small craft movements alone.\n7. Character choosing a different fork from familiar path.\n8. Character laying one stone toward sunrise.\n9. Character standing calmly beside an open horizon.",
+      "word_count": 126
+    }
+  ],
+  "thumbnail": {
+    "filename": "thumbnail.png",
+    "prompt": "Create one 1920x1080 landscape editorial thumbnail, not a grid. Use the attached canonical stickman: round white head, charcoal hoodie with rust-orange lining. Warm paper #F7F4EE, expressive charcoal ink, rust-orange watercolor #C8623C, tiny restrained gold accent. Right side: the character sinks into a soft armchair whose cushions subtly encircle them; one hand reaches toward an open doorway and a single upward step, but a phone holds their attention. Psychological tension, not ridicule. One clear focal character, bold silhouette, minimal props, strong readability at mobile size. Leave left 40% completely clean for manually added headline \u201cCOMFORT IS COSTING YOU\u201d. Generate no text, letters, logos, arrows, watermarks or extra characters. Keep all key elements away from outer edges."
+  }
+}
