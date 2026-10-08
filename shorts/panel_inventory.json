@@ -1,0 +1,117 @@
+[
+  {
+    "panel": "04-4",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "04-5",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "04-8",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "04-9",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "07-2",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "07-3",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "12-1",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "12-2",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "12-3",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "12-6",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "12-7",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "12-8",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "12-9",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "13-2",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "13-3",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "13-4",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "13-5",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "13-6",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "13-7",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "13-8",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "13-9",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "14-1",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  },
+  {
+    "panel": "14-2",
+    "source": "Supplied selected landscape cell; foreground recomposed at native portrait geometry",
+    "neural": "Existing FSRCNN 4x reconstruction"
+  }
+]

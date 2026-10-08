@@ -1,0 +1,53 @@
+name: Render Success Comfort Shorts
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  portrait:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    strategy:
+      fail-fast: false
+      matrix:
+        short: [0, 1, 2]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install direct media tools and Python wheels
+        run: |
+          mkdir -p media-dist "$RUNNER_TEMP/media-tools"
+          curl -fL --retry 2 --connect-timeout 20 https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-linux64-gpl.tar.xz -o media-dist/ffmpeg.tar.xz
+          tar -xJf media-dist/ffmpeg.tar.xz -C media-dist
+          FF=$(find media-dist -type f -name ffmpeg | head -n 1)
+          FP=$(find media-dist -type f -name ffprobe | head -n 1)
+          ln -sf "$PWD/$FF" "$RUNNER_TEMP/media-tools/ffmpeg"
+          ln -sf "$PWD/$FP" "$RUNNER_TEMP/media-tools/ffprobe"
+          echo "$RUNNER_TEMP/media-tools" >> "$GITHUB_PATH"
+          pip install --only-binary=:all: numpy pillow opencv-contrib-python-headless
+      - name: Prepare original voice and reconstructed panels
+        run: |
+          ffmpeg -y -loglevel error -i assets/voiceover.flac -c:a pcm_s16le assets/voiceover.wav
+          python upscale_art.py
+      - name: Render complete native portrait Short
+        run: python shorts/render_shorts.py ${{ matrix.short }}
+      - name: Record exact reviewed build
+        run: |
+          python - <<'PY'
+          import os,json,pathlib
+          p=pathlib.Path('shorts/output/build-provenance.json');p.write_text(json.dumps({'head_sha':os.environ['GITHUB_SHA'],'run_id':os.environ['GITHUB_RUN_ID'],'short_index':int('${{ matrix.short }}')},indent=2))
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: comfort-short-${{ matrix.short }}
+          path: |
+            shorts/output/*.mp4
+            shorts/output/*.mp3
+            shorts/output/*.png
+            shorts/output/*.json
+            shorts/output/*.md
+            shorts/output/*.ass
+            shorts/output/qa/*actual*.png
+          retention-days: 14

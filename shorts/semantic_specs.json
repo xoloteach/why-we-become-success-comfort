@@ -1,0 +1,458 @@
+[
+  [
+    {
+      "anchor": "Comfort doesn't always look like doing nothing.",
+      "art": "04-8",
+      "kind": "search",
+      "title": "COMFORT CAN\nLOOK PRODUCTIVE.",
+      "labels": [
+        "BUSY IS NOT PROGRESS"
+      ],
+      "cue_anchors": [
+        "Comfort doesn't always look like doing nothing."
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "You just needed to begin.",
+      "art": "04-4",
+      "kind": "split",
+      "title": "BEGINNING\nFEELS HARD.",
+      "labels": [
+        "THE TASK",
+        "THE EASY DETOUR"
+      ],
+      "cue_anchors": [
+        "You just needed to begin.",
+        "So you did something easier."
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "You checked your phone.",
+      "art": "04-5",
+      "kind": "stack",
+      "title": "EASIER IS\nNOT PROGRESS.",
+      "labels": [
+        "PHONE",
+        "COFFEE",
+        "FILES"
+      ],
+      "cue_anchors": [
+        "You checked your phone.",
+        "You made coffee.",
+        "You organized your files."
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "You answered messages.",
+      "art": "04-8",
+      "kind": "stack",
+      "title": "EVERYTHING\nEXCEPT THE TASK.",
+      "labels": [
+        "MESSAGES",
+        "ANOTHER VIDEO"
+      ],
+      "cue_anchors": [
+        "You answered messages.",
+        "You watched something."
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "And strangely...",
+      "art": "04-9",
+      "kind": "search",
+      "title": "IT FELT\nPRODUCTIVE.",
+      "labels": [
+        "YOU FELT BUSY"
+      ],
+      "cue_anchors": [
+        "You felt busy."
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "But at the end of the day...",
+      "art": "04-4",
+      "kind": "search",
+      "title": "THE WORK\nIS STILL WAITING.",
+      "labels": [
+        "THE IMPORTANT THING"
+      ],
+      "cue_anchors": [
+        "the important thing was still sitting there."
+      ],
+      "dark": true
+    },
+    {
+      "anchor": "Because your brain isn't asking,",
+      "art": "04-9",
+      "kind": "split",
+      "title": "TWO DIFFERENT\nQUESTIONS.",
+      "labels": [
+        "BETTER IN SIX MONTHS?",
+        "BETTER RIGHT NOW?"
+      ],
+      "cue_anchors": [
+        "\u201cWhat will make my life better six months from now?\u201d",
+        "\u201cWhat feels better right now?\u201d"
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "It's often asking a much simpler question.",
+      "art": "04-5",
+      "kind": "split",
+      "title": "BETTER NOW?\nOR BETTER LATER?",
+      "labels": [
+        "LONG-TERM LIFE",
+        "THIS MOMENT"
+      ],
+      "cue_anchors": [
+        "\u201cWhat will make my life better six months from now?\u201d",
+        "\u201cWhat feels better right now?\u201d"
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "And that difference...",
+      "art": "04-4",
+      "kind": "split",
+      "title": "BUSY IS NOT\nPROGRESS.",
+      "labels": [
+        "A BETTER LIFE",
+        "AN EASIER MOMENT"
+      ],
+      "cue_anchors": [
+        "\u201cWhat will make my life better six months from now?\u201d",
+        "\u201cWhat feels better right now?\u201d"
+      ],
+      "dark": true
+    }
+  ],
+  [
+    {
+      "anchor": "The more often you choose comfort...",
+      "art": "07-2",
+      "kind": "paths",
+      "title": "COMFORT\nTRAINS YOU.",
+      "labels": [
+        "THE CHOICE",
+        "THE NEXT CHOICE"
+      ],
+      "cue_anchors": [
+        "The more often you choose comfort...",
+        "the easier it becomes to choose it again."
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "Because every decision teaches your brain something.",
+      "art": "07-3",
+      "kind": "paths",
+      "title": "EVERY CHOICE\nTEACHES.",
+      "labels": [
+        "YOUR ACTION",
+        "YOUR LEARNED RESPONSE"
+      ],
+      "cue_anchors": [
+        "Because every decision teaches your brain something.",
+        "Because every decision teaches your brain something."
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "You avoid the uncomfortable thing.",
+      "art": "12-1",
+      "kind": "loop",
+      "title": "THE RELIEF\nTRAP.",
+      "labels": [
+        "AVOID",
+        "RELIEF",
+        "GUILT",
+        "PROMISE"
+      ],
+      "cue_anchors": [
+        "You avoid the uncomfortable thing.",
+        "You feel temporary relief.",
+        "You feel guilty.",
+        "You promise yourself you'll change."
+      ],
+      "dark": true
+    },
+    {
+      "anchor": "That relief teaches your brain,",
+      "art": "12-2",
+      "kind": "loop",
+      "title": "RELIEF FEELS\nLIKE A REWARD.",
+      "labels": [
+        "AVOID",
+        "RELIEF",
+        "GUILT",
+        "PROMISE"
+      ],
+      "cue_anchors": [
+        "You avoid the uncomfortable thing.",
+        "You feel temporary relief.",
+        "You feel guilty.",
+        "You promise yourself you'll change."
+      ],
+      "dark": true
+    },
+    {
+      "anchor": "So you avoid it again.",
+      "art": "12-3",
+      "kind": "loop",
+      "title": "THE LOOP\nREPEATS.",
+      "labels": [
+        "AVOID",
+        "RELIEF",
+        "GUILT",
+        "PROMISE"
+      ],
+      "cue_anchors": [
+        "You avoid the uncomfortable thing.",
+        "You feel temporary relief.",
+        "You feel guilty.",
+        "You promise yourself you'll change."
+      ],
+      "dark": true
+    },
+    {
+      "anchor": "You imagine your future self.",
+      "art": "12-6",
+      "kind": "switch",
+      "title": "MOTIVATED\nFOR A MOMENT.",
+      "labels": [
+        "THE FUTURE SELF",
+        "THE HARD MOMENT"
+      ],
+      "cue_anchors": [
+        "You imagine your future self.",
+        "Then the uncomfortable moment arrives again..."
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "Then the uncomfortable moment arrives again...",
+      "art": "12-7",
+      "kind": "switch",
+      "title": "THEN THE HARD\nMOMENT RETURNS.",
+      "labels": [
+        "THE PROMISE",
+        "BACK TO COMFORT"
+      ],
+      "cue_anchors": [
+        "You promise yourself you'll change.",
+        "and you return to comfort."
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "Again.",
+      "art": "12-8",
+      "kind": "loop",
+      "title": "RELIEF IS\nNOT CHANGE.",
+      "labels": [
+        "AVOID",
+        "RELIEF",
+        "GUILT",
+        "PROMISE"
+      ],
+      "cue_anchors": [
+        "You avoid the uncomfortable thing.",
+        "You feel temporary relief.",
+        "You feel guilty.",
+        "You promise yourself you'll change."
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "Until you start believing that you're incapable of changing.",
+      "art": "12-9",
+      "kind": "paths",
+      "title": "PRACTICED.\nNOT PERMANENT.",
+      "labels": [
+        "PRACTICED AVOIDANCE",
+        "A DIFFERENT PRACTICE"
+      ],
+      "cue_anchors": [
+        "You've simply practiced one behavior...",
+        "And that means you can practice something different."
+      ],
+      "dark": true
+    },
+    {
+      "anchor": "But you're not incapable.",
+      "art": "13-9",
+      "kind": "paths",
+      "title": "YOU ARE NOT\nINCAPABLE.",
+      "labels": [
+        "ONE PRACTICED BEHAVIOR",
+        "PRACTICE SOMETHING ELSE"
+      ],
+      "cue_anchors": [
+        "You've simply practiced one behavior...",
+        "And that means you can practice something different."
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "And that means you can practice something different.",
+      "art": "13-3",
+      "kind": "paths",
+      "title": "PRACTICE\nSOMETHING DIFFERENT.",
+      "labels": [
+        "THE OLD RESPONSE",
+        "A DIFFERENT CHOICE"
+      ],
+      "cue_anchors": [
+        "You've simply practiced one behavior...",
+        "And that means you can practice something different."
+      ],
+      "dark": false
+    }
+  ],
+  [
+    {
+      "anchor": "You don't need to wake up at five in the morning.",
+      "art": "13-2",
+      "kind": "focus",
+      "title": "NOT 5 AM.\nNOT PERFECTION.",
+      "labels": [
+        "NO PERFECT ROUTINE"
+      ],
+      "cue_anchors": [
+        "You don't need a perfect routine."
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "You don't need to transform your entire life this week.",
+      "art": "13-3",
+      "kind": "focus",
+      "title": "NOT YOUR\nWHOLE LIFE.",
+      "labels": [
+        "ONE SMALLER START"
+      ],
+      "cue_anchors": [
+        "Start much smaller."
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "Start much smaller.",
+      "art": "13-4",
+      "kind": "focus",
+      "title": "START\nMUCH SMALLER.",
+      "labels": [
+        "THE NEXT ACTION"
+      ],
+      "cue_anchors": [
+        "Start much smaller."
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "When you want to scroll...",
+      "art": "13-5",
+      "kind": "clock",
+      "title": "BEFORE\nYOU SCROLL.",
+      "labels": [
+        "10 MIN",
+        "WORK FIRST"
+      ],
+      "cue_anchors": [
+        "@ten minutes first",
+        "work for ten minutes first."
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "When you don't feel like exercising...",
+      "art": "13-6",
+      "kind": "stack",
+      "title": "SHOES\nON FIRST.",
+      "labels": [
+        "PUT YOUR SHOES ON"
+      ],
+      "cue_anchors": [
+        "put your shoes on first."
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "When you keep delaying a project...",
+      "art": "13-7",
+      "kind": "stack",
+      "title": "OPEN THE FILE.\nDO ONE PIECE.",
+      "labels": [
+        "OPEN THE FILE",
+        "THE SMALLEST PIECE"
+      ],
+      "cue_anchors": [
+        "open the file and do the smallest possible piece.",
+        "@smallest possible piece"
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "When you want to learn something...",
+      "art": "13-8",
+      "kind": "stack",
+      "title": "STOP COLLECTING.\nSTART PRACTICING.",
+      "labels": [
+        "INFORMATION",
+        "ACTUAL PRACTICE"
+      ],
+      "cue_anchors": [
+        "@collecting information",
+        "@actually practice"
+      ],
+      "dark": false
+    },
+    {
+      "anchor": "The goal isn't to make discomfort disappear.",
+      "art": "13-9",
+      "kind": "focus",
+      "title": "DISCOMFORT\nDOES NOT HAVE TO GO.",
+      "labels": [
+        "DO NOT RUN AWAY"
+      ],
+      "cue_anchors": [
+        "\u201cI can do uncomfortable things without running away.\u201d"
+      ],
+      "dark": true
+    },
+    {
+      "anchor": "The goal is to teach yourself...",
+      "art": "14-1",
+      "kind": "focus",
+      "title": "I CAN DO\nHARD THINGS.",
+      "labels": [
+        "WITHOUT RUNNING AWAY"
+      ],
+      "cue_anchors": [
+        "\u201cI can do uncomfortable things without running away.\u201d"
+      ],
+      "dark": true
+    },
+    {
+      "anchor": "Because every time you do that...",
+      "art": "14-2",
+      "kind": "stack",
+      "title": "SMALL ACTIONS.\nREAL EVIDENCE.",
+      "labels": [
+        "COLLECT EVIDENCE",
+        "PROVE IT TO YOURSELF"
+      ],
+      "cue_anchors": [
+        "you collect evidence.",
+        "You prove something to yourself."
+      ],
+      "dark": false
+    }
+  ]
+]

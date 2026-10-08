@@ -13,3 +13,8 @@ v2/layers/
 v2/upscaled/
 *.wav
 *.mp4
+
+shorts/output/
+shorts/*.log
+shorts/*.pid
+media-dist/
